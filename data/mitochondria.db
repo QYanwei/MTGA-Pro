@@ -1,0 +1,3857 @@
+3	T	_	_	1	1864	_	D-loop	_	_	_	_
+9	G	_	1864	_	1	_	D-loop	_	_	_	_
+10	T	_	_	4	1861	_	D-loop	_	_	_	_
+11	C	_	_	1864	1	_	D-loop	_	_	_	_
+41	C	_	_	1863	2	_	D-loop	_	_	_	_
+42	T	_	_	1	1864	_	D-loop	_	_	_	_
+55	T	2	_	4	1859	_	D-loop	_	_	_	_
+57	T	_	1	2	1862	_	D-loop	_	_	_	_
+59	T	_	_	2	1863	_	D-loop	_	_	_	_
+61	C	_	_	1863	2	_	D-loop	_	_	_	_
+62	G	2	1862	_	1	_	D-loop	_	_	_	_
+63	T	_	_	6	1859	_	D-loop	_	_	_	_
+64	C	_	_	1838	27	_	D-loop	_	_	_	_
+66	G	2	1860	_	1	2	D-loop	_	_	_	_
+68	G	6	1859	_	_	_	D-loop	_	_	_	_
+69	G	1	1864	_	_	_	D-loop	_	_	_	_
+70	G	1	1864	_	_	_	D-loop	_	_	_	_
+72	T	_	_	71	1794	_	D-loop	_	_	_	_
+73	A	309	1555	1	_	_	D-loop	_	_	_	_
+75	G	2	1863	_	_	_	D-loop	_	_	_	_
+84	A	1864	_	1	_	_	D-loop	_	_	_	_
+89	T	_	_	11	1854	_	D-loop	_	_	_	_
+92	G	6	1859	_	_	_	D-loop	_	_	_	_
+93	A	1824	41	_	_	_	D-loop	_	_	_	_
+94	G	18	1847	_	_	_	D-loop	_	_	_	_
+95	A	1858	_	6	1	_	D-loop	_	_	_	_
+103	G	16	1848	1	_	_	D-loop	_	_	_	_
+114	C	_	_	1856	9	_	D-loop	_	_	_	_
+119	T	_	_	2	1863	_	D-loop	_	_	_	_
+125	T	_	_	4	1861	_	D-loop	_	_	_	_
+127	T	_	_	5	1860	_	D-loop	_	_	_	_
+128	C	_	_	1862	3	_	D-loop	_	_	_	_
+131	T	_	_	13	1852	_	D-loop	_	_	_	_
+143	G	25	1840	_	_	_	D-loop	_	_	_	_
+146	T	1	_	190	1674	_	D-loop	_	_	_	_
+150	C	_	2	1616	247	_	D-loop	_	_	_	_
+151	C	_	_	1817	48	_	D-loop	_	_	_	_
+152	T	_	_	396	1469	_	D-loop	_	_	_	_
+153	A	1840	25	_	_	_	D-loop	_	_	_	_
+154	T	_	_	2	1863	_	D-loop	_	_	_	_
+173	T	_	_	2	1863	_	D-loop	_	_	_	_
+180	T	_	_	1	1864	_	D-loop	_	_	_	_
+182	C	_	_	1851	14	_	D-loop	_	_	_	_
+183	A	1845	20	_	_	_	D-loop	_	_	_	_
+185	G	55	1807	_	3	_	D-loop	_	_	_	_
+186	C	9	_	1853	3	_	D-loop	_	_	_	_
+188	A	1845	20	_	_	_	D-loop	_	_	_	_
+189	A	1782	75	8	_	_	D-loop	_	_	_	_
+191	A	1864	1	_	_	_	D-loop	_	_	_	_
+192	T	_	_	3	1862	_	D-loop	_	_	_	_
+193	A	1864	1	_	_	_	D-loop	_	_	_	_
+194	C	_	_	1797	68	_	D-loop	_	_	_	_
+195	T	11	_	280	1574	_	D-loop	_	_	_	_
+196	T	_	_	4	1861	_	D-loop	_	_	_	_
+197	A	1864	_	1	_	_	D-loop	_	_	_	_
+198	C	_	_	1843	22	_	D-loop	_	_	_	_
+199	T	_	_	121	1744	_	D-loop	_	_	_	_
+200	A	1827	37	_	_	_	D-loop	_	_	_	_
+202	A	1850	15	_	_	_	D-loop	_	_	_	_
+203	G	11	1854	_	_	_	D-loop	_	_	_	_
+204	T	_	_	123	1741	_	D-loop	_	_	_	_
+205	G	2	1863	_	_	_	D-loop	_	_	_	_
+207	G	123	1742	_	_	_	D-loop	_	_	_	_
+208	T	_	_	2	1863	_	D-loop	_	_	_	_
+209	T	_	_	1	1864	_	D-loop	_	_	_	_
+210	A	1854	11	_	_	_	D-loop	_	_	_	_
+211	A	1858	7	_	_	_	D-loop	_	_	_	_
+212	T	_	_	5	1860	_	D-loop	_	_	_	_
+214	A	1853	12	_	_	_	D-loop	_	_	_	_
+215	A	1854	11	_	_	_	D-loop	_	_	_	_
+217	T	_	_	18	1847	_	D-loop	_	_	_	_
+225	G	10	1855	_	_	_	D-loop	_	_	_	_
+226	T	_	_	2	1863	_	D-loop	_	_	_	_
+227	A	1834	30	_	1	_	D-loop	_	_	_	_
+228	G	57	1805	_	3	_	D-loop	_	_	_	_
+234	A	1852	13	_	_	_	D-loop	_	_	_	_
+235	A	1805	60	_	_	_	D-loop	_	_	_	_
+236	T	_	_	12	1853	_	D-loop	_	_	_	_
+237	A	1864	1	_	_	_	D-loop	_	_	_	_
+239	T	_	_	4	1861	_	D-loop	_	_	_	_
+241	A	1864	1	_	_	_	D-loop	_	_	_	_
+242	C	_	_	1854	11	_	D-loop	_	_	_	_
+243	A	1864	1	_	_	_	D-loop	_	_	_	_
+246	T	_	_	2	1863	_	D-loop	_	_	_	_
+247	G	20	1841	_	_	4	D-loop	_	_	_	_
+248	A	1758	4	_	_	103	D-loop	_	_	_	_
+249	A	1860	5	_	_	_	D-loop	_	_	_	_
+250	T	_	_	17	1848	_	D-loop	_	_	_	_
+252	T	_	_	3	1864	_	D-loop	_	_	_	_
+255	G	1	1866	_	_	_	D-loop	_	_	_	_
+257	A	1863	4	_	_	_	D-loop	_	_	_	_
+259	A	1866	1	_	_	_	D-loop	_	_	_	_
+260	G	11	1856	_	_	_	D-loop	_	_	_	_
+263	A	6	1861	_	_	_	D-loop	_	_	_	_
+264	C	_	_	1865	2	_	D-loop	_	_	_	_
+265	T	_	_	1	1866	_	D-loop	_	_	_	_
+270	A	1865	2	_	_	_	D-loop	_	_	_	_
+271	C	_	3	1862	2	_	D-loop	_	_	_	_
+272	A	1866	1	_	_	_	D-loop	_	_	_	_
+279	T	_	_	6	1861	_	D-loop	_	_	_	_
+280	C	_	1	1859	7	_	D-loop	_	_	_	_
+281	A	1865	2	_	_	_	D-loop	_	_	_	_
+282	T	_	_	4	1863	_	D-loop	_	_	_	_
+284	A	1863	4	_	_	_	D-loop	_	_	_	_
+285	C	_	_	1860	7	_	D-loop	_	_	_	_
+286	A	1861	_	_	_	6	D-loop	_	_	_	_
+287	A	1861	_	_	_	6	D-loop	_	_	_	_
+291	A	1866	1	_	_	_	D-loop	_	_	_	_
+295	C	4	_	1788	75	_	D-loop	_	_	_	_
+297	A	1859	8	_	_	_	D-loop	_	_	_	_
+298	C	_	_	1861	4	2	D-loop	_	_	_	_
+302	A	1865	_	_	_	2	D-loop	_	_	_	_
+303	C	_	_	1725	_	142	D-loop	_	_	_	_
+304	C	_	_	1807	_	60	D-loop	_	_	_	_
+305	C	_	_	1851	_	16	D-loop	_	_	_	_
+306	C	_	_	1863	_	4	D-loop	_	_	_	_
+308	C	_	_	1866	1	_	D-loop	_	_	_	_
+309	C	_	_	1866	1	_	D-loop	_	_	_	_
+310	T	_	_	18	1849	_	D-loop	_	_	_	_
+311	C	_	_	1830	8	29	D-loop	_	_	_	_
+315	C	_	_	1863	4	_	D-loop	_	_	_	_
+316	G	10	1857	_	_	_	D-loop	_	_	_	_
+317	C	1	2	1864	_	_	D-loop	_	_	_	_
+318	T	_	_	5	1862	_	D-loop	_	_	_	_
+319	T	_	_	3	1864	_	D-loop	_	_	_	_
+320	C	_	_	1865	2	_	D-loop	_	_	_	_
+322	G	3	1864	_	_	_	D-loop	_	_	_	_
+324	C	_	_	1866	1	_	D-loop	_	_	_	_
+325	C	_	_	1862	5	_	D-loop	_	_	_	_
+326	A	1863	4	_	_	_	D-loop	_	_	_	_
+329	G	1	1866	_	_	_	D-loop	_	_	_	_
+330	C	_	1	1866	_	_	D-loop	_	_	_	_
+334	T	_	_	2	1865	_	D-loop	_	_	_	_
+335	A	1866	_	_	_	1	D-loop	_	_	_	_
+337	A	1865	2	_	_	_	D-loop	_	_	_	_
+338	C	_	_	1863	4	_	D-loop	_	_	_	_
+339	A	1866	1	_	_	_	D-loop	_	_	_	_
+340	C	_	_	1861	6	_	D-loop	_	_	_	_
+345	C	_	_	1866	1	_	D-loop	_	_	_	_
+348	C	_	1	1865	1	_	D-loop	_	_	_	_
+351	A	1866	_	1	_	_	D-loop	_	_	_	_
+357	A	1864	3	_	_	_	D-loop	_	_	_	_
+361	A	1866	1	_	_	_	D-loop	_	_	_	_
+368	A	1865	2	_	_	_	D-loop	_	_	_	_
+370	C	_	_	1866	1	_	D-loop	_	_	_	_
+373	A	1855	12	_	_	_	D-loop	_	_	_	_
+374	A	1866	1	_	_	_	D-loop	_	_	_	_
+380	G	_	1866	1	_	_	D-loop	_	_	_	_
+382	C	_	1	1866	_	_	D-loop	_	_	_	_
+384	A	1866	1	_	_	_	D-loop	_	_	_	_
+385	A	1861	5	_	1	_	D-loop	_	_	_	_
+400	T	_	1	_	1866	_	D-loop	_	_	_	_
+408	T	6	_	_	1861	_	D-loop	_	_	_	_
+418	C	_	_	1866	1	_	D-loop	_	_	_	_
+431	C	1	_	1852	14	_	D-loop	_	_	_	_
+437	C	_	_	2138	6	_	D-loop	_	_	_	_
+441	C	_	_	2143	1	_	D-loop	_	_	_	_
+447	C	_	5	2139	_	_	D-loop	_	_	_	_
+449	T	_	_	1	2143	_	D-loop	_	_	_	_
+452	T	_	_	_	2143	1	D-loop	_	_	_	_
+453	T	_	_	2	2142	_	D-loop	_	_	_	_
+456	C	_	_	2097	45	2	D-loop	_	_	_	_
+458	C	_	_	2141	3	_	D-loop	_	_	_	_
+459	C	_	_	2143	1	_	D-loop	_	_	_	_
+460	T	_	_	2	2142	_	D-loop	_	_	_	_
+462	C	_	_	2073	71	_	D-loop	_	_	_	_
+464	A	2141	3	_	_	_	D-loop	_	_	_	_
+465	C	_	_	2143	1	_	D-loop	_	_	_	_
+466	T	_	_	4	2140	_	D-loop	_	_	_	_
+467	C	_	_	2137	7	_	D-loop	_	_	_	_
+469	C	_	2	2142	_	_	D-loop	_	_	_	_
+471	T	_	_	3	2141	_	D-loop	_	_	_	_
+474	T	_	_	1	2143	_	D-loop	_	_	_	_
+477	T	_	1	19	2124	_	D-loop	_	_	_	_
+479	A	2143	1	_	_	_	D-loop	_	_	_	_
+480	T	_	_	7	2137	_	D-loop	_	_	_	_
+481	C	_	_	2141	3	_	D-loop	_	_	_	_
+482	T	_	_	16	2128	_	D-loop	_	_	_	_
+485	T	_	_	10	2134	_	D-loop	_	_	_	_
+489	T	_	_	777	1367	_	D-loop	_	_	_	_
+493	A	2140	4	_	_	_	D-loop	_	_	_	_
+494	C	_	_	2123	_	21	D-loop	_	_	_	_
+495	C	_	_	2143	1	_	D-loop	_	_	_	_
+497	C	_	_	2094	49	1	D-loop	_	_	_	_
+498	C	_	_	2143	1	_	D-loop	_	_	_	_
+499	G	38	2106	_	_	_	D-loop	_	_	_	_
+502	C	_	_	2143	1	_	D-loop	_	_	_	_
+504	T	_	_	1	2143	_	D-loop	_	_	_	_
+505	C	_	_	2143	1	_	D-loop	_	_	_	_
+506	C	_	_	2143	1	_	D-loop	_	_	_	_
+508	A	2130	14	_	_	_	D-loop	_	_	_	_
+509	C	_	_	2140	4	_	D-loop	_	_	_	_
+511	C	_	_	2143	1	_	D-loop	_	_	_	_
+512	A	2142	_	2	_	_	D-loop	_	_	_	_
+513	G	27	2115	_	_	2	D-loop	_	_	_	_
+514	C	_	_	1575	_	569	D-loop	_	_	_	_
+515	A	1573	1	_	_	570	D-loop	_	_	_	_
+516	C	_	_	2138	2	4	D-loop	_	_	_	_
+517	A	2141	1	_	_	2	D-loop	_	_	_	_
+519	A	2143	_	_	_	1	D-loop	_	_	_	_
+520	C	_	_	2143	_	1	D-loop	_	_	_	_
+522	C	_	_	2143	1	_	D-loop	_	_	_	_
+525	C	_	_	2143	_	1	D-loop	_	_	_	_
+527	C	_	_	2143	1	_	D-loop	_	_	_	_
+530	C	_	_	2143	1	_	D-loop	_	_	_	_
+533	A	2142	2	_	_	_	D-loop	_	_	_	_
+534	C	_	_	2143	1	_	D-loop	_	_	_	_
+537	C	_	_	2142	2	_	D-loop	_	_	_	_
+539	T	_	_	1	2143	_	D-loop	_	_	_	_
+545	G	2	2142	_	_	_	D-loop	_	_	_	_
+546	A	2141	3	_	_	_	D-loop	_	_	_	_
+547	A	2143	1	_	_	_	D-loop	_	_	_	_
+548	C	_	_	2141	3	_	D-loop	_	_	_	_
+549	C	_	_	2143	1	_	D-loop	_	_	_	_
+568	C	_	_	2133	_	11	D-loop	_	_	_	_
+569	C	_	_	2142	_	2	D-loop	_	_	_	_
+570	C	_	_	2142	_	2	D-loop	_	_	_	_
+571	C	_	_	2143	1	_	D-loop	_	_	_	_
+574	A	2142	1	_	_	1	D-loop	_	_	_	_
+591	C	2	_	2702	_	_	tRNA Phe	_	_	_	_
+593	T	_	_	16	2688	_	tRNA Phe	_	_	_	_
+594	C	_	_	2703	1	_	tRNA Phe	_	_	_	_
+597	C	_	_	2701	3	_	tRNA Phe	_	_	_	_
+603	A	2703	1	_	_	_	tRNA Phe	_	_	_	_
+606	A	2703	1	_	_	_	tRNA Phe	_	_	_	_
+629	T	_	_	4	2700	_	tRNA Phe	_	_	_	_
+633	A	2702	2	_	_	_	tRNA Phe	_	_	_	_
+644	A	2703	1	_	_	_	tRNA Phe	_	_	_	_
+654	T	_	_	2	2702	_	12S rRNA	_	_	_	_
+656	T	_	_	3	2701	_	12S rRNA	_	_	_	_
+663	A	2618	86	_	_	_	12S rRNA	_	_	_	_
+669	T	_	_	1	2703	_	12S rRNA	_	_	_	_
+678	T	_	_	1	2703	_	12S rRNA	_	_	_	_
+680	T	_	_	7	2697	_	12S rRNA	_	_	_	_
+681	T	_	_	11	2693	_	12S rRNA	_	_	_	_
+686	A	2703	1	_	_	_	12S rRNA	_	_	_	_
+699	A	2702	2	_	_	_	12S rRNA	_	_	_	_
+702	C	_	_	2703	1	_	12S rRNA	_	_	_	_
+709	G	444	2260	_	_	_	12S rRNA	_	_	_	_
+710	T	1	_	24	2679	_	12S rRNA	_	_	_	_
+714	A	2703	1	_	_	_	12S rRNA	_	_	_	_
+719	G	8	2696	_	_	_	12S rRNA	_	_	_	_
+721	T	_	_	5	2699	_	12S rRNA	_	_	_	_
+722	C	_	_	2703	1	_	12S rRNA	_	_	_	_
+723	A	2694	5	5	_	_	12S rRNA	_	_	_	_
+729	T	_	_	1	2703	_	12S rRNA	_	_	_	_
+731	A	2702	2	_	_	_	12S rRNA	_	_	_	_
+732	A	2703	1	_	_	_	12S rRNA	_	_	_	_
+735	A	2701	3	_	_	_	12S rRNA	_	_	_	_
+736	C	_	_	2703	1	_	12S rRNA	_	_	_	_
+738	A	2702	2	_	_	_	12S rRNA	_	_	_	_
+739	C	_	_	2701	3	_	12S rRNA	_	_	_	_
+740	G	18	2686	_	_	_	12S rRNA	_	_	_	_
+742	T	_	_	2	2702	_	12S rRNA	_	_	_	_
+745	A	2703	1	_	_	_	12S rRNA	_	_	_	_
+748	G	1	2703	_	_	_	12S rRNA	_	_	_	_
+750	A	22	2682	_	_	_	12S rRNA	_	_	_	_
+752	C	_	_	2684	20	_	12S rRNA	_	_	_	_
+761	A	2702	2	_	_	_	12S rRNA	_	_	_	_
+769	G	149	2555	_	_	_	12S rRNA	_	_	_	_
+770	C	_	_	2703	1	_	12S rRNA	_	_	_	_
+773	T	_	_	1	2703	_	12S rRNA	_	_	_	_
+783	A	2703	1	_	_	_	12S rRNA	_	_	_	_
+789	T	_	_	1	2703	_	12S rRNA	_	_	_	_
+793	C	_	_	2701	3	_	12S rRNA	_	_	_	_
+794	T	4	_	2	2698	_	12S rRNA	_	_	_	_
+813	A	2660	44	_	_	_	12S rRNA	_	_	_	_
+814	A	2703	1	_	_	_	12S rRNA	_	_	_	_
+824	T	_	_	1	2703	_	12S rRNA	_	_	_	_
+825	T	86	_	_	2618	_	12S rRNA	_	_	_	_
+827	A	2650	54	_	_	_	12S rRNA	_	_	_	_
+850	T	_	_	2	2702	_	12S rRNA	_	_	_	_
+851	A	2702	2	_	_	_	12S rRNA	_	_	_	_
+856	A	2696	8	_	_	_	12S rRNA	_	_	_	_
+861	T	_	_	1	2703	_	12S rRNA	_	_	_	_
+866	A	2703	1	_	_	_	12S rRNA	_	_	_	_
+867	C	_	_	2703	1	_	12S rRNA	_	_	_	_
+869	C	_	_	2703	1	_	12S rRNA	_	_	_	_
+870	C	_	_	2701	3	_	12S rRNA	_	_	_	_
+906	C	_	_	2703	1	_	12S rRNA	_	_	_	_
+921	T	_	_	18	2686	_	12S rRNA	_	_	_	_
+930	G	61	2643	_	_	_	12S rRNA	_	_	_	_
+942	A	2701	3	_	_	_	12S rRNA	_	_	_	_
+951	G	8	2696	_	_	_	12S rRNA	_	_	_	_
+953	T	_	_	1	2703	_	12S rRNA	_	_	_	_
+954	C	_	_	2702	2	_	12S rRNA	_	_	_	_
+956	C	_	_	2696	_	8	12S rRNA	_	_	_	_
+958	C	_	_	2703	1	_	12S rRNA	_	_	_	_
+961	T	_	5	37	2662	_	12S rRNA	_	_	_	_
+962	C	_	_	2703	_	1	12S rRNA	_	_	_	_
+964	C	1	_	2703	_	_	12S rRNA	_	_	_	_
+965	C	1	_	2703	_	_	12S rRNA	_	_	_	_
+966	A	2702	_	2	_	_	12S rRNA	_	_	_	_
+978	A	2702	2	_	_	_	12S rRNA	_	_	_	_
+979	C	_	_	2703	1	_	12S rRNA	_	_	_	_
+980	T	_	_	14	2690	_	12S rRNA	_	_	_	_
+981	C	_	_	2703	1	_	12S rRNA	_	_	_	_
+982	A	2703	1	_	_	_	12S rRNA	_	_	_	_
+983	C	_	_	2702	2	_	12S rRNA	_	_	_	_
+984	C	1	_	2703	_	_	12S rRNA	_	_	_	_
+986	G	_	2703	_	1	_	12S rRNA	_	_	_	_
+988	G	4	2700	_	_	_	12S rRNA	_	_	_	_
+998	A	2702	1	_	_	1	12S rRNA	_	_	_	_
+1002	C	_	_	2703	1	_	12S rRNA	_	_	_	_
+1005	T	_	_	7	2696	_	12S rRNA	_	_	_	_
+1007	G	5	2698	1	_	_	12S rRNA	_	_	_	_
+1008	A	2703	1	_	_	_	12S rRNA	_	_	_	_
+1009	C	_	_	2702	2	_	12S rRNA	_	_	_	_
+1018	G	150	2554	_	_	_	12S rRNA	_	_	_	_
+1019	A	2702	2	_	_	_	12S rRNA	_	_	_	_
+1040	T	_	_	2	2702	_	12S rRNA	_	_	_	_
+1041	A	2690	14	_	_	_	12S rRNA	_	_	_	_
+1048	C	_	_	2653	51	_	12S rRNA	_	_	_	_
+1053	A	2703	_	_	1	_	12S rRNA	_	_	_	_
+1095	T	_	_	5	2699	_	12S rRNA	_	_	_	_
+1107	T	_	_	34	2670	_	12S rRNA	_	_	_	_
+1116	A	2703	1	_	_	_	12S rRNA	_	_	_	_
+1117	A	2703	1	_	_	_	12S rRNA	_	_	_	_
+1118	A	2703	1	_	_	_	12S rRNA	_	_	_	_
+1119	T	_	_	26	2678	_	12S rRNA	_	_	_	_
+1148	A	2702	2	_	_	_	12S rRNA	_	_	_	_
+1161	A	2703	1	_	_	_	12S rRNA	_	_	_	_
+1166	A	2703	_	_	_	1	12S rRNA	_	_	_	_
+1185	C	_	_	2702	2	_	12S rRNA	_	_	_	_
+1187	T	_	_	1	2703	_	12S rRNA	_	_	_	_
+1189	T	_	_	104	2600	_	12S rRNA	_	_	_	_
+1193	T	_	_	8	2696	_	12S rRNA	_	_	_	_
+1211	G	5	2699	_	_	_	12S rRNA	_	_	_	_
+1243	T	_	_	57	2647	_	12S rRNA	_	_	_	_
+1263	G	1	2703	_	_	_	12S rRNA	_	_	_	_
+1282	G	2	2702	_	_	_	12S rRNA	_	_	_	_
+1290	C	_	_	2701	3	_	12S rRNA	_	_	_	_
+1291	T	_	_	3	2701	_	12S rRNA	_	_	_	_
+1299	A	2701	3	_	_	_	12S rRNA	_	_	_	_
+1303	G	1	2703	_	_	_	12S rRNA	_	_	_	_
+1309	A	2702	2	_	_	_	12S rRNA	_	_	_	_
+1310	C	_	_	2693	11	_	12S rRNA	_	_	_	_
+1313	A	2702	2	_	_	_	12S rRNA	_	_	_	_
+1342	C	_	_	2701	3	_	12S rRNA	_	_	_	_
+1346	A	2703	1	_	_	_	12S rRNA	_	_	_	_
+1375	C	_	_	2699	5	_	12S rRNA	_	_	_	_
+1382	A	2639	_	65	_	_	12S rRNA	_	_	_	_
+1391	T	_	_	7	2697	_	12S rRNA	_	_	_	_
+1393	G	5	2698	_	_	_	12S rRNA	_	_	_	_
+1402	A	2703	_	1	_	_	12S rRNA	_	_	_	_
+1405	C	_	_	2703	1	_	12S rRNA	_	_	_	_
+1406	T	_	_	10	2694	_	12S rRNA	_	_	_	_
+1407	T	2	_	_	2702	_	12S rRNA	_	_	_	_
+1413	T	_	_	1	2703	_	12S rRNA	_	_	_	_
+1415	G	1	2703	_	_	_	12S rRNA	_	_	_	_
+1420	T	_	_	3	2701	_	12S rRNA	_	_	_	_
+1438	A	84	2620	_	_	_	12S rRNA	_	_	_	_
+1440	G	2	2702	_	_	_	12S rRNA	_	_	_	_
+1442	G	31	2673	_	_	_	12S rRNA	_	_	_	_
+1452	T	_	_	2	2702	_	12S rRNA	_	_	_	_
+1462	G	9	2695	_	_	_	12S rRNA	_	_	_	_
+1494	C	_	_	2703	1	_	12S rRNA	_	_	_	_
+1495	C	_	_	2703	1	_	12S rRNA	_	_	_	_
+1498	C	_	_	2703	1	_	12S rRNA	_	_	_	_
+1503	G	5	2699	_	_	_	12S rRNA	_	_	_	_
+1508	C	_	_	2701	3	_	12S rRNA	_	_	_	_
+1520	T	_	_	3	2701	_	12S rRNA	_	_	_	_
+1524	A	2697	7	_	_	_	12S rRNA	_	_	_	_
+1531	C	_	_	2702	2	_	12S rRNA	_	_	_	_
+1536	A	2702	2	_	_	_	12S rRNA	_	_	_	_
+1539	C	1	_	2703	_	_	12S rRNA	_	_	_	_
+1541	T	_	_	13	2691	_	12S rRNA	_	_	_	_
+1555	A	2692	12	_	_	_	12S rRNA	_	_	_	_
+1585	A	2703	1	_	_	_	12S rRNA	_	_	_	_
+1598	G	67	2637	_	_	_	12S rRNA	_	_	_	_
+1608	G	1	2703	_	_	_	tRNA Val	_	_	_	_
+1618	A	2703	1	_	_	_	tRNA Val	_	_	_	_
+1619	C	_	_	2703	1	_	tRNA Val	_	_	_	_
+1625	A	2702	2	_	_	_	tRNA Val	_	_	_	_
+1628	C	_	_	2703	1	_	tRNA Val	_	_	_	_
+1656	A	2703	1	_	_	_	tRNA Val	_	_	_	_
+1657	C	_	_	2703	1	_	tRNA Val	_	_	_	_
+1662	C	_	_	2703	1	_	tRNA Val	_	_	_	_
+1664	G	5	2699	_	_	_	tRNA Val	_	_	_	_
+1670	A	2703	_	_	1	_	tRNA Val	_	_	_	_
+1692	A	2694	3	_	7	_	16S rRNA	_	_	_	_
+1694	T	_	_	2	2702	_	16S rRNA	_	_	_	_
+1700	T	_	_	5	2699	_	16S rRNA	_	_	_	_
+1703	C	_	_	2698	5	_	16S rRNA	_	_	_	_
+1706	C	_	_	2696	8	_	16S rRNA	_	_	_	_
+1708	A	2703	_	_	1	_	16S rRNA	_	_	_	_
+1709	G	13	2691	_	_	_	16S rRNA	_	_	_	_
+1715	C	_	_	2701	3	_	16S rRNA	_	_	_	_
+1717	T	_	_	2	2702	_	16S rRNA	_	_	_	_
+1719	G	111	2593	_	_	_	16S rRNA	_	_	_	_
+1721	C	_	_	2690	14	_	16S rRNA	_	_	_	_
+1733	C	_	_	2703	1	_	16S rRNA	_	_	_	_
+1734	C	_	_	2702	2	_	16S rRNA	_	_	_	_
+1736	A	2620	84	_	_	_	16S rRNA	_	_	_	_
+1738	T	_	_	22	2682	_	16S rRNA	_	_	_	_
+1760	G	1	2703	_	_	_	16S rRNA	_	_	_	_
+1766	T	_	_	3	2701	_	16S rRNA	_	_	_	_
+1768	G	1	2703	_	_	_	16S rRNA	_	_	_	_
+1780	T	_	_	6	2698	_	16S rRNA	_	_	_	_
+1790	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+1799	T	_	_	1	2703	_	16S rRNA	_	_	_	_
+1804	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+1808	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+1809	T	_	_	2	2702	_	16S rRNA	_	_	_	_
+1811	A	2500	204	_	_	_	16S rRNA	_	_	_	_
+1819	T	_	_	3	2701	_	16S rRNA	_	_	_	_
+1822	T	_	_	6	2698	_	16S rRNA	_	_	_	_
+1824	T	_	_	4	2700	_	16S rRNA	_	_	_	_
+1834	T	_	_	3	2701	_	16S rRNA	_	_	_	_
+1836	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+1842	A	2699	5	_	_	_	16S rRNA	_	_	_	_
+1850	T	_	_	6	2698	_	16S rRNA	_	_	_	_
+1872	T	_	_	1	2703	_	16S rRNA	_	_	_	_
+1888	G	144	2560	_	_	_	16S rRNA	_	_	_	_
+1891	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+1892	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+1900	A	2702	2	_	_	_	16S rRNA	_	_	_	_
+1927	G	1	2703	_	_	_	16S rRNA	_	_	_	_
+1943	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+1977	T	_	_	5	2699	_	16S rRNA	_	_	_	_
+1978	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+1995	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+2000	C	_	_	2700	4	_	16S rRNA	_	_	_	_
+2010	T	_	_	1	2703	_	16S rRNA	_	_	_	_
+2045	A	2699	5	_	_	_	16S rRNA	_	_	_	_
+2056	G	6	2698	_	_	_	16S rRNA	_	_	_	_
+2060	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+2061	C	_	_	2703	1	_	16S rRNA	_	_	_	_
+2070	C	_	_	2703	1	_	16S rRNA	_	_	_	_
+2079	C	_	_	2703	1	_	16S rRNA	_	_	_	_
+2080	T	_	_	1	2703	_	16S rRNA	_	_	_	_
+2083	T	_	_	3	2701	_	16S rRNA	_	_	_	_
+2092	C	_	_	2685	19	_	16S rRNA	_	_	_	_
+2093	T	_	_	1	2703	_	16S rRNA	_	_	_	_
+2098	G	2	2702	_	_	_	16S rRNA	_	_	_	_
+2109	A	2702	2	_	_	_	16S rRNA	_	_	_	_
+2135	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+2140	G	1	2703	_	_	_	16S rRNA	_	_	_	_
+2141	T	_	_	3	2701	_	16S rRNA	_	_	_	_
+2145	G	2	2702	_	_	_	16S rRNA	_	_	_	_
+2157	T	_	_	1	2703	_	16S rRNA	_	_	_	_
+2158	T	_	_	14	2690	_	16S rRNA	_	_	_	_
+2159	T	_	_	3	2701	_	16S rRNA	_	_	_	_
+2177	T	_	_	1	2703	_	16S rRNA	_	_	_	_
+2178	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+2179	A	2703	_	_	1	_	16S rRNA	_	_	_	_
+2217	C	_	_	2699	5	_	16S rRNA	_	_	_	_
+2218	C	_	_	2693	11	_	16S rRNA	_	_	_	_
+2220	A	2701	3	_	_	_	16S rRNA	_	_	_	_
+2222	T	_	_	1	2703	_	16S rRNA	_	_	_	_
+2223	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+2225	C	2	_	2702	_	_	16S rRNA	_	_	_	_
+2226	T	_	_	2	2702	_	16S rRNA	_	_	_	_
+2245	A	2682	20	2	_	_	16S rRNA	_	_	_	_
+2246	A	2699	5	_	_	_	16S rRNA	_	_	_	_
+2259	C	_	_	2687	17	_	16S rRNA	_	_	_	_
+2262	C	_	_	2703	1	_	16S rRNA	_	_	_	_
+2263	C	2	_	2702	_	_	16S rRNA	_	_	_	_
+2280	C	_	_	2702	2	_	16S rRNA	_	_	_	_
+2281	A	2702	1	1	_	_	16S rRNA	_	_	_	_
+2282	C	_	_	2703	1	_	16S rRNA	_	_	_	_
+2283	C	_	_	2702	2	_	16S rRNA	_	_	_	_
+2294	A	2699	4	_	_	_	16S rRNA	_	_	_	_
+2308	A	2695	9	_	_	_	16S rRNA	_	_	_	_
+2315	A	2701	3	_	_	_	16S rRNA	_	_	_	_
+2322	C	1	_	2702	1	_	16S rRNA	_	_	_	_
+2330	T	_	_	3	2701	_	16S rRNA	_	_	_	_
+2331	C	1	_	2703	_	_	16S rRNA	_	_	_	_
+2332	C	_	_	2685	19	_	16S rRNA	_	_	_	_
+2351	T	_	_	2	2702	_	16S rRNA	_	_	_	_
+2352	T	_	_	52	2652	_	16S rRNA	_	_	_	_
+2355	A	2701	3	_	_	_	16S rRNA	_	_	_	_
+2356	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+2358	A	2696	8	_	_	_	16S rRNA	_	_	_	_
+2359	C	_	_	2703	1	_	16S rRNA	_	_	_	_
+2361	G	4	2700	_	_	_	16S rRNA	_	_	_	_
+2370	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+2380	C	_	_	2698	6	_	16S rRNA	_	_	_	_
+2386	C	1	_	2702	1	_	16S rRNA	_	_	_	_
+2387	T	_	_	6	2698	_	16S rRNA	_	_	_	_
+2389	C	_	_	2703	1	_	16S rRNA	_	_	_	_
+2392	T	_	_	2	2702	_	16S rRNA	_	_	_	_
+2395	A	2676	_	_	_	28	16S rRNA	_	_	_	_
+2397	C	_	_	2703	1	_	16S rRNA	_	_	_	_
+2404	T	_	_	3	2701	_	16S rRNA	_	_	_	_
+2416	T	_	_	69	2635	_	16S rRNA	_	_	_	_
+2442	T	_	_	6	2698	_	16S rRNA	_	_	_	_
+2445	T	_	_	1	2703	_	16S rRNA	_	_	_	_
+2483	T	_	_	7	2697	_	16S rRNA	_	_	_	_
+2486	T	_	_	1	2703	_	16S rRNA	_	_	_	_
+2550	A	2703	_	_	1	_	16S rRNA	_	_	_	_
+2581	A	2698	6	_	_	_	16S rRNA	_	_	_	_
+2614	T	_	_	1	2703	_	16S rRNA	_	_	_	_
+2626	T	_	_	50	2654	_	16S rRNA	_	_	_	_
+2638	T	_	_	1	2703	_	16S rRNA	_	_	_	_
+2639	C	_	_	2699	5	_	16S rRNA	_	_	_	_
+2650	C	_	_	2703	1	_	16S rRNA	_	_	_	_
+2674	T	_	_	1	2703	_	16S rRNA	_	_	_	_
+2702	G	2	2702	_	_	_	16S rRNA	_	_	_	_
+2706	A	525	2178	_	1	_	16S rRNA	_	_	_	_
+2708	C	_	_	2702	2	_	16S rRNA	_	_	_	_
+2730	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+2735	G	1	2703	_	_	_	16S rRNA	_	_	_	_
+2746	T	_	_	2	2702	_	16S rRNA	_	_	_	_
+2755	A	2694	10	_	_	_	16S rRNA	_	_	_	_
+2757	A	2701	3	_	_	_	16S rRNA	_	_	_	_
+2758	G	85	2619	_	_	_	16S rRNA	_	_	_	_
+2763	T	_	_	2	2702	_	16S rRNA	_	_	_	_
+2766	C	_	_	2686	18	_	16S rRNA	_	_	_	_
+2768	A	2678	26	_	_	_	16S rRNA	_	_	_	_
+2769	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+2772	C	_	_	2650	53	_	16S rRNA	_	_	_	_
+2775	A	2702	2	_	_	_	16S rRNA	_	_	_	_
+2789	C	_	_	2659	45	_	16S rRNA	_	_	_	_
+2792	A	2701	2	1	_	_	16S rRNA	_	_	_	_
+2793	C	_	_	2703	1	_	16S rRNA	_	_	_	_
+2804	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+2829	C	_	_	2703	1	_	16S rRNA	_	_	_	_
+2831	G	17	2687	_	_	_	16S rRNA	_	_	_	_
+2833	A	2700	4	_	_	_	16S rRNA	_	_	_	_
+2834	C	_	_	2703	1	_	16S rRNA	_	_	_	_
+2835	C	_	_	2695	9	_	16S rRNA	_	_	_	_
+2836	C	2	_	2702	_	_	16S rRNA	_	_	_	_
+2849	G	2	2702	_	_	_	16S rRNA	_	_	_	_
+2850	T	_	_	10	2694	_	16S rRNA	_	_	_	_
+2851	A	2700	4	_	_	_	16S rRNA	_	_	_	_
+2857	T	_	_	1	2703	_	16S rRNA	_	_	_	_
+2858	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+2863	T	_	_	8	2696	_	16S rRNA	_	_	_	_
+2880	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+2885	T	_	_	85	2619	_	16S rRNA	_	_	_	_
+2887	T	_	_	2	2702	_	16S rRNA	_	_	_	_
+2892	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+2903	T	_	_	1	2703	_	16S rRNA	_	_	_	_
+2905	A	2701	3	_	_	_	16S rRNA	_	_	_	_
+2951	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+2967	C	_	_	2703	1	_	16S rRNA	_	_	_	_
+3010	G	550	2154	_	_	_	16S rRNA	_	_	_	_
+3027	T	_	_	4	2700	_	16S rRNA	_	_	_	_
+3083	T	_	_	5	2699	_	16S rRNA	_	_	_	_
+3100	T	_	_	1	2703	_	16S rRNA	_	_	_	_
+3105	A	2701	3	_	_	_	16S rRNA	_	_	_	_
+3106	C	_	_	2691	13	_	16S rRNA	_	_	_	_
+3107	C	_	_	63	_	2641	16S rRNA	_	_	_	_
+3116	C	_	_	2696	8	_	16S rRNA	_	_	_	_
+3125	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+3145	A	2699	5	_	_	_	16S rRNA	_	_	_	_
+3196	G	_	2703	1	_	_	16S rRNA	_	_	_	_
+3197	T	_	_	96	2608	_	16S rRNA	_	_	_	_
+3200	T	7	_	3	2694	_	16S rRNA	_	_	_	_
+3202	T	_	_	2	2702	_	16S rRNA	_	_	_	_
+3203	A	2696	8	_	_	_	16S rRNA	_	_	_	_
+3204	C	_	_	2696	8	_	16S rRNA	_	_	_	_
+3206	C	_	_	2659	45	_	16S rRNA	_	_	_	_
+3208	C	_	_	2703	1	_	16S rRNA	_	_	_	_
+3210	C	_	_	2703	1	_	16S rRNA	_	_	_	_
+3212	C	_	_	2699	5	_	16S rRNA	_	_	_	_
+3218	A	2703	1	_	_	_	16S rRNA	_	_	_	_
+3221	A	2697	7	_	_	_	16S rRNA	_	_	_	_
+3253	T	_	_	1	2703	_	tRNA Leu(1)	_	_	_	_
+3254	C	2	_	2702	_	_	tRNA Leu(1)	_	_	_	_
+3275	C	_	_	2703	1	_	tRNA Leu(1)	_	_	_	_
+3277	G	2	2702	_	_	_	tRNA Leu(1)	_	_	_	_
+3278	T	_	_	3	2701	_	tRNA Leu(1)	_	_	_	_
+3290	T	_	_	6	2698	_	tRNA Leu(1)	_	_	_	_
+3305	A	2703	1	_	_	_	Non-coding 1	_	_	_	_
+3306	C	_	_	2703	1	_	Non-coding 1	_	_	_	_
+3308	T	1	_	22	2681	_	ND1	1	2	Met -> Thr	No
+3310	C	_	_	2703	1	_	ND1	2	1	Pro -> Ser	No
+3311	C	_	_	2703	1	_	ND1	2	2	Pro -> Leu	No
+3316	G	21	2683	_	_	_	ND1	4	1	Ala -> Thr	No
+3327	A	2703	1	_	_	_	ND1	7	3	Leu -> Leu	Yes
+3333	C	_	_	2702	2	_	ND1	9	3	Leu -> Leu	Yes
+3335	T	_	_	1	2703	_	ND1	10	2	Ile -> Thr	No
+3336	T	_	_	9	2695	_	ND1	10	3	Ile -> Ile	Yes
+3337	G	5	2699	_	_	_	ND1	11	1	Val -> Met	No
+3338	T	_	_	8	2696	_	ND1	11	2	Val -> Ala	No
+3342	C	_	_	2703	1	_	ND1	12	3	Pro -> Pro	Yes
+3345	T	_	_	1	2703	_	ND1	13	3	Ile -> Ile	Yes
+3348	A	2657	47	_	_	_	ND1	14	3	Leu -> Leu	Yes
+3350	T	_	_	1	2703	_	ND1	15	2	Ile -> Thr	No
+3351	C	1	_	2702	1	_	ND1	15	3	Ile -> Ile	Yes
+3357	G	1	2703	_	_	_	ND1	17	3	Met -> Met	Yes
+3358	G	1	2703	_	_	_	ND1	18	1	Ala -> Thr	No
+3360	A	2703	1	_	_	_	ND1	18	3	Ala -> Ala	Yes
+3368	T	_	_	1	2703	_	ND1	21	2	Met -> Thr	No
+3372	T	_	_	9	2695	_	ND1	22	3	Leu -> Leu	Yes
+3380	G	1	2703	_	_	_	ND1	25	2	Arg -> Gln	No
+3381	A	2702	2	_	_	_	ND1	25	3	Arg -> Arg	Yes
+3384	A	2701	3	_	_	_	ND1	26	3	Lys -> Lys	Yes
+3387	T	_	1	_	2703	_	ND1	27	3	Ile -> Met	No
+3388	C	2	_	2702	_	_	ND1	28	1	Leu -> Met	No
+3390	A	2703	1	_	_	_	ND1	28	3	Leu -> Leu	Yes
+3391	G	11	2693	_	_	_	ND1	29	1	Gly -> Ser	No
+3392	G	_	2703	1	_	_	ND1	29	2	Gly -> Ala	No
+3393	C	1	_	2703	_	_	ND1	29	3	Gly -> Gly	Yes
+3394	T	_	_	39	2665	_	ND1	30	1	Tyr -> His	No
+3395	A	2701	3	_	_	_	ND1	30	2	Tyr -> Cys	No
+3396	T	_	_	6	2698	_	ND1	30	3	Tyr -> Tyr	Yes
+3397	A	2697	7	_	_	_	ND1	31	1	Met -> Val	No
+3398	T	_	_	5	2699	_	ND1	31	2	Met -> Thr	No
+3420	C	_	_	2702	2	_	ND1	38	3	Asn -> Asn	Yes
+3421	G	6	2698	_	_	_	ND1	39	1	Val -> Ile	No
+3423	T	_	_	3	2701	_	ND1	39	3	Val -> Val	Yes
+3426	A	2703	1	_	_	_	ND1	40	3	Val -> Val	Yes
+3429	C	_	_	2703	1	_	ND1	41	3	Gly -> Gly	Yes
+3434	A	2698	6	_	_	_	ND1	43	2	Tyr -> Cys	No
+3438	G	17	2687	_	_	_	ND1	44	3	Gly -> Gly	Yes
+3441	A	2703	1	_	_	_	ND1	45	3	Leu -> Leu	Yes
+3442	C	_	_	2703	1	_	ND1	46	1	Leu -> Leu	Yes
+3447	A	2692	12	_	_	_	ND1	47	3	Gln -> Gln	Yes
+3450	C	_	_	2687	17	_	ND1	48	3	Pro -> Pro	Yes
+3456	T	_	_	1	2703	_	ND1	50	3	Ala -> Ala	Yes
+3460	G	2	2702	_	_	_	ND1	52	1	Ala -> Thr	No
+3472	T	_	_	1	2703	_	ND1	56	1	Phe -> Leu	No
+3474	C	_	_	2703	1	_	ND1	56	3	Phe -> Phe	Yes
+3480	A	2573	131	_	_	_	ND1	58	3	Lys -> Lys	Yes
+3483	G	4	2700	_	_	_	ND1	59	3	Glu -> Glu	Yes
+3492	A	2703	1	_	_	_	ND1	62	3	Lys -> Lys	Yes
+3495	C	3	_	2701	_	_	ND1	63	3	Pro -> Pro	Yes
+3496	G	_	2697	_	7	_	ND1	64	1	Ala -> Ser	No
+3497	C	_	_	2682	22	_	ND1	64	2	Ala -> Val	No
+3498	C	_	5	2698	1	_	ND1	64	3	Ala -> Ala	Yes
+3501	A	2703	1	_	_	_	ND1	65	3	Thr -> Thr	Yes
+3504	T	_	_	2	2702	_	ND1	66	3	Ser -> Ser	Yes
+3505	A	2648	56	_	_	_	ND1	67	1	Thr -> Ala	No
+3506	C	_	_	2703	1	_	ND1	67	2	Thr -> Ile	No
+3507	C	_	_	2703	1	_	ND1	67	3	Thr -> Thr	Yes
+3510	C	_	_	2702	2	_	ND1	68	3	Ile -> Ile	Yes
+3511	A	2703	1	_	_	_	ND1	69	1	Thr -> Ala	No
+3513	C	_	_	2693	11	_	ND1	69	3	Thr -> Thr	Yes
+3516	C	36	_	2668	_	_	ND1	70	3	Leu -> Leu	Yes
+3520	A	2703	1	_	_	_	ND1	72	1	Ile -> Val	No
+3525	C	1	_	2703	_	_	ND1	73	3	Thr -> Thr	Yes
+3528	C	_	_	2703	1	_	ND1	74	3	Ala -> Ala	Yes
+3531	G	16	2688	_	_	_	ND1	75	3	Pro -> Pro	Yes
+3533	C	_	_	2703	1	_	ND1	76	2	Thr -> Ile	No
+3535	T	_	_	3	2701	_	ND1	77	1	Leu -> Leu	Yes
+3537	A	2689	15	_	_	_	ND1	77	3	Leu -> Leu	Yes
+3540	T	_	_	3	2701	_	ND1	78	3	Ala -> Ala	Yes
+3543	C	_	_	2703	1	_	ND1	79	3	Leu -> Leu	Yes
+3546	C	_	_	2701	3	_	ND1	80	3	Thr -> Thr	Yes
+3547	A	2682	22	_	_	_	ND1	81	1	Ile -> Val	No
+3549	C	_	_	2697	7	_	ND1	81	3	Ile -> Ile	Yes
+3552	T	39	_	4	2661	_	ND1	82	3	Ala -> Ala	Yes
+3559	C	_	_	2703	1	_	ND1	85	1	Leu -> Leu	Yes
+3565	A	2703	1	_	_	_	ND1	87	1	Thr -> Ala	No
+3571	C	_	_	2702	2	_	ND1	89	1	Leu -> Phe	No
+3589	C	_	1	2702	1	_	ND1	95	1	Leu -> Leu	Yes
+3591	G	20	2684	_	_	_	ND1	95	3	Leu -> Leu	Yes
+3593	T	_	_	2	2702	_	ND1	96	2	Val -> Ala	No
+3594	C	_	_	2557	147	_	ND1	96	3	Val -> Val	Yes
+3603	C	_	_	2703	1	_	ND1	99	3	Asn -> Asn	Yes
+3606	A	2699	5	_	_	_	ND1	100	3	Leu -> Leu	Yes
+3615	A	2700	4	_	_	_	ND1	103	3	Leu -> Leu	Yes
+3618	T	_	_	4	2700	_	ND1	104	3	Phe -> Phe	Yes
+3621	T	_	_	2	2702	_	ND1	105	3	Ile -> Ile	Yes
+3633	T	_	_	1	2703	_	ND1	109	3	Ser -> Ser	Yes
+3637	C	_	_	2703	1	_	ND1	111	1	Leu -> Leu	Yes
+3639	A	2703	1	_	_	_	ND1	111	3	Leu -> Leu	Yes
+3640	G	1	2703	_	_	_	ND1	112	1	Ala -> Thr	No
+3644	T	_	1	13	2690	_	ND1	113	2	Val -> Ala	No
+3645	T	_	_	5	2699	_	ND1	113	3	Val -> Val	Yes
+3651	A	2703	1	_	_	_	ND1	115	3	Ser -> Ser	Yes
+3654	C	_	_	2702	2	_	ND1	116	3	Ile -> Ile	Yes
+3663	A	2702	2	_	_	_	ND1	119	3	Ser -> Ser	Yes
+3666	G	58	2646	_	_	_	ND1	120	3	Gly -> Gly	Yes
+3672	A	2702	2	_	_	_	ND1	122	3	Ala -> Ala	Yes
+3687	C	_	_	2702	2	_	ND1	127	3	Tyr -> Tyr	Yes
+3688	G	_	2703	1	_	_	ND1	128	1	Ala -> Pro	No
+3693	G	26	2678	_	_	_	ND1	129	3	Leu -> Leu	Yes
+3696	C	_	_	2700	4	_	ND1	130	3	Ile -> Ile	Yes
+3699	C	_	1	2701	2	_	ND1	131	3	Gly -> Gly	Yes
+3702	A	2703	1	_	_	_	ND1	132	3	Ala -> Ala	Yes
+3705	G	31	2673	_	_	_	ND1	133	3	Leu -> Leu	Yes
+3714	A	2700	4	_	_	_	ND1	136	3	Val -> Val	Yes
+3720	A	2685	19	_	_	_	ND1	138	3	Gln -> Gln	Yes
+3729	A	2701	3	_	_	_	ND1	141	3	Ser -> Ser	Yes
+3732	T	_	_	2	2702	_	ND1	142	3	Tyr -> Tyr	Yes
+3736	G	2	2702	_	_	_	ND1	144	1	Val -> Ile	No
+3738	C	_	_	2698	6	_	ND1	144	3	Val -> Val	Yes
+3741	C	_	_	2699	5	_	ND1	145	3	Thr -> Thr	Yes
+3744	A	2703	1	_	_	_	ND1	146	3	Leu -> Leu	Yes
+3745	G	2	2702	_	_	_	ND1	147	1	Ala -> Thr	No
+3746	C	_	_	2703	1	_	ND1	147	2	Ala -> Val	No
+3753	T	_	_	1	2703	_	ND1	149	3	Ile -> Ile	Yes
+3756	A	2694	10	_	_	_	ND1	150	3	Leu -> Leu	Yes
+3759	A	2699	5	_	_	_	ND1	151	3	Leu -> Leu	Yes
+3760	T	_	2	_	2702	_	ND1	152	1	Ser -> Ala	No
+3764	C	_	_	2703	1	_	ND1	153	2	Thr -> Met	No
+3766	T	_	_	1	2703	_	ND1	154	1	Leu -> Leu	Yes
+3768	A	2703	1	_	_	_	ND1	154	3	Leu -> Leu	Yes
+3777	T	_	_	5	2699	_	ND1	157	3	Ser -> Ser	Yes
+3783	C	1	_	2703	_	_	ND1	159	3	Ser -> Ser	Yes
+3786	T	_	_	2	2702	_	ND1	160	3	Phe -> Phe	Yes
+3796	A	2677	10	_	17	_	ND1	164	1	Thr -> Ala	No
+3797	C	_	1	2703	_	_	ND1	164	2	Thr -> Ser	No
+3801	T	_	_	2	2702	_	ND1	165	3	Leu -> Leu	Yes
+3804	C	_	_	2703	1	_	ND1	166	3	Ile -> Ile	Yes
+3808	A	2703	1	_	_	_	ND1	168	1	Thr -> Ala	No
+3816	A	2695	9	_	_	_	ND1	170	3	Glu -> Glu	Yes
+3817	C	_	_	2699	5	_	ND1	171	1	His -> Tyr	No
+3822	C	_	_	2703	1	_	ND1	172	3	Leu -> Leu	Yes
+3825	A	2703	1	_	_	_	ND1	173	3	Trp -> Trp	Yes
+3826	T	_	_	6	2698	_	ND1	174	1	Leu -> Leu	Yes
+3828	A	2703	1	_	_	_	ND1	174	3	Leu -> Leu	Yes
+3834	G	11	2692	_	_	_	ND1	176	3	Leu -> Leu	Yes
+3837	A	2703	1	_	_	_	ND1	177	3	Pro -> Pro	Yes
+3843	A	2688	16	_	_	_	ND1	179	3	Trp -> Trp	Yes
+3847	T	_	_	7	2697	_	ND1	181	1	Leu -> Leu	Yes
+3849	G	7	2697	_	_	_	ND1	181	3	Leu -> Leu	Yes
+3852	C	_	_	2701	3	_	ND1	182	3	Ala -> Ala	Yes
+3858	A	2703	1	_	_	_	ND1	184	3	Met -> Met	Yes
+3865	A	2703	1	_	_	_	ND1	187	1	Ile -> Val	No
+3866	T	_	_	6	2698	_	ND1	187	2	Ile -> Thr	No
+3873	A	2703	1	_	_	_	ND1	189	3	Thr -> Thr	Yes
+3882	G	11	2693	_	_	_	ND1	192	3	Glu -> Glu	Yes
+3894	C	_	_	2703	1	_	ND1	196	3	Thr -> Thr	Yes
+3897	C	_	_	2703	1	_	ND1	197	3	Pro -> Pro	Yes
+3902	A	2703	1	_	_	_	ND1	199	2	Asp -> Gly	No
+3903	C	_	_	2703	1	_	ND1	199	3	Asp -> Asp	Yes
+3906	T	3	_	_	2701	_	ND1	200	3	Leu -> Leu	Yes
+3915	G	22	2682	_	_	_	ND1	203	3	Gly -> Gly	Yes
+3918	G	15	2689	_	_	_	ND1	204	3	Glu -> Glu	Yes
+3921	C	5	_	2697	2	_	ND1	205	3	Ser -> Ser	Yes
+3927	A	2697	7	_	_	_	ND1	207	3	Leu -> Leu	Yes
+3936	C	1	_	2701	2	_	ND1	210	3	Gly -> Gly	Yes
+3943	A	2703	1	_	_	_	ND1	213	1	Ile -> Val	No
+3960	C	_	_	2702	2	_	ND1	218	3	Gly -> Gly	Yes
+3963	C	1	_	2702	1	_	ND1	219	3	Pro -> Pro	Yes
+3969	C	_	_	2700	4	_	ND1	221	3	Ala -> Ala	Yes
+3970	C	_	_	2636	68	_	ND1	222	1	Leu -> Leu	Yes
+3972	A	2703	1	_	_	_	ND1	222	3	Leu -> Leu	Yes
+3975	C	_	_	2698	6	_	ND1	223	3	Phe -> Phe	Yes
+3981	A	2699	5	_	_	_	ND1	225	3	Met -> Met	Yes
+3987	A	2703	1	_	_	_	ND1	227	3	Glu -> Glu	Yes
+3990	C	_	_	2693	11	_	ND1	228	3	Tyr -> Tyr	Yes
+3992	C	_	_	2680	24	_	ND1	229	2	Thr -> Met	No
+3994	A	2703	1	_	_	_	ND1	230	1	Asn -> Asp	No
+3996	C	_	_	2703	1	_	ND1	230	3	Asn -> Asn	Yes
+3999	T	_	_	6	2698	_	ND1	231	3	Ile -> Ile	Yes
+4008	A	2703	1	_	_	_	ND1	234	3	Met -> Met	Yes
+4011	C	_	_	2698	6	_	ND1	235	3	Asn -> Asn	Yes
+4012	A	2700	4	_	_	_	ND1	236	1	Thr -> Ala	No
+4015	C	_	_	2703	1	_	ND1	237	1	Leu -> Phe	No
+4017	C	_	_	2696	8	_	ND1	237	3	Leu -> Leu	Yes
+4021	A	2703	1	_	_	_	ND1	239	1	Thr -> Ala	No
+4023	T	_	1	1	2702	_	ND1	239	3	Thr -> Thr	Yes
+4024	A	2682	22	_	_	_	ND1	240	1	Thr -> Ala	No
+4025	C	_	_	2690	14	_	ND1	240	2	Thr -> Met	No
+4026	A	2703	1	_	_	_	ND1	240	3	Thr -> Thr	Yes
+4038	A	2702	2	_	_	_	ND1	244	3	Gly -> Gly	Yes
+4040	C	_	_	2703	1	_	ND1	245	2	Thr -> Met	No
+4044	A	2701	3	_	_	_	ND1	246	3	Thr -> Thr	Yes
+4047	T	_	_	6	2698	_	ND1	247	3	Tyr -> Tyr	Yes
+4048	G	42	2662	_	_	_	ND1	248	1	Asp -> Asn	No
+4050	C	_	_	2700	4	_	ND1	248	3	Asp -> Asp	Yes
+4059	C	1	_	2698	5	_	ND1	251	3	Ser -> Ser	Yes
+4062	T	_	_	4	2700	_	ND1	252	3	Pro -> Pro	Yes
+4071	C	_	_	2657	47	_	ND1	255	3	Tyr -> Tyr	Yes
+4080	T	_	_	3	2701	_	ND1	258	3	Tyr -> Tyr	Yes
+4086	C	_	_	2684	20	_	ND1	260	3	Val -> Val	Yes
+4092	G	3	2701	_	_	_	ND1	262	3	Lys -> Lys	Yes
+4093	A	2702	2	_	_	_	ND1	263	1	Thr -> Ala	No
+4095	C	_	_	2703	1	_	ND1	263	3	Thr -> Thr	Yes
+4098	A	2703	1	_	_	_	ND1	264	3	Leu -> Leu	Yes
+4104	A	2557	147	_	_	_	ND1	266	3	Leu -> Leu	Yes
+4107	C	_	_	2703	1	_	ND1	267	3	Thr -> Thr	Yes
+4113	G	5	2699	_	_	_	ND1	269	3	Leu -> Leu	Yes
+4117	T	_	_	39	2665	_	ND1	271	1	Leu -> Leu	Yes
+4122	A	2698	6	_	_	_	ND1	272	3	Trp -> Trp	Yes
+4123	A	2702	2	_	_	_	ND1	273	1	Ile -> Val	No
+4129	A	2699	5	_	_	_	ND1	275	1	Thr -> Ala	No
+4131	A	2702	2	_	_	_	ND1	275	3	Thr -> Thr	Yes
+4136	A	2703	1	_	_	_	ND1	277	2	Tyr -> Cys	No
+4137	C	_	_	2701	3	_	ND1	277	3	Tyr -> Tyr	Yes
+4140	C	_	_	2698	6	_	ND1	278	3	Pro -> Pro	Yes
+4151	A	2703	1	_	_	_	ND1	282	2	Tyr -> Cys	No
+4155	C	_	_	2703	1	_	ND1	283	3	Asp -> Asp	Yes
+4158	A	2696	8	_	_	_	ND1	284	3	Gln -> Gln	Yes
+4161	C	_	_	2702	2	_	ND1	285	3	Leu -> Leu	Yes
+4164	A	2666	38	_	_	_	ND1	286	3	Met -> Met	Yes
+4167	C	_	_	2702	2	_	ND1	287	3	His -> His	Yes
+4170	C	_	_	2703	1	_	ND1	288	3	Leu -> Leu	Yes
+4171	C	_	_	2703	1	_	ND1	289	1	Leu -> Leu	Yes
+4172	T	4	_	_	2700	_	ND1	289	2	Leu -> Gln	No
+4181	A	2702	2	_	_	_	ND1	292	2	Asn -> Ser	No
+4185	C	_	_	2701	3	_	ND1	293	3	Phe -> Phe	Yes
+4186	C	_	_	2703	1	_	ND1	294	1	Leu -> Leu	Yes
+4188	A	2701	3	_	_	_	ND1	294	3	Leu -> Leu	Yes
+4194	C	_	_	2702	2	_	ND1	296	3	Leu -> Leu	Yes
+4197	C	_	_	2702	2	_	ND1	297	3	Thr -> Thr	Yes
+4200	A	2699	3	_	2	_	ND1	298	3	Leu -> Leu	Yes
+4203	A	2701	3	_	_	_	ND1	299	3	Ala -> Ala	Yes
+4204	T	_	_	1	2703	_	ND1	300	1	Leu -> Leu	Yes
+4209	T	_	_	6	2698	_	ND1	301	3	Leu -> Leu	Yes
+4216	T	_	_	244	2460	_	ND1	304	1	Tyr -> His	No
+4218	T	_	_	4	2700	_	ND1	304	3	Tyr -> Tyr	Yes
+4221	C	_	_	2703	1	_	ND1	305	3	Val -> Val	Yes
+4222	T	_	1	_	2703	_	ND1	306	1	Ser -> Ala	No
+4224	C	_	_	2703	1	_	ND1	306	3	Ser -> Ser	Yes
+4225	A	2699	5	_	_	_	ND1	307	1	Met -> Val	No
+4227	A	2702	2	_	_	_	ND1	307	3	Met -> Met	Yes
+4230	C	_	_	2701	3	_	ND1	308	3	Pro -> Pro	Yes
+4232	T	_	_	15	2689	_	ND1	309	2	Ile -> Thr	No
+4242	C	_	_	2703	1	_	ND1	312	3	Ser -> Ser	Yes
+4248	T	_	_	87	2617	_	ND1	314	3	Ile -> Ile	Yes
+4251	C	_	_	2703	1	_	ND1	315	3	Pro -> Pro	Yes
+4257	A	2702	2	_	_	_	ND1	317	3	Gln -> Gln	Yes
+4259	C	_	_	2703	1	_	ND1	318	2	Thr -> Ile	No
+4260	C	_	_	2703	1	_	ND1	318	3	Thr -> Thr	Yes
+4265	A	2703	1	_	_	_	tRNA Ile	_	_	_	_
+4281	A	2703	1	_	_	_	tRNA Ile	_	_	_	_
+4295	A	2699	5	_	_	_	tRNA Ile	_	_	_	_
+4310	A	2699	5	_	_	_	tRNA Ile	_	_	_	_
+4312	C	_	_	2669	35	_	tRNA Ile	_	_	_	_
+4314	T	_	_	1	2703	_	tRNA Ile	_	_	_	_
+4315	A	2703	_	_	1	_	tRNA Ile	_	_	_	_
+4335	C	_	_	2698	6	_	tRNA Gln	_	_	_	_
+4336	T	_	_	33	2671	_	tRNA Gln	_	_	_	_
+4342	A	2701	3	_	_	_	tRNA Gln	_	_	_	_
+4343	A	2688	16	_	_	_	tRNA Gln	_	_	_	_
+4345	C	_	_	2702	2	_	tRNA Gln	_	_	_	_
+4363	T	_	_	1	2703	_	tRNA Gln	_	_	_	_
+4370	T	_	_	8	2696	_	tRNA Gln	_	_	_	_
+4371	T	_	_	1	2703	_	tRNA Gln	_	_	_	_
+4384	T	_	_	1	2703	_	tRNA Gln	_	_	_	_
+4386	T	_	_	51	2653	_	tRNA Gln	_	_	_	_
+4388	A	2700	4	_	_	_	tRNA Gln	_	_	_	_
+4392	C	_	_	2703	1	_	tRNA Gln	_	_	_	_
+4393	C	1	_	2703	_	_	tRNA Gln	_	_	_	_
+4394	C	_	_	2701	3	_	tRNA Gln	_	_	_	_
+4395	A	2702	2	_	_	_	tRNA Gln	_	_	_	_
+4418	T	_	_	1	2703	_	tRNA Met	_	_	_	_
+4435	A	2699	5	_	_	_	tRNA Met	_	_	_	_
+4452	T	_	_	9	2695	_	tRNA Met	_	_	_	_
+4454	T	12	_	8	2684	_	tRNA Met	_	_	_	_
+4469	A	2702	2	_	_	_	tRNA Met	_	_	_	_
+4484	C	_	_	2703	1	_	ND2	5	3	Ala -> Ala	Yes
+4491	G	18	2686	_	_	_	ND2	8	1	Val -> Ile	No
+4496	C	_	_	2702	2	_	ND2	9	3	Ile -> Ile	Yes
+4500	T	_	_	2	2702	_	ND2	11	1	Ser -> Pro	No
+4501	C	_	_	2703	1	_	ND2	11	2	Ser -> Phe	No
+4505	C	_	_	2695	9	_	ND2	12	3	Thr -> Thr	Yes
+4506	A	2697	7	_	_	_	ND2	13	1	Ile -> Val	No
+4508	C	_	_	2698	6	_	ND2	13	3	Ile -> Ile	Yes
+4511	T	_	_	1	2703	_	ND2	14	3	Phe -> Phe	Yes
+4512	G	1	2703	_	_	_	ND2	15	1	Ala -> Thr	No
+4529	A	2669	2	_	33	_	ND2	20	3	Thr -> Thr	Yes
+4531	C	_	_	2702	2	_	ND2	21	2	Ala -> Val	No
+4538	C	_	_	2699	5	_	ND2	23	3	Ser -> Ser	Yes
+4541	G	6	2696	_	2	_	ND2	24	3	Ser -> Ser	Yes
+4550	T	_	_	2	2702	_	ND2	27	3	Phe -> Phe	Yes
+4553	T	_	_	4	2700	_	ND2	28	3	Phe -> Phe	Yes
+4560	G	1	2703	_	_	_	ND2	31	1	Val -> Met	No
+4561	T	_	_	26	2678	_	ND2	31	2	Val -> Ala	No
+4562	A	2694	10	_	_	_	ND2	31	3	Val -> Val	Yes
+4575	A	2703	1	_	_	_	ND2	36	1	Asn -> Asp	No
+4580	G	77	2627	_	_	_	ND2	37	3	Met -> Met	Yes
+4586	T	_	_	28	2676	_	ND2	39	3	Ala -> Ala	Yes
+4596	G	3	2701	_	_	_	ND2	43	1	Val -> Ile	No
+4598	T	_	_	3	2701	_	ND2	43	3	Val -> Val	Yes
+4612	T	_	_	3	2701	_	ND2	48	2	Met -> Thr	No
+4619	T	_	_	2	2702	_	ND2	50	3	Pro -> Pro	Yes
+4625	C	_	_	2703	1	_	ND2	52	3	Ser -> Ser	Yes
+4626	A	2703	1	_	_	_	ND2	53	1	Thr -> Ala	No
+4634	T	_	_	2	2702	_	ND2	55	3	Ala -> Ala	Yes
+4639	T	_	_	22	2682	_	ND2	57	2	Ile -> Thr	No
+4640	C	3	_	2700	1	_	ND2	57	3	Ile -> Ile	Yes
+4646	T	_	_	15	2689	_	ND2	59	3	Tyr -> Tyr	Yes
+4652	C	_	_	2703	1	_	ND2	61	3	Leu -> Leu	Yes
+4654	C	_	_	2703	1	_	ND2	62	2	Thr -> Met	No
+4655	G	48	2656	_	_	_	ND2	62	3	Thr -> Thr	Yes
+4659	G	3	2701	_	_	_	ND2	64	1	Ala -> Thr	No
+4663	C	_	_	2703	1	_	ND2	65	2	Thr -> Ile	No
+4670	C	_	_	2698	6	_	ND2	67	3	Ser -> Ser	Yes
+4673	A	2703	1	_	_	_	ND2	68	3	Met -> Met	Yes
+4674	A	2702	2	_	_	_	ND2	69	1	Ile -> Val	No
+4679	T	_	_	5	2699	_	ND2	70	3	Leu -> Leu	Yes
+4688	T	1	_	24	2679	_	ND2	73	3	Ala -> Ala	Yes
+4695	T	_	_	5	2699	_	ND2	76	1	Phe -> Leu	No
+4697	C	_	_	2703	1	_	ND2	76	3	Phe -> Phe	Yes
+4700	C	1	_	2702	1	_	ND2	77	3	Asn -> Lys	No
+4702	A	2703	1	_	_	_	ND2	78	2	Asn -> Ser	No
+4703	T	_	_	10	2694	_	ND2	78	3	Asn -> Asn	Yes
+4704	A	2703	_	1	_	_	ND2	79	1	Met -> Leu	No
+4705	T	_	_	9	2695	_	ND2	79	2	Met -> Thr	No
+4706	A	2701	3	_	_	_	ND2	79	3	Met -> Met	Yes
+4707	C	1	_	2699	4	_	ND2	80	1	Leu -> Phe	No
+4711	C	_	_	2703	1	_	ND2	81	2	Ser -> Phe	No
+4712	C	_	_	2703	1	_	ND2	81	3	Ser -> Ser	Yes
+4715	A	2620	84	_	_	_	ND2	82	3	Gly -> Gly	Yes
+4721	A	2702	2	_	_	_	ND2	84	3	Trp -> Trp	Yes
+4722	A	2703	1	_	_	_	ND2	85	1	Thr -> Ala	No
+4727	A	2695	9	_	_	_	ND2	86	3	Met -> Met	Yes
+4732	A	2675	29	_	_	_	ND2	88	2	Asn -> Ser	No
+4733	T	_	_	5	2699	_	ND2	88	3	Asn -> Asn	Yes
+4734	A	2703	1	_	_	_	ND2	89	1	Thr -> Ala	No
+4735	C	3	_	2701	_	_	ND2	89	2	Thr -> Asn	No
+4736	T	_	_	4	2700	_	ND2	89	3	Thr -> Thr	Yes
+4739	C	_	_	2703	1	_	ND2	90	3	Thr -> Thr	Yes
+4742	T	_	_	7	2697	_	ND2	91	3	Asn -> Asn	Yes
+4745	A	2689	15	_	_	_	ND2	92	3	Gln -> Gln	Yes
+4755	T	_	_	2	2702	_	ND2	96	1	Leu -> Leu	Yes
+4767	A	2695	9	_	_	_	ND2	100	1	Met -> Val	No
+4769	A	30	2674	_	_	_	ND2	100	3	Met -> Met	Yes
+4772	T	_	_	2	2702	_	ND2	101	3	Ala -> Ala	Yes
+4775	A	2701	3	_	_	_	ND2	102	3	Met -> Met	Yes
+4787	A	2703	1	_	_	_	ND2	106	3	Leu -> Leu	Yes
+4790	A	2702	2	_	_	_	ND2	107	3	Gly -> Gly	Yes
+4793	A	2663	41	_	_	_	ND2	108	3	Met -> Met	Yes
+4802	T	_	_	1	2703	_	ND2	111	3	Phe -> Phe	Yes
+4808	C	_	_	2702	2	_	ND2	113	3	Phe -> Phe	Yes
+4811	A	2700	4	_	_	_	ND2	114	3	Trp -> Trp	Yes
+4820	G	45	2659	_	_	_	ND2	117	3	Glu -> Glu	Yes
+4823	T	_	_	12	2692	_	ND2	118	3	Val -> Val	Yes
+4824	A	2615	89	_	_	_	ND2	119	1	Thr -> Ala	No
+4829	A	2703	1	_	_	_	ND2	120	3	Gln -> Gln	Yes
+4833	A	2639	65	_	_	_	ND2	122	1	Thr -> Ala	No
+4834	C	_	_	2703	1	_	ND2	122	2	Thr -> Ile	No
+4838	T	_	_	1	2703	_	ND2	123	3	Pro -> Pro	Yes
+4841	G	1	2703	_	_	_	ND2	124	3	Leu -> Leu	Yes
+4843	C	_	_	2702	2	_	ND2	125	2	Thr -> Met	No
+4848	G	_	2703	1	_	_	ND2	127	1	Gly -> Arg	No
+4850	C	_	_	2693	11	_	ND2	127	3	Gly -> Gly	Yes
+4853	G	2	2702	_	_	_	ND2	128	3	Leu -> Leu	Yes
+4856	T	_	_	1	2703	_	ND2	129	3	Leu -> Leu	Yes
+4859	T	_	_	15	2689	_	ND2	130	3	Leu -> Leu	Yes
+4883	C	_	_	2405	299	_	ND2	138	3	Pro -> Pro	Yes
+4884	A	2702	1	1	_	_	ND2	139	1	Ile -> Val	No
+4892	C	_	_	2703	1	_	ND2	141	3	Ile -> Ile	Yes
+4895	A	2688	16	_	_	_	ND2	142	3	Met -> Met	Yes
+4904	C	_	_	2703	1	_	ND2	145	3	Ile -> Ile	Yes
+4907	T	_	_	14	2690	_	ND2	146	3	Ser -> Ser	Yes
+4908	C	_	_	2703	1	_	ND2	147	1	Pro -> Ser	No
+4910	C	_	_	2703	1	_	ND2	147	3	Pro -> Pro	Yes
+4913	A	2702	_	2	_	_	ND2	148	3	Ser -> Ser	Yes
+4916	A	2701	3	_	_	_	ND2	149	3	Leu -> Leu	Yes
+4917	A	2575	129	_	_	_	ND2	150	1	Asn -> Asp	No
+4919	C	_	_	2703	1	_	ND2	150	3	Asn -> Asn	Yes
+4924	G	3	2701	_	_	_	ND2	152	2	Ser -> Asn	No
+4926	C	_	_	2703	1	_	ND2	153	1	Leu -> Phe	No
+4928	T	_	_	14	2690	_	ND2	153	3	Leu -> Leu	Yes
+4936	C	_	_	2701	3	_	ND2	156	2	Thr -> Ile	No
+4937	T	_	_	3	2701	_	ND2	156	3	Thr -> Thr	Yes
+4938	C	_	_	2703	1	_	ND2	157	1	Leu -> Phe	No
+4944	A	2703	1	_	_	_	ND2	159	1	Ile -> Val	No
+4947	T	_	_	1	2703	_	ND2	160	1	Leu -> Leu	Yes
+4949	A	2703	1	_	_	_	ND2	160	3	Leu -> Leu	Yes
+4955	C	_	_	2703	1	_	ND2	162	3	Ile -> Ile	Yes
+4958	A	2657	47	_	_	_	ND2	163	3	Met -> Met	Yes
+4959	G	4	2700	_	_	_	ND2	164	1	Ala -> Thr	No
+4960	C	_	_	2699	5	_	ND2	164	2	Ala -> Val	No
+4964	C	_	_	2702	2	_	ND2	165	3	Gly -> Gly	Yes
+4965	A	2700	4	_	_	_	ND2	166	1	Ser -> Gly	No
+4970	A	2702	2	_	_	_	ND2	167	3	Trp -> Trp	Yes
+4973	T	_	_	1	2703	_	ND2	168	3	Gly -> Gly	Yes
+4976	A	2699	5	_	_	_	ND2	169	3	Gly -> Gly	Yes
+4977	T	_	_	20	2684	_	ND2	170	1	Leu -> Leu	Yes
+4985	G	2704	_	_	_	_	ND2	172	3	Gln -> Gln	Yes
+4991	G	15	2689	_	_	_	ND2	174	3	Gln -> Gln	Yes
+4994	A	2702	2	_	_	_	ND2	175	3	Leu -> Leu	Yes
+4997	C	_	_	2703	1	_	ND2	176	3	Arg -> Arg	Yes
+5004	T	_	_	29	2675	_	ND2	179	1	Leu -> Leu	Yes
+5021	T	_	_	3	2700	_	ND2	184	3	Ile -> Ile	Yes
+5024	C	_	_	2703	1	_	ND2	185	3	Thr -> Thr	Yes
+5027	C	_	_	2696	8	_	ND2	186	3	His -> His	Yes
+5033	A	2703	1	_	_	_	ND2	188	3	Gly -> Gly	Yes
+5036	A	2683	21	_	_	_	ND2	189	3	Trp -> Trp	Yes
+5046	G	79	2625	_	_	_	ND2	193	1	Val -> Ile	No
+5048	T	_	_	9	2695	_	ND2	193	3	Val -> Val	Yes
+5049	C	_	_	2689	15	_	ND2	194	1	Leu -> Leu	Yes
+5051	A	2702	2	_	_	_	ND2	194	3	Leu -> Leu	Yes
+5054	G	2	2698	3	1	_	ND2	195	3	Pro -> Pro	Yes
+5063	T	_	_	3	2701	_	ND2	198	3	Pro -> Pro	Yes
+5069	A	2702	_	_	2	_	ND2	200	3	Met -> Ile	No
+5074	T	_	_	2	2702	_	ND2	202	2	Ile -> Thr	No
+5075	T	_	_	1	2703	_	ND2	202	3	Ile -> Ile	Yes
+5081	T	_	_	5	2699	_	ND2	204	3	Asn -> Asn	Yes
+5084	A	2703	1	_	_	_	ND2	205	3	Leu -> Leu	Yes
+5086	C	_	_	2702	2	_	ND2	206	2	Thr -> Ile	No
+5090	T	_	_	3	2701	_	ND2	207	3	Ile -> Ile	Yes
+5093	T	_	_	4	2700	_	ND2	208	3	Tyr -> Tyr	Yes
+5095	T	_	_	1	2703	_	ND2	209	2	Ile -> Thr	No
+5096	T	_	_	6	2698	_	ND2	209	3	Ile -> Ile	Yes
+5099	C	1	_	2703	_	_	ND2	210	3	Ile -> Met	No
+5100	C	_	_	2703	1	_	ND2	211	1	Leu -> Leu	Yes
+5102	A	2702	2	_	_	_	ND2	211	3	Leu -> Leu	Yes
+5105	T	_	_	1	2703	_	ND2	212	3	Thr -> Thr	Yes
+5108	T	_	_	77	2627	_	ND2	213	3	Thr -> Thr	Yes
+5111	C	_	_	2702	2	_	ND2	214	3	Thr -> Thr	Yes
+5120	A	2697	7	_	_	_	ND2	217	3	Leu -> Leu	Yes
+5126	C	_	_	2703	1	_	ND2	219	3	Leu -> Leu	Yes
+5127	A	2701	3	_	_	_	ND2	220	1	Asn -> Asp	No
+5128	A	2702	2	_	_	_	ND2	220	2	Asn -> Ser	No
+5130	T	_	_	1	2703	_	ND2	221	1	Leu -> Leu	Yes
+5134	A	2703	1	_	_	_	ND2	222	2	Asn -> Ser	No
+5147	G	135	2569	_	_	_	ND2	226	3	Thr -> Thr	Yes
+5153	A	2687	17	_	_	_	ND2	228	3	Leu -> Leu	Yes
+5156	A	2703	_	_	1	_	ND2	229	3	Leu -> Leu	Yes
+5162	T	_	_	2	2702	_	ND2	231	3	Ser -> Ser	Yes
+5165	C	_	_	2703	1	_	ND2	232	3	Arg -> Arg	Yes
+5177	G	5	2699	_	_	_	ND2	236	3	Lys -> Lys	Yes
+5178	C	299	_	2404	1	_	ND2	237	1	Leu -> Met	No
+5183	A	2703	1	_	_	_	ND2	238	3	Thr -> Thr	Yes
+5186	A	2699	1	_	4	_	ND2	239	3	Trp -> Cys	No
+5187	C	_	_	2700	4	_	ND2	240	1	Leu -> Leu	Yes
+5189	A	2703	1	_	_	_	ND2	240	3	Leu -> Leu	Yes
+5196	T	_	_	3	2701	_	ND2	243	1	Leu -> Leu	Yes
+5198	A	2695	9	_	_	_	ND2	243	3	Leu -> Leu	Yes
+5201	T	_	_	4	2700	_	ND2	244	3	Ile -> Ile	Yes
+5206	C	_	_	2701	3	_	ND2	246	2	Ser -> Phe	No
+5211	C	_	_	2703	1	_	ND2	248	1	Leu -> Phe	No
+5213	C	_	_	2701	3	_	ND2	248	3	Leu -> Leu	Yes
+5216	C	_	_	2702	2	_	ND2	249	3	Leu -> Leu	Yes
+5220	C	_	_	2703	1	_	ND2	251	1	Leu -> Leu	Yes
+5222	A	2703	1	_	_	_	ND2	251	3	Leu -> Leu	Yes
+5228	C	_	1	2703	_	_	ND2	253	3	Gly -> Gly	Yes
+5231	G	70	2634	_	_	_	ND2	254	3	Leu -> Leu	Yes
+5237	G	23	2681	_	_	_	ND2	256	3	Pro -> Pro	Yes
+5240	A	2698	6	_	_	_	ND2	257	3	Leu -> Leu	Yes
+5246	C	1	_	2702	1	_	ND2	259	3	Gly -> Gly	Yes
+5250	T	_	_	4	2700	_	ND2	261	1	Leu -> Leu	Yes
+5252	G	6	2698	_	_	_	ND2	261	3	Leu -> Leu	Yes
+5255	C	_	_	2703	1	_	ND2	262	3	Pro -> Pro	Yes
+5261	G	6	2698	_	_	_	ND2	264	3	Trp -> Trp	Yes
+5262	G	5	2699	_	_	_	ND2	265	1	Ala -> Thr	No
+5263	C	_	_	2678	26	_	ND2	265	2	Ala -> Val	No
+5267	T	_	_	1	2703	_	ND2	266	3	Ile -> Ile	Yes
+5268	A	2701	3	_	_	_	ND2	267	1	Ile -> Val	No
+5276	A	2701	3	_	_	_	ND2	269	3	Glu -> Glu	Yes
+5277	T	_	_	6	2698	_	ND2	270	1	Phe -> Leu	No
+5285	A	2696	8	_	_	_	ND2	272	3	Lys -> Lys	Yes
+5288	C	_	_	2703	1	_	ND2	273	3	Asn -> Asn	Yes
+5291	T	_	_	1	2703	_	ND2	274	3	Asn -> Asn	Yes
+5298	A	2702	2	_	_	_	ND2	277	1	Ile -> Val	No
+5300	C	_	_	2699	5	_	ND2	277	3	Ile -> Ile	Yes
+5301	A	2668	36	_	_	_	ND2	278	1	Ile -> Val	No
+5302	T	_	_	3	2701	_	ND2	278	2	Ile -> Thr	No
+5315	A	2703	1	_	_	_	ND2	282	3	Met -> Met	Yes
+5316	G	2	2702	_	_	_	ND2	283	1	Ala -> Thr	No
+5319	A	2690	14	_	_	_	ND2	284	1	Thr -> Ala	No
+5321	C	_	_	2702	2	_	ND2	284	3	Thr -> Thr	Yes
+5324	C	_	_	2702	2	_	ND2	285	3	Ile -> Ile	Yes
+5330	C	1	_	2703	_	_	ND2	287	3	Leu -> Leu	Yes
+5331	C	8	_	2696	_	_	ND2	288	1	Leu -> Ile	No
+5339	C	_	_	2702	2	_	ND2	290	3	Leu -> Leu	Yes
+5348	C	_	_	2697	7	_	ND2	293	3	Tyr -> Tyr	Yes
+5351	A	2664	40	_	_	_	ND2	294	3	Leu -> Leu	Yes
+5360	C	_	_	2697	7	_	ND2	297	3	Ile -> Ile	Yes
+5366	C	1	_	2703	_	_	ND2	299	3	Ser -> Ser	Yes
+5371	C	_	1	2703	_	_	ND2	301	2	Ser -> Trp	No
+5372	A	2703	1	_	_	_	ND2	301	3	Ser -> Ser	Yes
+5375	C	_	_	2697	7	_	ND2	302	3	Ile -> Ile	Yes
+5378	A	2701	3	_	_	_	ND2	303	3	Thr -> Thr	Yes
+5379	C	_	_	2702	2	_	ND2	304	1	Leu -> Leu	Yes
+5384	C	_	_	2703	1	_	ND2	305	3	Leu -> Leu	Yes
+5387	C	_	_	2703	1	_	ND2	306	3	Pro -> Pro	Yes
+5390	A	2685	19	_	_	_	ND2	307	3	Met -> Met	Yes
+5393	T	_	_	19	2685	_	ND2	308	3	Ser -> Ser	Yes
+5414	A	2702	2	_	_	_	ND2	315	3	Trp -> Trp	Yes
+5417	G	63	2641	_	_	_	ND2	316	3	Gln -> Gln	Yes
+5418	T	_	1	1	2702	_	ND2	317	1	Phe -> Val	No
+5420	T	_	_	1	2703	_	ND2	317	3	Phe -> Phe	Yes
+5423	A	2702	2	_	_	_	ND2	318	3	Glu -> Glu	Yes
+5426	T	_	_	27	2677	_	ND2	319	3	His -> His	Yes
+5432	A	2702	2	_	_	_	ND2	321	3	Lys -> Lys	Yes
+5435	C	_	_	2703	1	_	ND2	322	3	Pro -> Pro	Yes
+5437	C	_	1	2701	2	_	ND2	323	2	Thr -> Ser	No
+5441	A	2698	5	_	1	_	ND2	324	3	Pro -> Pro	Yes
+5442	T	_	_	53	2651	_	ND2	325	1	Phe -> Leu	No
+5452	C	_	_	2702	2	_	ND2	328	2	Thr -> Met	No
+5457	A	2703	1	_	_	_	ND2	330	1	Ile -> Val	No
+5459	C	_	_	2703	1	_	ND2	330	3	Ile -> Ile	Yes
+5460	G	176	2528	_	_	_	ND2	331	1	Ala -> Thr	No
+5461	C	_	1	2702	1	_	ND2	331	2	Ala -> Val	No
+5463	C	_	_	2703	1	_	ND2	332	1	Leu -> Phe	No
+5465	T	_	_	47	2657	_	ND2	332	3	Leu -> Leu	Yes
+5466	A	2701	3	_	_	_	ND2	333	1	Thr -> Ala	No
+5471	G	23	2681	_	_	_	ND2	334	3	Thr -> Thr	Yes
+5474	A	2702	2	_	_	_	ND2	335	3	Leu -> Leu	Yes
+5477	C	_	_	2703	1	_	ND2	336	3	Leu -> Leu	Yes
+5478	C	_	_	2701	3	_	ND2	337	1	Leu -> Leu	Yes
+5480	A	2703	1	_	_	_	ND2	337	3	Leu -> Leu	Yes
+5483	T	_	1	1	2702	_	ND2	338	3	Pro -> Pro	Yes
+5486	C	_	_	2702	2	_	ND2	339	3	Ile -> Ile	Yes
+5492	T	_	_	8	2696	_	ND2	341	3	Pro -> Pro	Yes
+5493	T	_	_	1	2703	_	ND2	342	1	Phe -> Leu	No
+5495	T	_	_	25	2679	_	ND2	342	3	Phe -> Phe	Yes
+5498	A	2700	4	_	_	_	ND2	343	3	Met -> Met	Yes
+5503	T	_	_	2	2702	_	ND2	345	2	Met -> Thr	No
+5508	T	_	_	1	2703	_	ND2	347	1	Leu -> Leu	Yes
+5510	A	2702	2	_	_	_	ND2	347	3	Leu -> Leu	Yes
+5513	G	_	2702	_	_	2	tRNA Trp	_	_	_	_
+5516	A	2703	1	_	_	_	tRNA Trp	_	_	_	_
+5539	A	2701	3	_	_	_	tRNA Trp	_	_	_	_
+5553	T	_	1	2	2701	_	tRNA Trp	_	_	_	_
+5554	C	1	_	2703	_	_	tRNA Trp	_	_	_	_
+5557	T	_	_	4	2700	_	tRNA Trp	_	_	_	_
+5558	A	2703	1	_	_	_	tRNA Trp	_	_	_	_
+5562	T	_	_	1	2703	_	tRNA Trp	_	_	_	_
+5563	G	8	2696	_	_	_	tRNA Trp	_	_	_	_
+5567	T	_	_	2	2702	_	tRNA Trp	_	_	_	_
+5568	A	2703	1	_	_	_	tRNA Trp	_	_	_	_
+5580	T	_	_	7	2697	_	Non-coding 3	_	_	_	_
+5581	A	2693	11	_	_	_	Non-coding 3	_	_	_	_
+5582	A	2701	3	_	_	_	Non-coding 3	_	_	_	_
+5584	A	2702	2	_	_	_	Non-coding 3	_	_	_	_
+5585	G	9	2695	_	_	_	Non-coding 3	_	_	_	_
+5586	C	_	_	2703	1	_	Non-coding 3	_	_	_	_
+5587	T	_	_	1	2703	_	tRNA Ala	_	_	_	_
+5592	A	2701	3	_	_	_	tRNA Ala	_	_	_	_
+5601	C	_	_	2667	37	_	tRNA Ala	_	_	_	_
+5603	C	_	_	2679	25	_	tRNA Ala	_	_	_	_
+5605	A	2703	1	_	_	_	tRNA Ala	_	_	_	_
+5606	C	_	_	2703	1	_	tRNA Ala	_	_	_	_
+5628	T	_	_	4	2700	_	tRNA Ala	_	_	_	_
+5633	C	_	_	2696	8	_	tRNA Ala	_	_	_	_
+5634	A	2703	1	_	_	_	tRNA Ala	_	_	_	_
+5654	T	_	_	1	2703	_	tRNA Ala	_	_	_	_
+5655	T	_	_	23	2681	_	tRNA Ala	_	_	_	_
+5656	A	2660	44	_	_	_	Non-coding 4	_	_	_	_
+5675	A	2702	1	_	1	_	tRNA Asn	_	_	_	_
+5705	A	2703	1	_	_	_	tRNA Asn	_	_	_	_
+5711	A	2686	18	_	_	_	tRNA Asn	_	_	_	_
+5715	A	2702	2	_	_	_	tRNA Asn	_	_	_	_
+5741	G	1	2703	_	_	_	OL	_	_	_	_
+5744	G	10	2694	_	_	_	OL	_	_	_	_
+5746	G	1	2703	_	_	_	OL	_	_	_	_
+5747	A	2700	3	_	_	1	OL	_	_	_	_
+5772	G	2	2702	_	_	_	OL	_	_	_	_
+5773	G	55	2649	_	_	_	OL	_	_	_	_
+5774	T	1	_	2	2701	_	OL	_	_	_	_
+5777	G	2	2702	_	_	_	OL	_	_	_	_
+5783	G	1	2703	_	_	_	OL	_	_	_	_
+5786	T	_	_	1	2703	_	OL	_	_	_	_
+5788	T	_	_	6	2698	_	OL	_	_	_	_
+5790	C	3	_	2701	_	_	OL	_	_	_	_
+5806	T	_	_	1	2703	_	tRNA Cys	_	_	_	_
+5809	G	1	2703	_	_	_	tRNA Cys	_	_	_	_
+5811	A	2702	2	_	_	_	tRNA Cys	_	_	_	_
+5814	T	1	_	10	2693	_	tRNA Cys	_	_	_	_
+5817	C	_	_	2703	1	_	tRNA Cys	_	_	_	_
+5821	G	14	2690	_	_	_	tRNA Cys	_	_	_	_
+5822	G	1	2703	_	_	_	tRNA Cys	_	_	_	_
+5823	A	2703	1	_	_	_	tRNA Cys	_	_	_	_
+5824	G	6	2698	_	_	_	tRNA Cys	_	_	_	_
+5826	T	_	_	6	2698	_	tRNA Cys	_	_	_	_
+5836	A	2700	4	_	_	_	tRNA Tyr	_	_	_	_
+5839	C	_	_	2701	3	_	tRNA Tyr	_	_	_	_
+5843	A	2680	24	_	_	_	tRNA Tyr	_	_	_	_
+5846	C	_	_	2702	2	_	tRNA Tyr	_	_	_	_
+5875	C	_	_	2703	1	_	tRNA Tyr	_	_	_	_
+5892	T	_	_	4	2700	_	Non-coding 5	_	_	_	_
+5893	C	_	_	2701	2	1	Non-coding 5	_	_	_	_
+5894	A	2694	8	1	_	1	Non-coding 5	_	_	_	_
+5896	C	_	_	2703	1	_	Non-coding 5	_	_	_	_
+5899	C	_	_	2700	1	3	Non-coding 5	_	_	_	_
+5910	G	2	2702	_	_	_	COI	3	1	Ala -> Thr	No
+5911	C	_	_	2698	6	_	COI	3	2	Ala -> Val	No
+5913	G	12	2692	_	_	_	COI	4	1	Asp -> Asn	No
+5918	T	_	_	1	2703	_	COI	5	3	Arg -> Arg	Yes
+5922	C	_	_	2702	2	_	COI	7	1	Leu -> Leu	Yes
+5945	C	_	_	2703	1	_	COI	14	3	Asp -> Asp	Yes
+5951	A	2672	32	_	_	_	COI	16	3	Gly -> Gly	Yes
+5964	T	_	_	11	2693	_	COI	21	1	Leu -> Leu	Yes
+5970	G	1	2703	_	_	_	COI	23	1	Gly -> Ser	No
+5972	C	_	_	2701	3	_	COI	23	3	Gly -> Gly	Yes
+5973	G	1	2703	_	_	_	COI	24	1	Ala -> Thr	No
+5978	A	2701	3	_	_	_	COI	25	3	Trp -> Trp	Yes
+5979	G	1	2703	_	_	_	COI	26	1	Ala -> Thr	No
+5984	A	2695	9	_	_	_	COI	27	3	Gly -> Gly	Yes
+5987	C	_	_	2702	2	_	COI	28	3	Val -> Val	Yes
+5988	C	_	_	2702	2	_	COI	29	1	Leu -> Leu	Yes
+5999	T	_	_	17	2687	_	COI	32	3	Ala -> Ala	Yes
+6005	C	_	_	2702	2	_	COI	34	3	Ser -> Ser	Yes
+6011	T	_	_	1	2703	_	COI	36	3	Leu -> Leu	Yes
+6014	T	_	_	2	2702	_	COI	37	3	Ile -> Ile	Yes
+6017	A	2703	1	_	_	_	COI	38	3	Arg -> Arg	Yes
+6018	G	3	2701	_	_	_	COI	39	1	Ala -> Thr	No
+6022	A	2703	1	_	_	_	COI	40	2	Glu -> Gly	No
+6023	G	34	2670	_	_	_	COI	40	3	Glu -> Glu	Yes
+6026	G	26	2678	_	_	_	COI	41	3	Leu -> Leu	Yes
+6029	C	_	_	2703	1	_	COI	42	3	Gly -> Gly	Yes
+6032	G	2	2702	_	_	_	COI	43	3	Gln -> Gln	Yes
+6038	C	_	_	2703	1	_	COI	45	3	Gly -> Gly	Yes
+6039	A	2703	1	_	_	_	COI	46	1	Asn -> Asp	No
+6040	A	2701	3	_	_	_	COI	46	2	Asn -> Ser	No
+6045	C	_	_	2686	18	_	COI	48	1	Leu -> Leu	Yes
+6047	A	2692	12	_	_	_	COI	48	3	Leu -> Leu	Yes
+6050	T	_	_	1	2703	_	COI	49	3	Gly -> Gly	Yes
+6053	C	_	_	2701	3	_	COI	50	3	Asn -> Asn	Yes
+6056	C	_	_	2703	1	_	COI	51	3	Asp -> Asp	Yes
+6059	C	_	_	2703	1	_	COI	52	3	His -> His	Yes
+6060	A	2703	1	_	_	_	COI	53	1	Ile -> Val	No
+6061	T	_	_	1	2703	_	COI	53	2	Ile -> Thr	No
+6071	T	_	_	28	2676	_	COI	56	3	Val -> Val	Yes
+6077	C	_	_	2696	8	_	COI	58	3	Val -> Val	Yes
+6083	C	_	_	2703	1	_	COI	60	3	Ala -> Ala	Yes
+6086	T	_	_	2	2702	_	COI	61	3	His -> His	Yes
+6092	T	_	_	2	2702	_	COI	63	3	Phe -> Phe	Yes
+6104	C	_	_	2700	4	_	COI	67	3	Phe -> Phe	Yes
+6116	A	2703	1	_	_	_	COI	71	3	Met -> Met	Yes
+6119	C	_	_	2703	1	_	COI	72	3	Pro -> Pro	Yes
+6125	A	2703	1	_	_	_	COI	74	3	Met -> Met	Yes
+6131	A	2702	2	_	_	_	COI	76	3	Gly -> Gly	Yes
+6146	A	2699	5	_	_	_	COI	81	3	Trp -> Trp	Yes
+6150	G	5	2699	_	_	_	COI	83	1	Val -> Ile	No
+6152	T	_	_	21	2683	_	COI	83	3	Val -> Val	Yes
+6164	C	_	_	2694	10	_	COI	87	3	Ile -> Ile	Yes
+6167	T	_	2	4	2698	_	COI	88	3	Gly -> Gly	Yes
+6173	C	_	_	2703	1	_	COI	90	3	Pro -> Pro	Yes
+6176	T	_	_	1	2703	_	COI	91	3	Asp -> Asp	Yes
+6177	A	2703	1	_	_	_	COI	92	1	Met -> Val	No
+6179	G	17	2687	_	_	_	COI	92	3	Met -> Met	Yes
+6182	G	13	2691	_	_	_	COI	93	3	Ala -> Ala	Yes
+6185	T	_	_	41	2663	_	COI	94	3	Phe -> Phe	Yes
+6216	T	_	_	14	2690	_	COI	105	1	Leu -> Leu	Yes
+6218	A	2703	1	_	_	_	COI	105	3	Leu -> Leu	Yes
+6221	T	2	_	62	2640	_	COI	106	3	Pro -> Pro	Yes
+6227	T	_	_	2	2702	_	COI	108	3	Ser -> Ser	Yes
+6231	C	_	_	2702	2	_	COI	110	1	Leu -> Leu	Yes
+6236	C	_	_	2703	1	_	COI	111	3	Leu -> Leu	Yes
+6237	C	2	_	2702	_	_	COI	112	1	Leu -> Met	No
+6242	C	_	_	2703	1	_	COI	113	3	Leu -> Leu	Yes
+6248	T	_	_	4	2700	_	COI	115	3	Ser -> Ser	Yes
+6249	G	5	2699	_	_	_	COI	116	1	Ala -> Thr	No
+6253	T	_	_	25	2679	_	COI	117	2	Met -> Thr	No
+6254	A	2703	1	_	_	_	COI	117	3	Met -> Met	Yes
+6257	G	16	2688	_	_	_	COI	118	3	Val -> Val	Yes
+6260	G	24	2680	_	_	_	COI	119	3	Glu -> Glu	Yes
+6261	G	13	2691	_	_	_	COI	120	1	Ala -> Thr	No
+6263	C	_	_	2702	2	_	COI	120	3	Ala -> Ala	Yes
+6266	A	2697	7	_	_	_	COI	121	3	Gly -> Gly	Yes
+6267	G	2	2702	_	_	_	COI	122	1	Ala -> Thr	No
+6272	A	2701	3	_	_	_	COI	123	3	Gly -> Gly	Yes
+6278	T	_	_	1	2703	_	COI	125	3	Gly -> Gly	Yes
+6281	A	2698	6	_	_	_	COI	126	3	Trp -> Trp	Yes
+6285	G	1	2703	_	_	_	COI	128	1	Val -> Ile	No
+6286	T	_	_	1	2703	_	COI	128	2	Val -> Ala	No
+6290	C	_	_	2703	1	_	COI	129	3	Tyr -> Tyr	Yes
+6293	T	_	_	8	2696	_	COI	130	3	Pro -> Pro	Yes
+6296	C	1	_	2700	3	_	COI	131	3	Pro -> Pro	Yes
+6297	T	_	_	3	2701	_	COI	132	1	Leu -> Leu	Yes
+6305	G	1	2703	_	_	_	COI	134	3	Gly -> Gly	Yes
+6308	C	_	_	2700	4	_	COI	135	3	Asn -> Asn	Yes
+6311	C	_	_	2703	1	_	COI	136	3	Tyr -> Tyr	Yes
+6314	C	_	_	2703	1	_	COI	137	3	Ser -> Ser	Yes
+6317	C	_	_	2703	1	_	COI	138	3	His -> His	Yes
+6320	T	_	_	2	2702	_	COI	139	3	Pro -> Pro	Yes
+6324	G	1	2703	_	_	_	COI	141	1	Ala -> Thr	No
+6332	A	2701	3	_	_	_	COI	143	3	Val -> Val	Yes
+6338	A	2702	2	_	_	_	COI	145	3	Leu -> Leu	Yes
+6339	A	2703	1	_	_	_	COI	146	1	Thr -> Ala	No
+6340	C	_	_	2701	3	_	COI	146	2	Thr -> Ile	No
+6341	C	_	_	2703	1	_	COI	146	3	Thr -> Thr	Yes
+6345	T	_	_	2	2702	_	COI	148	1	Phe -> Leu	No
+6351	T	_	_	3	2701	_	COI	150	1	Leu -> Leu	Yes
+6353	A	2703	1	_	_	_	COI	150	3	Leu -> Leu	Yes
+6359	A	2701	3	_	_	_	COI	152	3	Leu -> Leu	Yes
+6365	T	_	_	14	2690	_	COI	154	3	Gly -> Gly	Yes
+6366	G	9	2695	_	_	_	COI	155	1	Val -> Ile	No
+6367	T	_	_	2	2702	_	COI	155	2	Val -> Ala	No
+6371	C	_	_	2681	23	_	COI	156	3	Ser -> Ser	Yes
+6374	T	_	_	6	2698	_	COI	157	3	Ser -> Ser	Yes
+6378	T	_	_	4	2700	_	COI	159	1	Leu -> Leu	Yes
+6383	G	4	2700	_	_	_	COI	160	3	Gly -> Gly	Yes
+6386	C	_	_	2701	3	_	COI	161	3	Ala -> Ala	Yes
+6392	T	_	_	61	2643	_	COI	163	3	Asn -> Asn	Yes
+6398	C	_	_	2703	1	_	COI	165	3	Ile -> Ile	Yes
+6407	T	_	_	2	2702	_	COI	168	3	Ile -> Ile	Yes
+6410	C	_	_	2692	12	_	COI	169	3	Ile -> Ile	Yes
+6413	T	_	_	23	2681	_	COI	170	3	Asn -> Asn	Yes
+6416	A	2703	1	_	_	_	COI	171	3	Met -> Met	Yes
+6425	T	_	_	1	2703	_	COI	174	3	Pro -> Pro	Yes
+6431	A	2702	2	_	_	_	COI	176	3	Met -> Met	Yes
+6437	A	2702	2	_	_	_	COI	178	3	Gln -> Gln	Yes
+6445	C	_	_	2703	1	_	COI	181	2	Thr -> Met	No
+6446	G	58	2646	_	_	_	COI	181	3	Thr -> Thr	Yes
+6455	C	_	_	2608	96	_	COI	184	3	Phe -> Phe	Yes
+6456	G	1	2703	_	_	_	COI	185	1	Val -> Ile	No
+6464	C	2	_	2702	_	_	COI	187	3	Ser -> Ser	Yes
+6465	G	1	2703	_	_	_	COI	188	1	Val -> Ile	No
+6473	C	_	_	2683	21	_	COI	190	3	Ile -> Ile	Yes
+6480	G	6	2698	_	_	_	COI	193	1	Val -> Ile	No
+6485	A	2702	2	_	_	_	COI	194	3	Leu -> Leu	Yes
+6489	C	5	_	2699	_	_	COI	196	1	Leu -> Ile	No
+6491	C	1	_	2702	1	_	COI	196	3	Leu -> Leu	Yes
+6494	A	2703	1	_	_	_	COI	197	3	Leu -> Leu	Yes
+6496	C	1	_	2703	_	_	COI	198	2	Ser -> Tyr	No
+6498	C	_	1	2703	_	_	COI	199	1	Leu -> Val	No
+6503	A	2702	1	1	_	_	COI	200	3	Pro -> Pro	Yes
+6515	T	_	_	5	2699	_	COI	204	3	Ala -> Ala	Yes
+6518	C	_	_	2698	6	_	COI	205	3	Gly -> Gly	Yes
+6524	T	_	_	5	2699	_	COI	207	3	Thr -> Thr	Yes
+6528	C	_	_	2701	3	_	COI	209	1	Leu -> Leu	Yes
+6531	C	_	_	2700	4	_	COI	210	1	Leu -> Leu	Yes
+6533	A	2702	2	_	_	_	COI	210	3	Leu -> Leu	Yes
+6545	C	_	_	2703	1	_	COI	214	3	Asn -> Asn	Yes
+6546	C	_	_	2703	1	_	COI	215	1	Leu -> Phe	No
+6548	C	_	_	2684	20	_	COI	215	3	Leu -> Leu	Yes
+6551	C	_	_	2702	2	_	COI	216	3	Asn -> Asn	Yes
+6554	C	_	_	2702	2	_	COI	217	3	Thr -> Thr	Yes
+6557	C	_	_	2703	1	_	COI	218	3	Thr -> Thr	Yes
+6560	C	_	_	2703	1	_	COI	219	3	Phe -> Phe	Yes
+6575	A	2700	4	_	_	_	COI	224	3	Gly -> Gly	Yes
+6587	C	_	_	2697	7	_	COI	228	3	Pro -> Pro	Yes
+6590	T	_	_	1	2703	_	COI	229	3	Ile -> Ile	Yes
+6593	A	2703	1	_	_	_	COI	230	3	Leu -> Leu	Yes
+6596	C	_	_	2703	1	_	COI	231	3	Tyr -> Tyr	Yes
+6599	A	2700	4	_	_	_	COI	232	3	Gln -> Gln	Yes
+6614	T	_	_	3	2701	_	COI	237	3	Phe -> Phe	Yes
+6620	T	_	_	12	2692	_	COI	239	3	Gly -> Gly	Yes
+6623	C	_	_	2703	1	_	COI	240	3	His -> His	Yes
+6629	A	2695	9	_	_	_	COI	242	3	Glu -> Glu	Yes
+6632	T	_	_	2	2702	_	COI	243	3	Val -> Val	Yes
+6638	T	_	_	1	2703	_	COI	245	3	Ile -> Ile	Yes
+6641	T	_	_	2	2702	_	COI	246	3	Leu -> Leu	Yes
+6644	C	_	_	2702	2	_	COI	247	3	Ile -> Ile	Yes
+6647	A	2702	2	_	_	_	COI	248	3	Leu -> Leu	Yes
+6653	C	1	_	2700	3	_	COI	250	3	Gly -> Gly	Yes
+6663	A	2698	6	_	_	_	COI	254	1	Ile -> Val	No
+6671	T	_	_	51	2653	_	COI	256	3	His -> His	Yes
+6674	T	_	_	2	2702	_	COI	257	3	Ile -> Ile	Yes
+6680	T	_	_	98	2606	_	COI	259	3	Thr -> Thr	Yes
+6681	T	_	_	1	2703	_	COI	260	1	Tyr -> His	No
+6689	C	_	_	2690	14	_	COI	262	3	Ser -> Ser	Yes
+6692	A	2702	2	_	_	_	COI	263	3	Gly -> Gly	Yes
+6698	A	2703	1	_	_	_	COI	265	3	Lys -> Lys	Yes
+6701	A	2703	1	_	_	_	COI	266	3	Glu -> Glu	Yes
+6710	A	2702	2	_	_	_	COI	269	3	Gly -> Gly	Yes
+6713	C	_	_	2694	10	_	COI	270	3	Tyr -> Tyr	Yes
+6716	A	2703	1	_	_	_	COI	271	3	Met -> Met	Yes
+6719	T	_	_	37	2667	_	COI	272	3	Gly -> Gly	Yes
+6722	G	3	2701	_	_	_	COI	273	3	Met -> Met	Yes
+6734	G	20	2684	_	_	_	COI	277	3	Met -> Met	Yes
+6737	A	2695	9	_	_	_	COI	278	3	Met -> Met	Yes
+6746	C	1	_	2703	_	_	COI	281	3	Gly -> Gly	Yes
+6752	A	2660	44	_	_	_	COI	283	3	Leu -> Leu	Yes
+6755	G	8	2696	_	_	_	COI	284	3	Gly -> Gly	Yes
+6761	C	_	_	2702	2	_	COI	286	3	Ile -> Ile	Yes
+6764	G	2	2702	_	_	_	COI	287	3	Val -> Val	Yes
+6767	A	2703	1	_	_	_	COI	288	3	Trp -> Trp	Yes
+6770	A	2702	2	_	_	_	COI	289	3	Ala -> Ala	Yes
+6776	T	_	_	69	2635	_	COI	291	3	His -> His	Yes
+6779	A	2702	2	_	_	_	COI	292	3	Met -> Met	Yes
+6806	A	2701	3	_	_	_	COI	301	3	Thr -> Thr	Yes
+6815	T	_	_	12	2692	_	COI	304	3	Tyr -> Tyr	Yes
+6824	C	_	_	2703	1	_	COI	307	3	Ser -> Ser	Yes
+6826	C	_	_	2703	1	_	COI	308	2	Ala -> Val	No
+6827	T	_	_	28	2676	_	COI	308	3	Ala -> Ala	Yes
+6836	C	_	_	2702	2	_	COI	311	3	Ile -> Ile	Yes
+6842	T	1	_	2	2701	_	COI	313	3	Ala -> Ala	Yes
+6845	C	_	_	2702	2	_	COI	314	3	Ile -> Ile	Yes
+6851	C	_	_	2703	1	_	COI	316	3	Thr -> Thr	Yes
+6858	A	2703	1	_	_	_	COI	319	1	Lys -> Glu	No
+6869	C	_	_	2700	4	_	COI	322	3	Ser -> Ser	Yes
+6875	C	1	_	2703	_	_	COI	324	3	Leu -> Leu	Yes
+6878	C	_	_	2703	1	_	COI	325	3	Ala -> Ala	Yes
+6881	A	2701	3	_	_	_	COI	326	3	Thr -> Thr	Yes
+6887	C	_	_	2703	1	_	COI	328	3	His -> His	Yes
+6891	A	2703	1	_	_	_	COI	330	1	Ser -> Gly	No
+6899	G	4	2700	_	_	_	COI	332	3	Met -> Met	Yes
+6905	A	2701	3	_	_	_	COI	334	3	Trp -> Trp	Yes
+6908	T	_	_	2	2702	_	COI	335	3	Ser -> Ser	Yes
+6911	T	_	_	1	2703	_	COI	336	3	Ala -> Ala	Yes
+6917	G	5	2699	_	_	_	COI	338	3	Val -> Val	Yes
+6920	C	1	_	2703	_	_	COI	339	3	Leu -> Leu	Yes
+6929	A	2701	2	_	1	_	COI	342	3	Leu -> Leu	Yes
+6932	A	2703	1	_	_	_	COI	343	3	Gly -> Gly	Yes
+6935	C	_	_	2702	2	_	COI	344	3	Phe -> Phe	Yes
+6938	C	_	_	2701	3	_	COI	345	3	Ile -> Ile	Yes
+6941	T	_	_	2	2702	_	COI	346	3	Phe -> Phe	Yes
+6951	G	3	2701	_	_	_	COI	350	1	Val -> Met	No
+6956	T	_	_	4	2700	_	COI	351	3	Gly -> Gly	Yes
+6960	C	_	_	2699	5	_	COI	353	1	Leu -> Leu	Yes
+6962	G	52	2651	_	1	_	COI	353	3	Leu -> Leu	Yes
+6969	A	2703	1	_	_	_	COI	356	1	Ile -> Val	No
+6975	T	_	_	2	2702	_	COI	358	1	Leu -> Leu	Yes
+6983	C	_	_	2702	2	_	COI	360	3	Asn -> Asn	Yes
+6989	A	2684	20	_	_	_	COI	362	3	Ser -> Ser	Yes
+6990	C	_	_	2703	1	_	COI	363	1	Leu -> Leu	Yes
+6998	C	_	_	2703	1	_	COI	365	3	Ile -> Ile	Yes
+7001	A	2703	1	_	_	_	COI	366	3	Val -> Val	Yes
+7010	C	_	_	2703	1	_	COI	369	3	Asp -> Asp	Yes
+7013	G	4	2700	_	_	_	COI	370	3	Thr -> Thr	Yes
+7022	T	_	_	10	2694	_	COI	373	3	Val -> Val	Yes
+7025	A	2703	1	_	_	_	COI	374	3	Val -> Val	Yes
+7028	C	_	_	505	2199	_	COI	375	3	Ala -> Ala	Yes
+7040	T	_	_	1	2703	_	COI	379	3	Tyr -> Tyr	Yes
+7041	G	1	2703	_	_	_	COI	380	1	Val -> Ile	No
+7043	C	_	_	2703	1	_	COI	380	3	Val -> Val	Yes
+7046	A	2702	2	_	_	_	COI	381	3	Leu -> Leu	Yes
+7051	T	_	_	1	2703	_	COI	383	2	Met -> Thr	No
+7052	A	2701	3	_	_	_	COI	383	3	Met -> Met	Yes
+7055	A	2652	52	_	_	_	COI	384	3	Gly -> Gly	Yes
+7058	T	1	_	2	2701	_	COI	385	3	Ala -> Ala	Yes
+7073	A	2703	1	_	_	_	COI	390	3	Met -> Met	Yes
+7076	A	2697	7	_	_	_	COI	391	3	Gly -> Gly	Yes
+7080	T	_	_	1	2703	_	COI	393	1	Phe -> Leu	No
+7082	C	_	_	2701	3	_	COI	393	3	Phe -> Phe	Yes
+7083	A	2703	1	_	_	_	COI	394	1	Ile -> Val	No
+7091	A	2702	2	_	_	_	COI	396	3	Trp -> Trp	Yes
+7094	T	_	_	3	2701	_	COI	397	3	Phe -> Phe	Yes
+7109	C	_	_	2701	3	_	COI	402	3	Gly -> Gly	Yes
+7112	C	_	_	2700	4	_	COI	403	3	Tyr -> Tyr	Yes
+7113	A	2703	1	_	_	_	COI	404	1	Thr -> Ala	No
+7124	A	2703	1	_	_	_	COI	407	3	Gln -> Gln	Yes
+7129	A	2703	1	_	_	_	COI	409	2	Tyr -> Cys	No
+7142	T	_	_	3	2701	_	COI	413	3	His -> His	Yes
+7146	A	2621	83	_	_	_	COI	415	1	Thr -> Ala	No
+7148	T	_	_	3	2701	_	COI	415	3	Thr -> Thr	Yes
+7149	A	2703	1	_	_	_	COI	416	1	Ile -> Val	No
+7151	C	_	_	2702	2	_	COI	416	3	Ile -> Ile	Yes
+7154	A	2701	3	_	_	_	COI	417	3	Met -> Met	Yes
+7158	A	2702	2	_	_	_	COI	419	1	Ile -> Val	No
+7159	T	_	_	1	2703	_	COI	419	2	Ile -> Thr	No
+7169	T	_	_	1	2703	_	COI	422	3	Asn -> Asn	Yes
+7175	T	_	_	43	2661	_	COI	424	3	Thr -> Thr	Yes
+7184	A	2699	5	_	_	_	COI	427	3	Pro -> Pro	Yes
+7191	T	_	_	1	2703	_	COI	430	1	Phe -> Leu	No
+7193	T	_	_	2	2702	_	COI	430	3	Phe -> Phe	Yes
+7194	C	_	_	2703	1	_	COI	431	1	Leu -> Phe	No
+7196	C	84	_	2619	1	_	COI	431	3	Leu -> Leu	Yes
+7202	A	2693	11	_	_	_	COI	433	3	Leu -> Leu	Yes
+7205	C	_	_	2703	1	_	COI	434	3	Ser -> Ser	Yes
+7211	G	1	2703	_	_	_	COI	436	3	Met -> Met	Yes
+7214	C	_	_	2702	2	_	COI	437	3	Pro -> Pro	Yes
+7220	T	_	_	4	2700	_	COI	439	3	Arg -> Arg	Yes
+7226	G	8	2696	_	_	_	COI	441	3	Ser -> Ser	Yes
+7235	C	_	_	2703	1	_	COI	444	3	Pro -> Pro	Yes
+7241	A	2702	2	_	_	_	COI	446	3	Ala -> Ala	Yes
+7244	C	_	_	2703	1	_	COI	447	3	Tyr -> Tyr	Yes
+7245	A	2701	3	_	_	_	COI	448	1	Thr -> Ala	No
+7250	A	2698	6	_	_	_	COI	449	3	Thr -> Thr	Yes
+7256	C	_	_	2555	149	_	COI	451	3	Asn -> Asn	Yes
+7257	A	2701	3	_	_	_	COI	452	1	Ile -> Val	No
+7258	T	_	_	5	2699	_	COI	452	2	Ile -> Thr	No
+7268	T	_	2	_	2702	_	COI	455	3	Ser -> Ser	Yes
+7269	G	1	2703	_	_	_	COI	456	1	Val -> Met	No
+7270	T	_	_	8	2696	_	COI	456	2	Val -> Ala	No
+7271	A	2700	4	_	_	_	COI	456	3	Val -> Val	Yes
+7274	C	_	_	2661	43	_	COI	457	3	Gly -> Gly	Yes
+7278	T	_	_	2	2702	_	COI	459	1	Phe -> Leu	No
+7283	T	_	_	4	2700	_	COI	460	3	Ile -> Ile	Yes
+7289	A	2703	1	_	_	_	COI	462	3	Leu -> Leu	Yes
+7298	A	2702	1	1	_	_	COI	465	3	Val -> Val	Yes
+7299	A	2702	2	_	_	_	COI	466	1	Met -> Val	No
+7301	A	2703	1	_	_	_	COI	466	3	Met -> Met	Yes
+7304	A	2703	1	_	_	_	COI	467	3	Leu -> Leu	Yes
+7309	T	_	_	8	2696	_	COI	469	2	Ile -> Thr	No
+7316	G	1	2703	_	_	_	COI	471	3	Met -> Met	Yes
+7319	T	_	_	2	2702	_	COI	472	3	Ile -> Ile	Yes
+7325	A	2702	2	_	_	_	COI	474	3	Glu -> Glu	Yes
+7334	T	_	_	1	2703	_	COI	477	3	Ala -> Ala	Yes
+7337	G	15	2689	_	_	_	COI	478	3	Ser -> Ser	Yes
+7340	G	5	2699	_	_	_	COI	479	3	Lys -> Lys	Yes
+7347	G	1	2703	_	_	_	COI	482	1	Val -> Ile	No
+7352	A	2703	_	_	1	_	COI	483	3	Leu -> Leu	Yes
+7356	G	2	2702	_	_	_	COI	485	1	Val -> Met	No
+7364	A	2701	3	_	_	_	COI	487	3	Glu -> Glu	Yes
+7385	A	2687	17	_	_	_	COI	494	3	Trp -> Trp	Yes
+7388	A	2697	7	_	_	_	COI	495	3	Leu -> Leu	Yes
+7389	T	_	_	53	2651	_	COI	496	1	Tyr -> His	No
+7391	T	_	_	1	2703	_	COI	496	3	Tyr -> Tyr	Yes
+7394	A	2701	3	_	_	_	COI	497	3	Gly -> Gly	Yes
+7400	C	1	_	2702	1	_	COI	499	3	Pro -> Pro	Yes
+7403	A	2696	8	_	_	_	COI	500	3	Pro -> Pro	Yes
+7419	G	2	2702	_	_	_	COI	506	1	Glu -> Lys	No
+7424	A	2681	23	_	_	_	COI	507	3	Glu -> Glu	Yes
+7444	G	10	2694	_	_	_	COI	514	2	STP -> Lys	No
+7460	A	2703	1	_	_	_	tRNA Ser(1)	_	_	_	_
+7472	A	2703	1	_	_	_	tRNA Ser(1)	_	_	_	_
+7473	A	2703	1	_	_	_	tRNA Ser(1)	_	_	_	_
+7476	C	_	_	2690	14	_	tRNA Ser(1)	_	_	_	_
+7490	A	2702	2	_	_	_	tRNA Ser(1)	_	_	_	_
+7492	C	_	_	2702	2	_	tRNA Ser(1)	_	_	_	_
+7493	C	_	_	2701	3	_	tRNA Ser(1)	_	_	_	_
+7498	G	3	2701	_	_	_	tRNA Ser(1)	_	_	_	_
+7501	T	1	_	_	2703	_	tRNA Ser(1)	_	_	_	_
+7502	C	_	_	2703	_	1	tRNA Ser(1)	_	_	_	_
+7521	G	152	2552	_	_	_	tRNA Asp	_	_	_	_
+7533	C	_	_	2701	3	_	tRNA Asp	_	_	_	_
+7543	A	2702	2	_	_	_	tRNA Asp	_	_	_	_
+7547	T	_	_	1	2703	_	tRNA Asp	_	_	_	_
+7559	A	2700	4	_	_	_	tRNA Asp	_	_	_	_
+7561	T	_	_	2	2702	_	tRNA Asp	_	_	_	_
+7569	A	2700	4	_	_	_	tRNA Asp	_	_	_	_
+7571	A	2699	1	4	_	_	tRNA Asp	_	_	_	_
+7581	T	_	_	11	2693	_	tRNA Asp	_	_	_	_
+7590	C	_	1	2703	_	_	COII	2	2	Ala -> Gly	No
+7598	G	6	2698	_	_	_	COII	5	1	Ala -> Thr	No
+7600	G	34	2670	_	_	_	COII	5	3	Ala -> Ala	Yes
+7604	G	3	2701	_	_	_	COII	7	1	Val -> Met	No
+7609	T	_	_	1	2703	_	COII	8	3	Gly -> Gly	Yes
+7618	C	_	_	2702	2	_	COII	11	3	Asp -> Asp	Yes
+7621	T	_	_	5	2699	_	COII	12	3	Ala -> Ala	Yes
+7624	T	15	_	_	2689	_	COII	13	3	Thr -> Thr	Yes
+7633	C	_	_	2703	1	_	COII	16	3	Ile -> Ile	Yes
+7637	G	1	2703	_	_	_	COII	18	1	Glu -> Lys	No
+7642	G	8	2696	_	_	_	COII	19	3	Glu -> Glu	Yes
+7645	T	_	_	6	2698	_	COII	20	3	Leu -> Leu	Yes
+7648	C	_	_	2702	2	_	COII	21	3	Ile -> Ile	Yes
+7657	T	_	_	2	2702	_	COII	24	3	His -> His	Yes
+7660	T	_	_	7	2697	_	COII	25	3	Asp -> Asp	Yes
+7663	C	_	_	2703	1	_	COII	26	3	His -> His	Yes
+7664	G	10	2694	_	_	_	COII	27	1	Ala -> Thr	No
+7669	C	_	_	2703	1	_	COII	28	3	Leu -> Leu	Yes
+7673	A	2693	11	_	_	_	COII	30	1	Ile -> Val	No
+7674	T	_	_	2	2702	_	COII	30	2	Ile -> Thr	No
+7675	C	_	_	2702	2	_	COII	30	3	Ile -> Ile	Yes
+7678	T	_	_	1	2703	_	COII	31	3	Ile -> Ile	Yes
+7679	T	_	_	3	2701	_	COII	32	1	Phe -> Leu	No
+7680	T	_	_	1	2703	_	COII	32	2	Phe -> Ser	No
+7681	C	_	_	2702	2	_	COII	32	3	Phe -> Phe	Yes
+7684	T	_	_	35	2669	_	COII	33	3	Leu -> Leu	Yes
+7686	T	_	_	1	2703	_	COII	34	2	Ile -> Thr	No
+7691	T	_	_	1	2703	_	COII	36	1	Phe -> Leu	No
+7692	T	_	_	1	2703	_	COII	36	2	Phe -> Ser	No
+7693	C	_	_	2699	5	_	COII	36	3	Phe -> Phe	Yes
+7694	C	_	_	2702	2	_	COII	37	1	Leu -> Leu	Yes
+7697	G	4	2700	_	_	_	COII	38	1	Val -> Ile	No
+7700	C	_	_	2702	2	_	COII	39	1	Leu -> Leu	Yes
+7702	G	3	2701	_	_	_	COII	39	3	Leu -> Leu	Yes
+7705	T	_	_	5	2699	_	COII	40	3	Tyr -> Tyr	Yes
+7706	G	1	2703	_	_	_	COII	41	1	Ala -> Thr	No
+7711	T	_	_	8	2696	_	COII	42	3	Leu -> Leu	Yes
+7724	A	2702	_	_	2	_	COII	47	1	Thr -> Ser	No
+7729	A	2702	2	_	_	_	COII	48	3	Thr -> Thr	Yes
+7735	A	2702	2	_	_	_	COII	50	3	Leu -> Leu	Yes
+7738	T	_	_	3	2701	_	COII	51	3	Thr -> Thr	Yes
+7740	A	2703	1	_	_	_	COII	52	2	Asn -> Ser	No
+7741	T	_	_	1	2703	_	COII	52	3	Asn -> Asn	Yes
+7744	T	_	_	1	2703	_	COII	53	3	Thr -> Thr	Yes
+7754	G	1	2703	_	_	_	COII	57	1	Asp -> Asn	No
+7755	A	2703	1	_	_	_	COII	57	2	Asp -> Gly	No
+7757	G	1	2703	_	_	_	COII	58	1	Ala -> Thr	No
+7759	T	_	_	5	2699	_	COII	58	3	Ala -> Ala	Yes
+7761	A	2703	1	_	_	_	COII	59	2	Gln -> Arg	No
+7762	G	6	2698	_	_	_	COII	59	3	Gln -> Gln	Yes
+7764	A	2703	1	_	_	_	COII	60	2	Glu -> Gly	No
+7765	A	2701	3	_	_	_	COII	60	3	Glu -> Glu	Yes
+7768	A	2644	60	_	_	_	COII	61	3	Met -> Met	Yes
+7771	A	2662	42	_	_	_	COII	62	3	Glu -> Glu	Yes
+7772	A	2702	2	_	_	_	COII	63	1	Thr -> Ala	No
+7774	C	_	_	2703	1	_	COII	63	3	Thr -> Thr	Yes
+7785	T	_	_	1	2703	_	COII	67	2	Ile -> Thr	No
+7787	C	_	_	2703	1	_	COII	68	1	Leu -> Leu	Yes
+7789	G	11	2693	_	_	_	COII	68	3	Leu -> Leu	Yes
+7804	A	2703	1	_	_	_	COII	73	3	Leu -> Leu	Yes
+7805	G	37	2667	_	_	_	COII	74	1	Val -> Ile	No
+7813	C	_	_	2703	1	_	COII	76	3	Ile -> Ile	Yes
+7816	C	_	_	2703	1	_	COII	77	3	Ala -> Ala	Yes
+7819	C	2	_	2701	1	_	COII	78	3	Leu -> Leu	Yes
+7822	A	2699	5	_	_	_	COII	79	3	Pro -> Pro	Yes
+7828	A	2698	6	_	_	_	COII	81	3	Leu -> Leu	Yes
+7830	G	4	2700	_	_	_	COII	82	2	Arg -> His	No
+7843	A	2702	2	_	_	_	COII	86	3	Met -> Met	Yes
+7844	A	2703	1	_	_	_	COII	87	1	Thr -> Ala	No
+7849	C	_	_	2697	7	_	COII	88	3	Asp -> Asp	Yes
+7852	G	4	2700	_	_	_	COII	89	3	Glu -> Glu	Yes
+7853	G	45	2659	_	_	_	COII	90	1	Val -> Ile	No
+7858	C	_	_	2703	1	_	COII	91	3	Asn -> Asn	Yes
+7859	G	2	2702	_	_	_	COII	92	1	Asp -> Asn	No
+7861	T	_	_	14	2690	_	COII	92	3	Asp -> Asp	Yes
+7864	C	_	_	2662	42	_	COII	93	3	Pro -> Pro	Yes
+7867	C	_	_	2657	47	_	COII	94	3	Ser -> Ser	Yes
+7868	C	_	_	2703	1	_	COII	95	1	Leu -> Phe	No
+7870	T	_	_	2	2702	_	COII	95	3	Leu -> Leu	Yes
+7873	C	_	_	2700	4	_	COII	96	3	Thr -> Thr	Yes
+7874	A	2703	1	_	_	_	COII	97	1	Ile -> Val	No
+7879	A	2703	1	_	_	_	COII	98	3	Lys -> Lys	Yes
+7885	T	_	_	1	2703	_	COII	100	3	Ile -> Ile	Yes
+7888	C	_	_	2703	1	_	COII	101	3	Gly -> Gly	Yes
+7891	C	_	_	2701	3	_	COII	102	3	His -> His	Yes
+7897	G	2	2702	_	_	_	COII	104	3	Trp -> Trp	Yes
+7906	C	_	_	2703	1	_	COII	107	3	Thr -> Thr	Yes
+7909	C	_	_	2699	5	_	COII	108	3	Tyr -> Tyr	Yes
+7912	G	4	2700	_	_	_	COII	109	3	Glu -> Glu	Yes
+7915	C	_	_	2702	2	_	COII	110	3	Tyr -> Tyr	Yes
+7918	C	_	_	2703	1	_	COII	111	3	Thr -> Thr	Yes
+7927	C	_	7	2695	2	_	COII	114	3	Gly -> Gly	Yes
+7930	A	2701	2	_	1	_	COII	115	3	Gly -> Gly	Yes
+7933	A	2703	1	_	_	_	COII	116	3	Leu -> Leu	Yes
+7948	C	_	_	2699	5	_	COII	121	3	Tyr -> Tyr	Yes
+7951	A	2703	1	_	_	_	COII	122	3	Met -> Met	Yes
+7960	A	2700	4	_	_	_	COII	125	3	Pro -> Pro	Yes
+7961	T	_	_	5	2699	_	COII	126	1	Leu -> Leu	Yes
+7963	A	2702	2	_	_	_	COII	126	3	Leu -> Leu	Yes
+7964	T	_	_	1	2703	_	COII	127	1	Phe -> Leu	No
+7966	C	_	_	2703	1	_	COII	127	3	Phe -> Phe	Yes
+7967	C	_	_	2703	1	_	COII	128	1	Leu -> Leu	Yes
+7972	A	2702	2	_	_	_	COII	129	3	Glu -> Glu	Yes
+7975	A	2703	1	_	_	_	COII	130	3	Pro -> Pro	Yes
+7978	C	_	3	2699	2	_	COII	131	3	Gly -> Gly	Yes
+7981	C	_	_	2703	1	_	COII	132	3	Asp -> Asp	Yes
+7982	C	_	_	2703	1	_	COII	133	1	Leu -> Leu	Yes
+7984	G	2	2702	_	_	_	COII	133	3	Leu -> Leu	Yes
+7985	C	_	10	2694	_	_	COII	134	1	Arg -> Gly	No
+7993	T	_	_	3	2701	_	COII	136	3	Leu -> Leu	Yes
+7999	T	_	_	4	2700	_	COII	138	3	Val -> Val	Yes
+8005	T	_	_	2	2702	_	COII	140	3	Asn -> Asn	Yes
+8014	A	2696	4	_	4	_	COII	143	3	Val -> Val	Yes
+8020	G	95	2609	_	_	_	COII	145	3	Pro -> Pro	Yes
+8023	T	_	_	3	2701	_	COII	146	3	Ile -> Ile	Yes
+8027	G	58	2646	_	_	_	COII	148	1	Ala -> Thr	No
+8029	C	_	_	2703	1	_	COII	148	3	Ala -> Ala	Yes
+8032	C	_	_	2703	1	_	COII	149	3	Pro -> Pro	Yes
+8047	T	_	_	2	2702	_	COII	154	3	Ile -> Ile	Yes
+8050	A	2702	2	_	_	_	COII	155	3	Thr -> Thr	Yes
+8053	A	2703	1	_	_	_	COII	156	3	Ser -> Ser	Yes
+8059	C	_	_	2703	1	_	COII	158	3	Asp -> Asp	Yes
+8062	C	_	_	2703	1	_	COII	159	3	Val -> Val	Yes
+8063	T	_	_	3	2701	_	COII	160	1	Leu -> Leu	Yes
+8071	A	2701	3	_	_	_	COII	162	3	Ser -> Ser	Yes
+8074	A	2702	2	_	_	_	COII	163	3	Trp -> Trp	Yes
+8075	G	2	2702	_	_	_	COII	164	1	Ala -> Thr	No
+8078	G	2	2702	_	_	_	COII	165	1	Val -> Ile	No
+8080	C	_	_	2696	8	_	COII	165	3	Val -> Val	Yes
+8087	T	_	_	14	2690	_	COII	168	1	Leu -> Leu	Yes
+8098	A	2703	1	_	_	_	COII	171	3	Lys -> Lys	Yes
+8101	A	2703	1	_	_	_	COII	172	3	Thr -> Thr	Yes
+8104	T	_	_	4	2700	_	COII	173	3	Asp -> Asp	Yes
+8108	A	2698	6	_	_	_	COII	175	1	Ile -> Val	No
+8110	T	_	_	1	2703	_	COII	175	3	Ile -> Ile	Yes
+8113	C	9	_	2695	_	_	COII	176	3	Pro -> Pro	Yes
+8119	T	_	_	3	2701	_	COII	178	3	Arg -> Arg	Yes
+8134	T	_	_	1	2703	_	COII	183	3	Thr -> Thr	Yes
+8137	C	_	_	2699	5	_	COII	184	3	Phe -> Phe	Yes
+8140	C	_	_	2703	1	_	COII	185	3	Thr -> Thr	Yes
+8149	A	2696	8	_	_	_	COII	188	3	Arg -> Arg	Yes
+8152	G	12	2692	_	_	_	COII	189	3	Pro -> Pro	Yes
+8155	G	5	2699	_	_	_	COII	190	3	Gly -> Gly	Yes
+8158	A	2699	5	_	_	_	COII	191	3	Val -> Val	Yes
+8164	C	_	_	2701	3	_	COII	193	3	Tyr -> Tyr	Yes
+8167	T	3	_	4	2697	_	COII	194	3	Gly -> Gly	Yes
+8176	T	_	_	1	2703	_	COII	197	3	Ser -> Ser	Yes
+8182	C	_	_	2703	1	_	COII	199	3	Ile -> Ile	Yes
+8185	T	_	_	1	2703	_	COII	200	3	Cys -> Cys	Yes
+8188	A	2696	8	_	_	_	COII	201	3	Gly -> Gly	Yes
+8191	A	2703	1	_	_	_	COII	202	3	Ala -> Ala	Yes
+8200	T	_	_	28	2676	_	COII	205	3	Ser -> Ser	Yes
+8206	G	76	2628	_	_	_	COII	207	3	Met -> Met	Yes
+8215	C	1	_	2702	1	_	COII	210	3	Val -> Val	Yes
+8225	A	2703	1	_	_	_	COII	214	1	Ile -> Val	No
+8227	T	_	_	5	2699	_	COII	214	3	Ile -> Ile	Yes
+8237	A	2702	2	_	_	_	COII	218	1	Ile -> Val	No
+8248	A	2683	21	_	_	_	COII	221	3	Met -> Met	Yes
+8251	G	143	2560	_	_	_	COII	222	3	Gly -> Gly	Yes
+8258	T	_	_	1	2703	_	COII	225	1	Phe -> Leu	No
+8260	T	_	1	2	2701	_	COII	225	3	Phe -> Leu	No
+8264	C	_	_	2700	4	_	COII	227	1	Leu -> Leu	Yes
+8265	T	_	_	1	2703	_	COII	227	2	Leu -> Pro	No
+8269	G	37	2667	_	_	_	COII	228	3	STP -> STP	Yes
+8270	C	_	_	2690	14	_	Non-coding 7	_	_	_	_
+8271	A	2700	_	_	4	_	Non-coding 7	_	_	_	_
+8272	C	_	_	2703	1	_	Non-coding 7	_	_	_	_
+8276	C	_	_	2701	_	3	Non-coding 7	_	_	_	_
+8277	T	_	_	9	2486	209	Non-coding 7	_	_	_	_
+8278	C	_	_	2493	_	211	Non-coding 7	_	_	_	_
+8279	T	_	_	2	2491	211	Non-coding 7	_	_	_	_
+8280	A	2493	1	_	_	210	Non-coding 7	_	_	_	_
+8281	C	_	_	2494	_	210	Non-coding 7	_	_	_	_
+8282	C	_	_	2491	2	211	Non-coding 7	_	_	_	_
+8283	C	_	_	2494	_	210	Non-coding 7	_	_	_	_
+8284	C	_	_	2494	1	209	Non-coding 7	_	_	_	_
+8285	C	_	_	2496	1	207	Non-coding 7	_	_	_	_
+8286	T	_	_	3	2701	_	Non-coding 7	_	_	_	_
+8287	C	_	_	2703	1	_	Non-coding 7	_	_	_	_
+8290	G	2	2702	_	_	_	Non-coding 7	_	_	_	_
+8291	A	2702	2	_	_	_	Non-coding 7	_	_	_	_
+8292	G	4	2700	_	_	_	Non-coding 7	_	_	_	_
+8293	C	_	_	2703	1	_	Non-coding 7	_	_	_	_
+8296	A	2700	4	_	_	_	tRNA Lys	_	_	_	_
+8297	C	_	_	2703	_	1	tRNA Lys	_	_	_	_
+8298	T	_	_	1	2703	_	tRNA Lys	_	_	_	_
+8308	A	2700	4	_	_	_	tRNA Lys	_	_	_	_
+8329	T	_	2	_	2702	_	tRNA Lys	_	_	_	_
+8334	G	1	2703	_	_	_	tRNA Lys	_	_	_	_
+8343	A	2703	1	_	_	_	tRNA Lys	_	_	_	_
+8344	A	2703	1	_	_	_	tRNA Lys	_	_	_	_
+8347	A	2702	2	_	_	_	tRNA Lys	_	_	_	_
+8348	A	2701	3	_	_	_	tRNA Lys	_	_	_	_
+8369	C	_	_	2703	1	_	ATPase8	2	1	Pro -> Ser	No
+8371	C	_	_	2703	1	_	ATPase8	2	3	Pro -> Pro	Yes
+8376	T	_	_	2	2702	_	ATPase8	4	2	Leu -> Pro	No
+8379	A	2703	1	_	_	_	ATPase8	5	2	Asn -> Ser	No
+8381	A	2703	1	_	_	_	ATPase8	6	1	Thr -> Ala	No
+8383	T	_	_	8	2696	_	ATPase8	6	3	Thr -> Thr	Yes
+8386	C	_	_	2703	1	_	ATPase8	7	3	Thr -> Thr	Yes
+8387	G	10	2694	_	_	_	ATPase8	8	1	Val -> Met	No
+8388	T	_	_	2	2702	_	ATPase8	8	2	Val -> Ala	No
+8389	A	2700	4	_	_	_	ATPase8	8	3	Val -> Val	Yes
+8392	G	12	2692	_	_	_	ATPase8	9	3	Trp -> Trp	Yes
+8393	C	_	_	2693	11	_	ATPase8	10	1	Pro -> Ser	No
+8395	C	_	_	2703	1	_	ATPase8	10	3	Pro -> Pro	Yes
+8396	A	2700	4	_	_	_	ATPase8	11	1	Thr -> Ala	No
+8400	T	_	_	3	2701	_	ATPase8	12	2	Met -> Thr	No
+8404	T	_	_	12	2692	_	ATPase8	13	3	Ile -> Ile	Yes
+8406	C	_	_	2702	2	_	ATPase8	14	2	Thr -> Ile	No
+8407	C	2	_	2702	_	_	ATPase8	14	3	Thr -> Thr	Yes
+8410	C	_	_	2702	2	_	ATPase8	15	3	Pro -> Pro	Yes
+8413	A	2701	3	_	_	_	ATPase8	16	3	Met -> Met	Yes
+8414	C	_	_	2440	264	_	ATPase8	17	1	Leu -> Phe	No
+8417	C	1	_	2702	1	_	ATPase8	18	1	Leu -> Ile	No
+8419	T	_	_	6	2698	_	ATPase8	18	3	Leu -> Leu	Yes
+8420	A	2703	1	_	_	_	ATPase8	19	1	Thr -> Ala	No
+8422	A	2703	1	_	_	_	ATPase8	19	3	Thr -> Thr	Yes
+8428	C	_	_	2681	23	_	ATPase8	21	3	Phe -> Phe	Yes
+8429	C	1	_	2702	1	_	ATPase8	22	1	Leu -> Phe	No
+8433	T	_	_	2	2702	_	ATPase8	23	2	Ile -> Thr	No
+8434	C	_	_	2703	1	_	ATPase8	23	3	Ile -> Ile	Yes
+8435	A	2701	3	_	_	_	ATPase8	24	1	Thr -> Ala	No
+8440	A	2700	4	_	_	_	ATPase8	25	3	Gln -> Gln	Yes
+8441	C	_	_	2703	1	_	ATPase8	26	1	Leu -> Leu	Yes
+8446	A	2703	1	_	_	_	ATPase8	27	3	Lys -> Lys	Yes
+8448	T	_	_	5	2699	_	ATPase8	28	2	Met -> Thr	No
+8449	A	2703	1	_	_	_	ATPase8	28	3	Met -> Met	Yes
+8450	T	_	_	6	2698	_	ATPase8	29	1	Leu -> Leu	Yes
+8453	A	2700	4	_	_	_	ATPase8	30	1	Asn -> Asp	No
+8460	A	2687	17	_	_	_	ATPase8	32	2	Asn -> Ser	No
+8461	C	_	_	2703	1	_	ATPase8	32	3	Asn -> Asn	Yes
+8466	A	2703	1	_	_	_	ATPase8	34	2	His -> Arg	No
+8468	C	_	_	2618	86	_	ATPase8	35	1	Leu -> Leu	Yes
+8470	A	2699	5	_	_	_	ATPase8	35	3	Leu -> Leu	Yes
+8472	C	_	_	2700	4	_	ATPase8	36	2	Pro -> Leu	No
+8473	T	_	_	59	2645	_	ATPase8	36	3	Pro -> Pro	Yes
+8474	C	_	_	2703	1	_	ATPase8	37	1	Pro -> Ser	No
+8477	T	_	1	_	2703	_	ATPase8	38	1	Ser -> Ala	No
+8478	C	_	_	2702	2	_	ATPase8	38	2	Ser -> Leu	No
+8479	A	2703	1	_	_	_	ATPase8	38	3	Ser -> Ser	Yes
+8480	C	_	_	2703	1	_	ATPase8	39	1	Pro -> Ser	No
+8485	G	12	2692	_	_	_	ATPase8	40	3	Lys -> Lys	Yes
+8487	C	_	_	2703	1	_	ATPase8	41	2	Pro -> Leu	No
+8489	A	2703	1	_	_	_	ATPase8	42	1	Met -> Val	No
+8491	A	2703	1	_	_	_	ATPase8	42	3	Met -> Met	Yes
+8494	A	2703	1	_	_	_	ATPase8	43	3	Lys -> Lys	Yes
+8502	A	2698	6	_	_	_	ATPase8	46	2	Asn -> Ser	No
+8503	T	_	_	4	2700	_	ATPase8	46	3	Asn -> Asn	Yes
+8504	T	_	_	1	2703	_	ATPase8	47	1	Tyr -> His	No
+8506	T	_	_	2	2702	_	ATPase8	47	3	Tyr -> Tyr	Yes
+8507	A	2703	_	_	1	_	ATPase8	48	1	Asn -> Tyr	No
+8508	A	2701	3	_	_	_	ATPase8	48	2	Asn -> Ser	No
+8512	A	2703	1	_	_	_	ATPase8	49	3	Lys -> Lys	Yes
+8518	A	2703	1	_	_	_	ATPase8	51	3	Trp -> Trp	Yes
+8519	G	1	2703	_	_	_	ATPase8	52	1	Glu -> Lys	No
+8520	A	2703	1	_	_	_	ATPase8	52	2	Glu -> Gly	No
+8521	A	2695	9	_	_	_	ATPase8	52	3	Glu -> Glu	Yes
+8522	C	_	_	2702	2	_	ATPase8	53	1	Pro -> Ser	No
+8525	A	2703	1	_	_	_	ATPase8	54	1	Lys -> Glu	No
+8527	A	2702	2	_	_	_	ATPase8	54	3	Lys -> Lys	Yes
+8530	A	2702	2	_	_	_	ATPase8	55	3	Trp -> Trp	Yes
+8531	A	2703	1	_	_	_	ATPase8	56	1	Thr -> Ala	No
+8537	A	2702	2	_	_	_	ATPase8	58	1	Ile -> Val	No
+8541	G	2	2702	_	_	_	ATPase8	59	2	Cys -> Tyr	No
+8542	T	_	1	1	2702	_	ATPase8	59	3	Cys -> Cys	Yes
+8545	G	3	2701	_	_	_	ATPase8	60	3	Ser -> Ser	Yes
+8548	T	_	_	1	2703	_	ATPase8	61	3	Leu -> Leu	Yes
+8551	T	_	_	2	2702	_	ATPase8	62	3	His -> His	Yes
+8555	T	_	_	1	2703	_	ATPase8	64	1	Leu -> Leu	Yes
+8557	G	21	2681	2	_	_	ATPase8	64	3	Leu -> Phe	No
+8558	C	_	_	2702	2	_	ATPase8	65	1	Pro -> Ser	No
+8562	C	_	_	2703	1	_	ATPase8	66	2	Pro -> Leu	No
+8563	A	2656	48	_	_	_	ATPase8	66	3	Pro -> Pro	Yes
+8566	A	2676	28	_	_	_	ATPase8	67	3	Gln -> Gln	Yes
+8567	T	_	_	2	2702	_	ATPase8	68	1	Ser -> Pro	No
+8572	G	11	2693	_	_	_	ATPase8	69	3	STP -> STP	Yes
+8573	G	2	2702	_	_	_	ATPase6	16	2	Gly -> Asp	No
+8574	C	_	_	2703	1	_	ATPase6	16	3	Gly -> Ser	No
+8575	C	_	_	2701	3	_	ATPase6	17	1	Leu -> Leu	Yes
+8577	A	2702	2	_	_	_	ATPase6	17	3	Leu -> Leu	Yes
+8578	C	_	_	2703	1	_	ATPase6	18	1	Pro -> Ser	No
+8581	G	1	2703	_	_	_	ATPase6	19	1	Ala -> Thr	No
+8582	C	_	_	2702	2	_	ATPase6	19	2	Ala -> Val	No
+8584	G	129	2575	_	_	_	ATPase6	20	1	Ala -> Thr	No
+8587	G	1	2703	_	_	_	ATPase6	21	1	Val -> Met	No
+8588	T	1	_	1	2702	_	ATPase6	21	2	Val -> Ala	No
+8592	G	4	2700	_	_	_	ATPase6	22	3	Leu -> Leu	Yes
+8594	T	_	_	11	2693	_	ATPase6	23	2	Ile -> Thr	No
+8595	C	_	_	2702	2	_	ATPase6	23	3	Ile -> Ile	Yes
+8598	T	_	_	1	2703	_	ATPase6	24	3	Ile -> Ile	Yes
+8602	T	_	_	4	2700	_	ATPase6	26	1	Phe -> Leu	No
+8603	T	_	_	3	2701	_	ATPase6	26	2	Phe -> Ser	No
+8604	T	_	_	2	2702	_	ATPase6	26	3	Phe -> Phe	Yes
+8607	C	_	_	2700	4	_	ATPase6	27	3	Pro -> Pro	Yes
+8610	T	_	_	2	2702	_	ATPase6	28	3	Pro -> Pro	Yes
+8614	T	_	_	3	2701	_	ATPase6	30	1	Leu -> Leu	Yes
+8616	G	3	2689	_	12	_	ATPase6	30	3	Leu -> Phe	No
+8618	T	_	_	23	2681	_	ATPase6	31	2	Ile -> Thr	No
+8619	C	_	_	2702	2	_	ATPase6	31	3	Ile -> Ile	Yes
+8622	C	_	_	2703	1	_	ATPase6	32	3	Pro -> Pro	Yes
+8628	C	_	_	2702	2	_	ATPase6	34	3	Ser -> Ser	Yes
+8633	A	2703	1	_	_	_	ATPase6	36	2	Tyr -> Cys	No
+8635	C	1	_	2703	_	_	ATPase6	37	1	Leu -> Ile	No
+8636	T	_	_	1	2703	_	ATPase6	37	2	Leu -> Pro	No
+8638	A	2703	1	_	_	_	ATPase6	38	1	Ile -> Val	No
+8640	C	_	_	2703	1	_	ATPase6	38	3	Ile -> Ile	Yes
+8641	A	2703	1	_	_	_	ATPase6	39	1	Asn -> Asp	No
+8642	A	2703	1	_	_	_	ATPase6	39	2	Asn -> Ser	No
+8645	A	2703	1	_	_	_	ATPase6	40	2	Asn -> Ser	No
+8646	C	_	_	2703	1	_	ATPase6	40	3	Asn -> Asn	Yes
+8650	C	_	_	2700	4	_	ATPase6	42	1	Leu -> Leu	Yes
+8654	T	_	_	2	2702	_	ATPase6	43	2	Ile -> Thr	No
+8655	C	_	_	2618	86	_	ATPase6	43	3	Ile -> Ile	Yes
+8659	A	2699	3	_	2	_	ATPase6	45	1	Thr -> Ser	No
+8664	A	2703	1	_	_	_	ATPase6	46	3	Gln -> Gln	Yes
+8666	A	2703	1	_	_	_	ATPase6	47	2	Gln -> Arg	No
+8668	T	_	_	2	2702	_	ATPase6	48	1	Trp -> Arg	No
+8669	G	_	2703	1	_	_	ATPase6	48	2	Trp -> Ser	No
+8676	C	_	_	2701	3	_	ATPase6	50	3	Ile -> Ile	Yes
+8679	A	2702	2	_	_	_	ATPase6	51	3	Lys -> Lys	Yes
+8680	C	_	_	2702	2	_	ATPase6	52	1	Leu -> Leu	Yes
+8681	T	_	_	1	2703	_	ATPase6	52	2	Leu -> Pro	No
+8684	C	_	_	2685	19	_	ATPase6	53	2	Thr -> Ile	No
+8688	A	2703	1	_	_	_	ATPase6	54	3	Ser -> Ser	Yes
+8697	G	128	2576	_	_	_	ATPase6	57	3	Met -> Met	Yes
+8701	A	1771	933	_	_	_	ATPase6	59	1	Thr -> Ala	No
+8702	C	_	_	2703	1	_	ATPase6	59	2	Thr -> Ile	No
+8703	C	_	_	2701	3	_	ATPase6	59	3	Thr -> Thr	Yes
+8705	T	_	_	19	2685	_	ATPase6	60	2	Met -> Thr	No
+8706	A	2703	_	_	1	_	ATPase6	60	3	Met -> Ile	No
+8709	C	_	_	2703	1	_	ATPase6	61	3	His -> His	Yes
+8713	A	2703	1	_	_	_	ATPase6	63	1	Thr -> Ala	No
+8715	T	_	_	2	2702	_	ATPase6	63	3	Thr -> Thr	Yes
+8718	A	2702	2	_	_	_	ATPase6	64	3	Lys -> Lys	Yes
+8721	A	2700	4	_	_	_	ATPase6	65	3	Gly -> Gly	Yes
+8724	A	2702	2	_	_	_	ATPase6	66	3	Arg -> Arg	Yes
+8725	A	2703	1	_	_	_	ATPase6	67	1	Thr -> Ala	No
+8727	C	_	_	2701	3	_	ATPase6	67	3	Thr -> Thr	Yes
+8730	A	2702	2	_	_	_	ATPase6	68	3	Trp -> Trp	Yes
+8733	T	_	_	1	2703	_	ATPase6	69	3	Ser -> Ser	Yes
+8743	G	1	2703	_	_	_	ATPase6	73	1	Val -> Met	No
+8746	T	_	1	_	2703	_	ATPase6	74	1	Ser -> Ala	No
+8749	T	_	_	2	2702	_	ATPase6	75	1	Leu -> Leu	Yes
+8750	T	_	_	1	2703	_	ATPase6	75	2	Leu -> Ser	No
+8752	A	2703	1	_	_	_	ATPase6	76	1	Ile -> Val	No
+8754	C	_	_	2702	2	_	ATPase6	76	3	Ile -> Ile	Yes
+8757	T	_	_	1	2703	_	ATPase6	77	3	Ile -> Ile	Yes
+8762	T	_	_	2	2702	_	ATPase6	79	2	Ile -> Thr	No
+8764	G	9	2695	_	_	_	ATPase6	80	1	Ala -> Thr	No
+8766	C	_	_	2703	1	_	ATPase6	80	3	Ala -> Ala	Yes
+8767	A	2703	1	_	_	_	ATPase6	81	1	Thr -> Ala	No
+8772	T	_	_	3	2701	_	ATPase6	82	3	Thr -> Thr	Yes
+8775	C	_	_	2703	1	_	ATPase6	83	3	Asn -> Asn	Yes
+8776	C	_	_	2703	1	_	ATPase6	84	1	Leu -> Phe	No
+8778	C	_	_	2703	1	_	ATPase6	84	3	Leu -> Leu	Yes
+8781	C	1	_	2703	_	_	ATPase6	85	3	Leu -> Leu	Yes
+8784	A	2688	16	_	_	_	ATPase6	86	3	Gly -> Gly	Yes
+8788	C	_	_	2703	1	_	ATPase6	88	1	Leu -> Leu	Yes
+8790	G	32	2672	_	_	_	ATPase6	88	3	Leu -> Leu	Yes
+8793	T	_	_	14	2690	_	ATPase6	89	3	Pro -> Pro	Yes
+8794	C	_	_	2620	84	_	ATPase6	90	1	His -> Tyr	No
+8799	A	2703	1	_	_	_	ATPase6	91	3	Ser -> Ser	Yes
+8803	A	2699	2	_	3	_	ATPase6	93	1	Thr -> Ala	No
+8805	A	2699	5	_	_	_	ATPase6	93	3	Thr -> Thr	Yes
+8812	A	2699	5	_	_	_	ATPase6	96	1	Thr -> Ala	No
+8818	C	_	_	2700	4	_	ATPase6	98	1	Leu -> Leu	Yes
+8823	T	_	_	1	2703	_	ATPase6	99	3	Ser -> Ser	Yes
+8829	C	_	_	2677	27	_	ATPase6	101	3	Asn -> Asn	Yes
+8836	A	2699	5	_	_	_	ATPase6	104	1	Met -> Val	No
+8838	G	5	2699	_	_	_	ATPase6	104	3	Met -> Met	Yes
+8839	G	6	2698	_	_	_	ATPase6	105	1	Ala -> Thr	No
+8841	C	_	_	2702	2	_	ATPase6	105	3	Ala -> Ala	Yes
+8842	A	2701	2	1	_	_	ATPase6	106	1	Ile -> Val	No
+8843	T	_	_	5	2699	_	ATPase6	106	2	Ile -> Thr	No
+8844	C	_	_	2701	3	_	ATPase6	106	3	Ile -> Ile	Yes
+8854	G	3	2701	_	_	_	ATPase6	110	1	Ala -> Thr	No
+8855	C	_	_	2703	1	_	ATPase6	110	2	Ala -> Val	No
+8856	G	12	2691	1	_	_	ATPase6	110	3	Ala -> Ala	Yes
+8857	G	1	2703	_	_	_	ATPase6	111	1	Gly -> Ser	No
+8859	C	_	_	2697	7	_	ATPase6	111	3	Gly -> Gly	Yes
+8860	A	6	2698	_	_	_	ATPase6	112	1	Thr -> Ala	No
+8864	T	_	_	1	2703	_	ATPase6	113	2	Val -> Ala	No
+8865	G	4	2700	_	_	_	ATPase6	113	3	Val -> Val	Yes
+8868	T	_	_	4	2700	_	ATPase6	114	3	Ile -> Ile	Yes
+8869	A	2688	16	_	_	_	ATPase6	115	1	Met -> Val	No
+8870	T	_	_	3	2701	_	ATPase6	115	2	Met -> Thr	No
+8875	T	_	_	2	2702	_	ATPase6	117	1	Phe -> Leu	No
+8877	T	_	_	5	2699	_	ATPase6	117	3	Phe -> Phe	Yes
+8887	A	2703	1	_	_	_	ATPase6	121	1	Ile -> Val	No
+8888	T	_	_	1	2703	_	ATPase6	121	2	Ile -> Thr	No
+8889	T	_	_	1	2703	_	ATPase6	121	3	Ile -> Ile	Yes
+8894	A	2700	_	_	4	_	ATPase6	123	2	Asn -> Ile	No
+8898	C	_	_	2701	3	_	ATPase6	124	3	Ala -> Ala	Yes
+8901	A	2702	2	_	_	_	ATPase6	125	3	Leu -> Leu	Yes
+8905	C	1	_	2702	1	_	ATPase6	127	1	His -> Tyr	No
+8906	A	2703	1	_	_	_	ATPase6	127	2	His -> Arg	No
+8910	C	_	_	2702	2	_	ATPase6	128	3	Phe -> Phe	Yes
+8911	T	_	_	3	2701	_	ATPase6	129	1	Leu -> Leu	Yes
+8913	A	2703	1	_	_	_	ATPase6	129	3	Leu -> Leu	Yes
+8919	A	2703	1	_	_	_	ATPase6	131	3	Gln -> Gln	Yes
+8921	G	1	2703	_	_	_	ATPase6	132	2	Gly -> Asp	No
+8923	A	2701	3	_	_	_	ATPase6	133	1	Thr -> Ala	No
+8925	A	2702	2	_	_	_	ATPase6	133	3	Thr -> Thr	Yes
+8928	T	_	_	6	2698	_	ATPase6	134	3	Pro -> Pro	Yes
+8929	A	2703	1	_	_	_	ATPase6	135	1	Thr -> Ala	No
+8932	C	_	_	2702	2	_	ATPase6	136	1	Pro -> Ser	No
+8934	C	_	_	2703	1	_	ATPase6	136	3	Pro -> Pro	Yes
+8937	T	_	_	5	2699	_	ATPase6	137	3	Leu -> Leu	Yes
+8940	C	_	_	2703	1	_	ATPase6	138	3	Ile -> Ile	Yes
+8943	C	_	_	2703	1	_	ATPase6	139	3	Pro -> Pro	Yes
+8944	A	2703	1	_	_	_	ATPase6	140	1	Met -> Val	No
+8950	G	1	2703	_	_	_	ATPase6	142	1	Val -> Ile	No
+8952	T	_	_	2	2702	_	ATPase6	142	3	Val -> Val	Yes
+8955	T	_	_	1	2703	_	ATPase6	143	3	Ile -> Ile	Yes
+8958	C	_	_	2703	1	_	ATPase6	144	3	Ile -> Ile	Yes
+8961	A	2703	1	_	_	_	ATPase6	145	3	Glu -> Glu	Yes
+8962	A	2702	2	_	_	_	ATPase6	146	1	Thr -> Ala	No
+8964	C	_	_	2626	78	_	ATPase6	146	3	Thr -> Thr	Yes
+8965	A	2702	2	_	_	_	ATPase6	147	1	Ile -> Val	No
+8973	A	2698	6	_	_	_	ATPase6	149	3	Leu -> Leu	Yes
+8974	C	_	_	2703	1	_	ATPase6	150	1	Leu -> Phe	No
+8987	T	_	_	3	2701	_	ATPase6	154	2	Met -> Thr	No
+8988	A	2702	2	_	_	_	ATPase6	154	3	Met -> Met	Yes
+8989	G	1	2703	_	_	_	ATPase6	155	1	Ala -> Thr	No
+8991	C	_	_	2703	1	_	ATPase6	155	3	Ala -> Ala	Yes
+8994	G	64	2640	_	_	_	ATPase6	156	3	Leu -> Leu	Yes
+8998	G	1	2703	_	_	_	ATPase6	158	1	Val -> Met	No
+9004	C	_	_	2701	3	_	ATPase6	160	1	Leu -> Leu	Yes
+9006	A	2701	3	_	_	_	ATPase6	160	3	Leu -> Leu	Yes
+9007	A	2699	5	_	_	_	ATPase6	161	1	Thr -> Ala	No
+9008	C	_	1	2703	_	_	ATPase6	161	2	Thr -> Ser	No
+9012	T	_	_	1	2703	_	ATPase6	162	3	Ala -> Ala	Yes
+9017	T	_	_	2	2702	_	ATPase6	164	2	Ile -> Thr	No
+9022	G	3	2701	_	_	_	ATPase6	166	1	Ala -> Thr	No
+9025	G	1	2703	_	_	_	ATPase6	167	1	Gly -> Ser	No
+9033	A	2700	4	_	_	_	ATPase6	169	3	Leu -> Leu	Yes
+9037	A	2702	2	_	_	_	ATPase6	171	1	Met -> Val	No
+9038	T	_	_	1	2703	_	ATPase6	171	2	Met -> Thr	No
+9039	G	1	2703	_	_	_	ATPase6	171	3	Met -> Met	Yes
+9041	A	2701	3	_	_	_	ATPase6	172	2	His -> Arg	No
+9042	C	_	_	2668	36	_	ATPase6	172	3	His -> His	Yes
+9051	A	2702	2	_	_	_	ATPase6	175	3	Gly -> Gly	Yes
+9052	A	2700	4	_	_	_	ATPase6	176	1	Ser -> Gly	No
+9053	G	35	2669	_	_	_	ATPase6	176	2	Ser -> Asn	No
+9054	C	_	_	2702	2	_	ATPase6	176	3	Ser -> Ser	Yes
+9055	G	134	2570	_	_	_	ATPase6	177	1	Ala -> Thr	No
+9058	A	2701	3	_	_	_	ATPase6	178	1	Thr -> Ala	No
+9064	G	3	2701	_	_	_	ATPase6	180	1	Ala -> Thr	No
+9066	A	2696	8	_	_	_	ATPase6	180	3	Ala -> Ala	Yes
+9067	A	2702	2	_	_	_	ATPase6	181	1	Met -> Val	No
+9069	A	2703	1	_	_	_	ATPase6	181	3	Met -> Met	Yes
+9070	T	_	3	_	2701	_	ATPase6	182	1	Ser -> Ala	No
+9071	C	_	_	2703	1	_	ATPase6	182	2	Ser -> Leu	No
+9072	A	2677	27	_	_	_	ATPase6	182	3	Ser -> Ser	Yes
+9077	T	_	_	4	2700	_	ATPase6	184	2	Ile -> Thr	No
+9079	A	2702	2	_	_	_	ATPase6	185	1	Asn -> Asp	No
+9080	A	2701	3	_	_	_	ATPase6	185	2	Asn -> Ser	No
+9081	C	_	_	2703	1	_	ATPase6	185	3	Asn -> Asn	Yes
+9083	T	_	_	5	2699	_	ATPase6	186	2	Leu -> Pro	No
+9084	T	_	_	2	2702	_	ATPase6	186	3	Leu -> Leu	Yes
+9088	T	_	_	3	2701	_	ATPase6	188	1	Ser -> Pro	No
+9090	T	_	_	31	2673	_	ATPase6	188	3	Ser -> Ser	Yes
+9091	A	2702	2	_	_	_	ATPase6	189	1	Thr -> Ala	No
+9092	C	_	_	2703	1	_	ATPase6	189	2	Thr -> Met	No
+9093	A	2690	13	1	_	_	ATPase6	189	3	Thr -> Thr	Yes
+9094	C	_	_	2701	3	_	ATPase6	190	1	Leu -> Phe	No
+9095	T	_	_	3	2701	_	ATPase6	190	2	Leu -> Pro	No
+9097	A	2703	1	_	_	_	ATPase6	191	1	Ile -> Val	No
+9098	T	_	1	1	2702	_	ATPase6	191	2	Ile -> Thr	No
+9099	C	1	_	2702	1	_	ATPase6	191	3	Ile -> Met	No
+9100	A	2703	1	_	_	_	ATPase6	192	1	Ile -> Val	No
+9101	T	_	_	3	2701	_	ATPase6	192	2	Ile -> Thr	No
+9103	T	_	_	4	2700	_	ATPase6	193	1	Phe -> Leu	No
+9105	C	_	_	2703	1	_	ATPase6	193	3	Phe -> Phe	Yes
+9106	A	2703	1	_	_	_	ATPase6	194	1	Thr -> Ala	No
+9109	A	2700	4	_	_	_	ATPase6	195	1	Ile -> Val	No
+9110	T	_	_	2	2702	_	ATPase6	195	2	Ile -> Thr	No
+9111	T	_	_	2	2702	_	ATPase6	195	3	Ile -> Ile	Yes
+9114	A	2703	1	_	_	_	ATPase6	196	3	Leu -> Leu	Yes
+9115	A	2702	2	_	_	_	ATPase6	197	1	Ile -> Val	No
+9116	T	_	_	3	2701	_	ATPase6	197	2	Ile -> Thr	No
+9117	T	_	_	5	2699	_	ATPase6	197	3	Ile -> Ile	Yes
+9120	A	2702	2	_	_	_	ATPase6	198	3	Leu -> Leu	Yes
+9123	G	72	2632	_	_	_	ATPase6	199	3	Leu -> Leu	Yes
+9127	A	2702	2	_	_	_	ATPase6	201	1	Ile -> Val	No
+9128	T	_	_	6	2698	_	ATPase6	201	2	Ile -> Thr	No
+9129	C	_	_	2701	3	_	ATPase6	201	3	Ile -> Ile	Yes
+9130	C	1	_	2703	_	_	ATPase6	202	1	Leu -> Met	No
+9136	A	2702	2	_	_	_	ATPase6	204	1	Ile -> Val	No
+9137	T	_	_	2	2702	_	ATPase6	204	2	Ile -> Thr	No
+9139	G	5	2699	_	_	_	ATPase6	205	1	Ala -> Thr	No
+9140	C	_	_	2701	3	_	ATPase6	205	2	Ala -> Val	No
+9142	G	1	2703	_	_	_	ATPase6	206	1	Val -> Ile	No
+9145	G	3	2701	_	_	_	ATPase6	207	1	Ala -> Thr	No
+9148	T	_	_	3	2701	_	ATPase6	208	1	Leu -> Leu	Yes
+9150	A	2689	15	_	_	_	ATPase6	208	3	Leu -> Leu	Yes
+9151	A	2701	3	_	_	_	ATPase6	209	1	Ile -> Val	No
+9152	T	_	_	1	2703	_	ATPase6	209	2	Ile -> Thr	No
+9156	A	2697	7	_	_	_	ATPase6	210	3	Gln -> Gln	Yes
+9159	C	_	_	2703	1	_	ATPase6	211	3	Ala -> Ala	Yes
+9163	G	1	2703	_	_	_	ATPase6	213	1	Val -> Ile	No
+9165	T	_	_	7	2697	_	ATPase6	213	3	Val -> Val	Yes
+9168	C	_	_	2703	1	_	ATPase6	214	3	Phe -> Phe	Yes
+9174	T	_	_	4	2700	_	ATPase6	216	3	Leu -> Leu	Yes
+9178	G	3	2701	_	_	_	ATPase6	218	1	Val -> Met	No
+9180	A	2672	32	_	_	_	ATPase6	218	3	Val -> Val	Yes
+9181	A	2703	1	_	_	_	ATPase6	219	1	Ser -> Gly	No
+9182	G	4	2700	_	_	_	ATPase6	219	2	Ser -> Asn	No
+9192	G	1	2703	_	_	_	ATPase6	222	3	Leu -> Leu	Yes
+9196	G	5	2699	_	_	_	ATPase6	224	1	Asp -> Asn	No
+9197	A	2703	1	_	_	_	ATPase6	224	2	Asp -> Gly	No
+9198	C	_	_	2703	1	_	ATPase6	224	3	Asp -> Asp	Yes
+9201	C	_	_	2697	7	_	ATPase6	225	3	Asn -> Asn	Yes
+9202	A	2703	_	1	_	_	ATPase6	226	1	Thr -> Pro	No
+9210	A	2703	1	_	_	_	COIII	2	1	Thr -> Ala	No
+9212	C	_	_	2703	1	_	COIII	2	3	Thr -> Thr	Yes
+9214	A	2703	1	_	_	_	COIII	3	2	His -> Arg	No
+9221	A	2642	62	_	_	_	COIII	5	3	Ser -> Ser	Yes
+9230	T	_	_	1	2703	_	COIII	8	3	Tyr -> Tyr	Yes
+9233	T	_	_	2	2702	_	COIII	9	3	His -> His	Yes
+9234	A	2703	1	_	_	_	COIII	10	1	Met -> Val	No
+9242	A	2688	16	_	_	_	COIII	12	3	Lys -> Lys	Yes
+9248	C	_	_	2703	1	_	COIII	14	3	Ser -> Ser	Yes
+9254	A	2684	20	_	_	_	COIII	16	3	Trp -> Trp	Yes
+9257	C	_	_	2703	1	_	COIII	17	3	Pro -> Pro	Yes
+9260	A	2703	1	_	_	_	COIII	18	3	Leu -> Leu	Yes
+9263	A	2702	2	_	_	_	COIII	19	3	Thr -> Thr	Yes
+9266	G	16	2688	_	_	_	COIII	20	3	Gly -> Gly	Yes
+9270	C	_	_	2703	1	_	COIII	22	1	Leu -> Phe	No
+9272	C	_	_	2699	5	_	COIII	22	3	Leu -> Leu	Yes
+9278	C	_	_	2703	1	_	COIII	24	3	Ala -> Ala	Yes
+9288	A	2702	2	_	_	_	COIII	28	1	Thr -> Ala	No
+9290	C	1	_	2703	_	_	COIII	28	3	Thr -> Thr	Yes
+9293	C	_	_	2702	2	_	COIII	29	3	Ser -> Ser	Yes
+9296	C	_	_	2660	44	_	COIII	30	3	Gly -> Gly	Yes
+9299	A	2692	12	_	_	_	COIII	31	3	Leu -> Leu	Yes
+9300	G	7	2697	_	_	_	COIII	32	1	Ala -> Thr	No
+9301	C	_	_	2703	1	_	COIII	32	2	Ala -> Val	No
+9305	G	7	2697	_	_	_	COIII	33	3	Met -> Met	Yes
+9311	T	_	_	6	2698	_	COIII	35	3	Phe -> Phe	Yes
+9313	A	2703	1	_	_	_	COIII	36	2	His -> Arg	No
+9314	C	_	_	2703	1	_	COIII	36	3	His -> His	Yes
+9316	T	_	_	1	2703	_	COIII	37	2	Phe -> Ser	No
+9324	A	2702	2	_	_	_	COIII	40	1	Met -> Val	No
+9325	T	_	_	2	2702	_	COIII	40	2	Met -> Thr	No
+9327	A	2703	1	_	_	_	COIII	41	1	Thr -> Ala	No
+9329	G	3	2701	_	_	_	COIII	41	3	Thr -> Thr	Yes
+9332	C	_	_	2703	1	_	COIII	42	3	Leu -> Leu	Yes
+9333	C	_	_	2703	1	_	COIII	43	1	Leu -> Phe	No
+9335	C	_	_	2702	2	_	COIII	43	3	Leu -> Leu	Yes
+9336	A	2700	3	1	_	_	COIII	44	1	Met -> Val	No
+9341	A	2703	_	_	1	_	COIII	45	3	Leu -> Leu	Yes
+9347	A	2668	36	_	_	_	COIII	47	3	Leu -> Leu	Yes
+9350	A	2703	1	_	_	_	COIII	48	3	Leu -> Leu	Yes
+9353	C	_	_	2703	1	_	COIII	49	3	Thr -> Thr	Yes
+9355	A	2700	4	_	_	_	COIII	50	2	Asn -> Ser	No
+9356	C	_	_	2702	2	_	COIII	50	3	Asn -> Asn	Yes
+9359	A	2703	1	_	_	_	COIII	51	3	Thr -> Thr	Yes
+9360	C	_	_	2703	1	_	COIII	52	1	Leu -> Leu	Yes
+9362	A	2702	2	_	_	_	COIII	52	3	Leu -> Leu	Yes
+9365	C	_	_	2698	6	_	COIII	53	3	Thr -> Thr	Yes
+9368	A	2703	1	_	_	_	COIII	54	3	Met -> Met	Yes
+9370	A	2703	1	_	_	_	COIII	55	2	Tyr -> Cys	No
+9371	C	_	_	2703	1	_	COIII	55	3	Tyr -> Tyr	Yes
+9377	A	2661	43	_	_	_	COIII	57	3	Trp -> Trp	Yes
+9380	G	17	2687	_	_	_	COIII	58	3	Trp -> Trp	Yes
+9386	T	_	_	5	2699	_	COIII	60	3	Asp -> Asp	Yes
+9387	G	_	2703	1	_	_	COIII	61	1	Val -> Leu	No
+9389	A	2699	5	_	_	_	COIII	61	3	Val -> Val	Yes
+9391	C	_	_	2703	1	_	COIII	62	2	Thr -> Met	No
+9410	A	2699	5	_	_	_	COIII	68	3	Gln -> Gln	Yes
+9422	A	2703	_	_	1	_	COIII	72	3	Thr -> Thr	Yes
+9429	G	1	2703	_	_	_	COIII	75	1	Val -> Ile	No
+9431	C	_	_	2700	4	_	COIII	75	3	Val -> Val	Yes
+9438	G	12	2692	_	_	_	COIII	78	1	Gly -> Ser	No
+9448	A	2702	2	_	_	_	COIII	81	2	Tyr -> Cys	No
+9449	C	_	_	2678	26	_	COIII	81	3	Tyr -> Tyr	Yes
+9452	G	3	2701	_	_	_	COIII	82	3	Gly -> Gly	Yes
+9455	A	2703	1	_	_	_	COIII	83	3	Met -> Met	Yes
+9456	A	2703	1	_	_	_	COIII	84	1	Ile -> Val	No
+9467	T	_	_	1	2703	_	COIII	87	3	Ile -> Ile	Yes
+9468	A	2702	2	_	_	_	COIII	88	1	Thr -> Ala	No
+9469	C	_	_	2703	1	_	COIII	88	2	Thr -> Ile	No
+9476	A	2703	1	_	_	_	COIII	90	3	Glu -> Glu	Yes
+9477	G	98	2606	_	_	_	COIII	91	1	Val -> Ile	No
+9479	T	_	_	2	2702	_	COIII	91	3	Val -> Val	Yes
+9480	T	_	_	2	2702	_	COIII	92	1	Phe -> Leu	No
+9489	G	2	2702	_	_	_	COIII	95	1	Ala -> Thr	No
+9490	C	_	_	2703	1	_	COIII	95	2	Ala -> Val	No
+9494	A	2681	23	_	_	_	COIII	96	3	Gly -> Gly	Yes
+9495	T	_	_	2	2702	_	COIII	97	1	Phe -> Leu	No
+9498	T	_	_	1	2703	_	COIII	98	1	Phe -> Leu	No
+9503	A	2703	1	_	_	_	COIII	99	3	Trp -> Trp	Yes
+9509	T	_	_	8	2696	_	COIII	101	3	Phe -> Phe	Yes
+9512	C	_	_	2702	2	_	COIII	102	3	Tyr -> Tyr	Yes
+9524	A	2703	1	_	_	_	COIII	106	3	Leu -> Leu	Yes
+9525	G	1	2703	_	_	_	COIII	107	1	Ala -> Thr	No
+9527	C	_	_	2702	2	_	COIII	107	3	Ala -> Ala	Yes
+9530	T	_	_	2	2702	_	COIII	108	3	Pro -> Pro	Yes
+9531	A	2701	3	_	_	_	COIII	109	1	Thr -> Ala	No
+9533	C	_	_	2703	1	_	COIII	109	3	Thr -> Thr	Yes
+9536	C	_	_	2695	9	_	COIII	110	3	Pro -> Pro	Yes
+9540	T	_	_	944	1760	_	COIII	112	1	Leu -> Leu	Yes
+9545	A	2649	54	_	1	_	COIII	113	3	Gly -> Gly	Yes
+9548	G	26	2678	_	_	_	COIII	114	3	Gly -> Gly	Yes
+9554	G	15	2689	_	_	_	COIII	116	3	Trp -> Trp	Yes
+9557	C	_	_	2702	2	_	COIII	117	3	Pro -> Pro	Yes
+9569	C	_	_	2703	1	_	COIII	121	3	Ile -> Ile	Yes
+9575	G	39	2665	_	_	_	COIII	123	3	Pro -> Pro	Yes
+9581	T	_	_	8	2696	_	COIII	125	3	Asn -> Asn	Yes
+9585	C	_	_	2703	1	_	COIII	127	1	Leu -> Leu	Yes
+9591	G	2	2702	_	_	_	COIII	129	1	Val -> Ile	No
+9599	C	_	_	2703	1	_	COIII	131	3	Leu -> Leu	Yes
+9605	C	_	_	2703	1	_	COIII	133	3	Asn -> Asn	Yes
+9612	G	14	2690	_	_	_	COIII	136	1	Val -> Met	No
+9614	A	2701	3	_	_	_	COIII	136	3	Val -> Val	Yes
+9617	A	2699	5	_	_	_	COIII	137	3	Leu -> Leu	Yes
+9620	C	_	_	2701	3	_	COIII	138	3	Leu -> Leu	Yes
+9621	G	2	2702	_	_	_	COIII	139	1	Ala -> Thr	No
+9629	A	2702	2	_	_	_	COIII	141	3	Gly -> Gly	Yes
+9632	A	2699	5	_	_	_	COIII	142	3	Val -> Val	Yes
+9635	A	2699	_	5	_	_	COIII	143	3	Ser -> Ser	Yes
+9644	A	2703	1	_	_	_	COIII	146	3	Trp -> Trp	Yes
+9647	T	_	_	8	2696	_	COIII	147	3	Ala -> Ala	Yes
+9652	A	2703	1	_	_	_	COIII	149	2	His -> Arg	No
+9653	T	_	_	1	2703	_	COIII	149	3	His -> His	Yes
+9656	T	_	_	5	2699	_	COIII	150	3	Ser -> Ser	Yes
+9661	T	_	_	1	2703	_	COIII	152	2	Met -> Thr	No
+9664	A	2703	_	_	1	_	COIII	153	2	Glu -> Val	No
+9667	A	2686	18	_	_	_	COIII	154	2	Asn -> Ser	No
+9670	A	2700	4	_	_	_	COIII	155	2	Asn -> Ser	No
+9681	A	2703	1	_	_	_	COIII	159	1	Met -> Val	No
+9682	T	_	_	5	2699	_	COIII	159	2	Met -> Thr	No
+9692	A	2703	1	_	_	_	COIII	162	3	Ala -> Ala	Yes
+9693	C	_	_	2703	1	_	COIII	163	1	Leu -> Leu	Yes
+9698	T	_	_	138	2566	_	COIII	164	3	Leu -> Leu	Yes
+9701	T	_	_	1	2703	_	COIII	165	3	Ile -> Ile	Yes
+9708	T	1	_	4	2699	_	COIII	168	1	Leu -> Leu	Yes
+9709	T	_	_	1	2703	_	COIII	168	2	Leu -> Ser	No
+9711	C	_	_	2703	1	_	COIII	169	1	Leu -> Leu	Yes
+9713	G	1	2703	_	_	_	COIII	169	3	Leu -> Leu	Yes
+9716	T	_	_	33	2671	_	COIII	170	3	Gly -> Gly	Yes
+9725	T	_	_	2	2702	_	COIII	173	3	Phe -> Phe	Yes
+9728	C	_	_	2703	1	_	COIII	174	3	Thr -> Thr	Yes
+9731	C	2	_	2702	_	_	COIII	175	3	Leu -> Leu	Yes
+9738	G	4	2700	_	_	_	COIII	178	1	Ala -> Thr	No
+9740	C	_	_	2703	1	_	COIII	178	3	Ala -> Ala	Yes
+9746	G	1	2703	_	_	_	COIII	180	3	Glu -> Glu	Yes
+9750	T	_	_	2	2702	_	COIII	182	1	Phe -> Leu	No
+9752	C	_	_	2703	1	_	COIII	182	3	Phe -> Phe	Yes
+9754	A	2703	1	_	_	_	COIII	183	2	Glu -> Gly	No
+9755	G	47	2657	_	_	_	COIII	183	3	Glu -> Glu	Yes
+9758	T	_	_	6	2698	_	COIII	184	3	Ser -> Ser	Yes
+9759	C	_	_	2703	1	_	COIII	185	1	Pro -> Ser	No
+9764	C	_	_	2703	1	_	COIII	186	3	Phe -> Phe	Yes
+9767	C	_	_	2702	2	_	COIII	187	3	Thr -> Thr	Yes
+9770	T	_	_	1	2703	_	COIII	188	3	Ile -> Ile	Yes
+9776	C	_	_	2703	1	_	COIII	190	3	Asp -> Asp	Yes
+9779	C	_	_	2702	2	_	COIII	191	3	Gly -> Gly	Yes
+9800	T	_	_	2	2702	_	COIII	198	3	Phe -> Phe	Yes
+9801	G	3	2701	_	_	_	COIII	199	1	Val -> Met	No
+9804	G	8	2696	_	_	_	COIII	200	1	Ala -> Thr	No
+9812	C	_	_	2701	3	_	COIII	202	3	Gly -> Gly	Yes
+9813	T	1	_	_	2703	_	COIII	203	1	Phe -> Ile	No
+9818	C	_	_	2677	27	_	COIII	204	3	His -> His	Yes
+9821	A	2703	1	_	_	_	COIII	205	3	Gly -> Gly	Yes
+9822	C	3	_	2701	_	_	COIII	206	1	Leu -> Ile	No
+9824	T	63	_	95	2546	_	COIII	206	3	Leu -> Leu	Yes
+9827	C	_	_	2703	1	_	COIII	207	3	His -> His	Yes
+9828	G	1	2703	_	_	_	COIII	208	1	Val -> Ile	No
+9829	T	1	_	_	2703	_	COIII	208	2	Val -> Asp	No
+9830	C	_	_	2702	2	_	COIII	208	3	Val -> Val	Yes
+9833	T	_	_	4	2700	_	COIII	209	3	Ile -> Ile	Yes
+9836	T	_	_	3	2701	_	COIII	210	3	Ile -> Ile	Yes
+9843	A	2703	1	_	_	_	COIII	213	1	Thr -> Ala	No
+9845	T	_	_	1	2703	_	COIII	213	3	Thr -> Thr	Yes
+9851	C	_	_	2703	1	_	COIII	215	3	Leu -> Leu	Yes
+9852	A	2700	4	_	_	_	COIII	216	1	Thr -> Ala	No
+9855	A	2702	2	_	_	_	COIII	217	1	Ile -> Val	No
+9856	T	_	_	1	2703	_	COIII	217	2	Ile -> Thr	No
+9861	T	_	_	7	2697	_	COIII	219	1	Phe -> Leu	No
+9866	C	_	_	2702	2	_	COIII	220	3	Ile -> Ile	Yes
+9869	C	_	_	2703	1	_	COIII	221	3	Arg -> Arg	Yes
+9881	T	_	_	1	2703	_	COIII	225	3	Phe -> Phe	Yes
+9887	T	_	_	2	2702	_	COIII	227	3	Phe -> Phe	Yes
+9891	T	_	_	1	2703	_	COIII	229	1	Ser -> Pro	No
+9896	A	2703	1	_	_	_	COIII	230	3	Lys -> Lys	Yes
+9899	T	_	_	28	2676	_	COIII	231	3	His -> His	Yes
+9903	T	_	_	1	2703	_	COIII	233	1	Phe -> Leu	No
+9909	T	_	_	1	2703	_	COIII	235	1	Phe -> Leu	No
+9911	C	_	_	2703	1	_	COIII	235	3	Phe -> Phe	Yes
+9921	G	3	2701	_	_	_	COIII	239	1	Ala -> Thr	No
+9923	C	_	_	2701	3	_	COIII	239	3	Ala -> Ala	Yes
+9932	G	22	2682	_	_	_	COIII	242	3	Trp -> Trp	Yes
+9938	T	_	_	8	2696	_	COIII	244	3	Phe -> Phe	Yes
+9941	A	2701	3	_	_	_	COIII	245	3	Val -> Val	Yes
+9944	T	_	_	4	2700	_	COIII	246	3	Asp -> Asp	Yes
+9947	G	13	2691	_	_	_	COIII	247	3	Val -> Val	Yes
+9948	G	5	2699	_	_	_	COIII	248	1	Val -> Ile	No
+9950	T	_	_	65	2639	_	COIII	248	3	Val -> Val	Yes
+9957	T	_	_	1	2703	_	COIII	251	1	Phe -> Leu	No
+9959	T	_	_	2	2702	_	COIII	251	3	Phe -> Phe	Yes
+9962	G	14	2690	_	_	_	COIII	252	3	Leu -> Leu	Yes
+9965	T	_	_	1	2703	_	COIII	253	3	Tyr -> Tyr	Yes
+9966	G	16	2688	_	_	_	COIII	254	1	Val -> Ile	No
+9968	C	2	_	2701	1	_	COIII	254	3	Val -> Val	Yes
+9971	C	_	_	2702	2	_	COIII	255	3	Ser -> Ser	Yes
+9972	A	2702	2	_	_	_	COIII	256	1	Ile -> Val	No
+9977	T	_	_	4	2700	_	COIII	257	3	Tyr -> Tyr	Yes
+9986	G	3	2701	_	_	_	COIII	260	3	Gly -> Gly	Yes
+9995	T	_	_	1	2703	_	tRNA Gly	_	_	_	_
+9997	T	_	_	1	2703	_	tRNA Gly	_	_	_	_
+10003	T	_	_	1	2703	_	tRNA Gly	_	_	_	_
+10005	A	2701	3	_	_	_	tRNA Gly	_	_	_	_
+10007	T	_	_	4	2700	_	tRNA Gly	_	_	_	_
+10031	T	_	_	6	2698	_	tRNA Gly	_	_	_	_
+10034	T	_	_	37	2667	_	tRNA Gly	_	_	_	_
+10042	A	2699	3	_	2	_	tRNA Gly	_	_	_	_
+10043	C	_	_	2703	1	_	tRNA Gly	_	_	_	_
+10044	A	2688	16	_	_	_	tRNA Gly	_	_	_	_
+10049	A	2703	1	_	_	_	tRNA Gly	_	_	_	_
+10057	T	_	_	1	2703	_	tRNA Gly	_	_	_	_
+10071	T	_	_	1	2703	_	ND3	5	1	Leu -> Leu	Yes
+10084	T	_	_	31	2673	_	ND3	9	2	Ile -> Thr	No
+10086	A	2678	26	_	_	_	ND3	10	1	Asn -> Asp	No
+10088	C	_	_	2702	2	_	ND3	10	3	Asn -> Asn	Yes
+10097	A	2697	4	3	_	_	ND3	13	3	Leu -> Leu	Yes
+10101	T	_	_	3	2701	_	ND3	15	1	Leu -> Leu	Yes
+10103	A	2703	1	_	_	_	ND3	15	3	Leu -> Leu	Yes
+10104	C	_	_	2690	14	_	ND3	16	1	Leu -> Leu	Yes
+10115	T	_	_	61	2643	_	ND3	19	3	Ile -> Ile	Yes
+10118	T	_	_	7	2697	_	ND3	20	3	Ile -> Ile	Yes
+10124	T	_	_	2	2702	_	ND3	22	3	Phe -> Phe	Yes
+10142	C	_	_	2696	8	_	ND3	28	3	Asn -> Asn	Yes
+10143	G	10	2694	_	_	_	ND3	29	1	Gly -> Ser	No
+10151	A	2703	1	_	_	_	ND3	31	3	Met -> Met	Yes
+10154	A	2702	2	_	_	_	ND3	32	3	Glu -> Glu	Yes
+10166	T	_	_	6	2698	_	ND3	36	3	Pro -> Pro	Yes
+10169	C	_	_	2703	1	_	ND3	37	3	Tyr -> Tyr	Yes
+10172	G	11	2693	_	_	_	ND3	38	3	Glu -> Glu	Yes
+10181	C	_	_	2682	22	_	ND3	41	3	Phe -> Phe	Yes
+10187	T	_	_	3	2701	_	ND3	43	3	Pro -> Pro	Yes
+10190	A	2703	1	_	_	_	ND3	44	3	Met -> Met	Yes
+10192	C	1	_	2697	6	_	ND3	45	2	Ser -> Phe	No
+10197	G	2	2702	_	_	_	ND3	47	1	Ala -> Thr	No
+10199	C	_	_	2703	1	_	ND3	47	3	Ala -> Ala	Yes
+10202	C	_	_	2703	1	_	ND3	48	3	Arg -> Arg	Yes
+10208	T	_	_	2	2702	_	ND3	50	3	Pro -> Pro	Yes
+10211	C	_	_	2696	8	_	ND3	51	3	Phe -> Phe	Yes
+10214	C	_	_	2701	3	_	ND3	52	3	Ser -> Ser	Yes
+10217	A	2701	3	_	_	_	ND3	53	3	Met -> Met	Yes
+10232	A	2703	1	_	_	_	ND3	58	3	Val -> Val	Yes
+10235	T	_	_	1	2702	_	ND3	59	3	Ala -> Ala	Yes
+10237	T	_	_	2	2702	_	ND3	60	2	Ile -> Thr	No
+10238	T	_	_	83	2621	_	ND3	60	3	Ile -> Ile	Yes
+10245	T	_	_	9	2695	_	ND3	63	1	Leu -> Leu	Yes
+10247	A	2703	1	_	_	_	ND3	63	3	Leu -> Leu	Yes
+10248	T	_	_	1	2703	_	ND3	64	1	Leu -> Leu	Yes
+10253	T	_	_	2	2702	_	ND3	65	3	Phe -> Phe	Yes
+10256	T	_	_	4	2700	_	ND3	66	3	Asp -> Asp	Yes
+10262	A	2703	1	_	_	_	ND3	68	3	Glu -> Glu	Yes
+10265	T	_	_	1	2703	_	ND3	69	3	Ile -> Ile	Yes
+10268	C	_	_	2703	1	_	ND3	70	3	Ala -> Ala	Yes
+10274	T	_	_	1	2703	_	ND3	72	3	Leu -> Leu	Yes
+10283	A	2699	5	_	_	_	ND3	75	3	Leu -> Leu	Yes
+10286	A	2702	2	_	_	_	ND3	76	3	Pro -> Pro	Yes
+10289	A	2695	9	_	_	_	ND3	77	3	Trp -> Trp	Yes
+10308	C	_	_	2703	1	_	ND3	84	1	Leu -> Leu	Yes
+10310	G	66	2638	_	_	_	ND3	84	3	Leu -> Leu	Yes
+10313	A	2703	1	_	_	_	ND3	85	3	Pro -> Pro	Yes
+10320	G	2	2702	_	_	_	ND3	88	1	Val -> Ile	No
+10321	T	_	_	26	2678	_	ND3	88	2	Val -> Ala	No
+10322	T	_	_	1	2703	_	ND3	88	3	Val -> Val	Yes
+10325	G	21	2683	_	_	_	ND3	89	3	Met -> Met	Yes
+10335	T	_	_	1	2703	_	ND3	93	1	Leu -> Leu	Yes
+10343	C	_	_	2703	1	_	ND3	95	3	Ile -> Ile	Yes
+10344	A	2703	_	1	_	_	ND3	96	1	Ile -> Leu	No
+10345	T	_	_	30	2674	_	ND3	96	2	Ile -> Thr	No
+10352	A	2702	2	_	_	_	ND3	98	3	Leu -> Leu	Yes
+10355	C	_	_	2703	1	_	ND3	99	3	Ala -> Ala	Yes
+10356	C	_	_	2703	1	_	ND3	100	1	Leu -> Leu	Yes
+10358	A	2701	3	_	_	_	ND3	100	3	Leu -> Leu	Yes
+10361	T	_	_	1	2703	_	ND3	101	3	Ser -> Ser	Yes
+10364	G	2	2702	_	_	_	ND3	102	3	Leu -> Leu	Yes
+10365	G	1	2703	_	_	_	ND3	103	1	Ala -> Thr	No
+10370	T	_	_	3	2701	_	ND3	104	3	Tyr -> Tyr	Yes
+10373	G	26	2678	_	_	_	ND3	105	3	Glu -> Glu	Yes
+10379	A	2703	1	_	_	_	ND3	107	3	Leu -> Leu	Yes
+10382	A	2703	1	_	_	_	ND3	108	3	Gln -> Gln	Yes
+10389	T	_	_	3	2701	_	ND3	111	1	Leu -> Leu	Yes
+10394	C	_	_	2696	8	_	ND3	112	3	Asp -> Asp	Yes
+10397	A	2669	35	_	_	_	ND3	113	3	Trp -> Trp	Yes
+10398	A	1461	1242	_	1	_	ND3	114	1	Thr -> Ala	No
+10400	C	_	_	1980	724	_	ND3	114	3	Thr -> Ala	No
+10403	A	2703	1	_	_	_	ND3	115	3	Glu -> Glu	Yes
+10410	T	_	_	39	2665	_	tRNA Arg	_	_	_	_
+10411	A	2700	4	_	_	_	tRNA Arg	_	_	_	_
+10423	A	2703	1	_	_	_	tRNA Arg	_	_	_	_
+10424	A	2703	_	_	1	_	tRNA Arg	_	_	_	_
+10427	G	3	2701	_	_	_	tRNA Arg	_	_	_	_
+10448	T	_	_	1	2703	_	tRNA Arg	_	_	_	_
+10454	T	_	_	11	2693	_	tRNA Arg	_	_	_	_
+10463	T	_	_	127	2577	_	tRNA Arg	_	_	_	_
+10481	T	_	_	2	2702	_	ND4L	4	3	Ile -> Ile	Yes
+10482	T	_	_	1	2703	_	ND4L	5	1	Tyr -> His	No
+10484	C	_	_	2703	1	_	ND4L	5	3	Tyr -> Tyr	Yes
+10493	T	_	_	3	2701	_	ND4L	8	3	Ile -> Ile	Yes
+10497	C	_	_	2702	2	_	ND4L	10	1	Leu -> Leu	Yes
+10499	A	2696	8	_	_	_	ND4L	10	3	Leu -> Leu	Yes
+10505	T	_	_	1	2703	_	ND4L	12	3	Phe -> Phe	Yes
+10506	A	2696	8	_	_	_	ND4L	13	1	Thr -> Ala	No
+10529	A	2702	2	_	_	_	ND4L	20	3	Leu -> Leu	Yes
+10530	G	1	2703	_	_	_	ND4L	21	1	Val -> Met	No
+10535	T	_	_	5	2699	_	ND4L	22	3	Tyr -> Tyr	Yes
+10550	A	2573	131	_	_	_	ND4L	27	3	Met -> Met	Yes
+10560	C	_	_	2703	1	_	ND4L	31	1	Leu -> Leu	Yes
+10583	A	2703	1	_	_	_	ND4L	38	3	Leu -> Leu	Yes
+10586	G	35	2669	_	_	_	ND4L	39	3	Ser -> Ser	Yes
+10589	G	44	2660	_	_	_	ND4L	40	3	Leu -> Leu	Yes
+10595	T	_	_	1	2703	_	ND4L	42	3	Ile -> Ile	Yes
+10598	A	2699	5	_	_	_	ND4L	43	3	Met -> Met	Yes
+10604	T	_	_	1	2703	_	ND4L	45	3	Thr -> Thr	Yes
+10607	C	_	_	2686	18	_	ND4L	46	3	Leu -> Leu	Yes
+10609	T	_	_	44	2660	_	ND4L	47	2	Met -> Thr	No
+10610	A	2703	_	_	1	_	ND4L	47	3	Met -> Ile	No
+10619	C	_	_	2702	2	_	ND4L	50	3	Asn -> Asn	Yes
+10631	C	2	_	2701	1	_	ND4L	54	3	Leu -> Leu	Yes
+10637	C	_	_	2702	2	_	ND4L	56	3	Ala -> Ala	Yes
+10640	T	_	_	2	2702	_	ND4L	57	3	Asn -> Asn	Yes
+10644	G	1	2703	_	_	_	ND4L	59	1	Val -> Met	No
+10645	T	_	1	_	2703	_	ND4L	59	2	Val -> Gly	No
+10646	G	13	2691	_	_	_	ND4L	59	3	Val -> Val	Yes
+10654	C	_	_	2702	2	_	ND4L	62	2	Ala -> Val	No
+10655	C	_	_	2703	1	_	ND4L	62	3	Ala -> Ala	Yes
+10658	A	2697	7	_	_	_	ND4L	63	3	Met -> Met	Yes
+10659	C	_	_	2703	1	_	ND4L	64	1	Leu -> Leu	Yes
+10664	C	_	_	2668	36	_	ND4L	65	3	Val -> Val	Yes
+10667	T	_	_	7	2697	_	ND4L	66	3	Phe -> Phe	Yes
+10670	C	_	_	2701	3	_	ND4L	67	3	Ala -> Ala	Yes
+10679	A	2702	2	_	_	_	ND4L	70	3	Glu -> Glu	Yes
+10682	A	2703	1	_	_	_	ND4L	71	3	Ala -> Ala	Yes
+10685	G	22	2682	_	_	_	ND4L	72	3	Ala -> Ala	Yes
+10688	G	90	2614	_	_	_	ND4L	73	3	Val -> Val	Yes
+10694	A	2702	2	_	_	_	ND4L	75	3	Leu -> Leu	Yes
+10697	C	_	_	2703	1	_	ND4L	76	3	Ala -> Ala	Yes
+10698	C	_	_	2703	1	_	ND4L	77	1	Leu -> Leu	Yes
+10700	A	2697	7	_	_	_	ND4L	77	3	Leu -> Leu	Yes
+10724	T	_	_	5	2699	_	ND4L	85	3	Tyr -> Tyr	Yes
+10728	C	_	_	2703	1	_	ND4L	87	1	Leu -> Leu	Yes
+10733	C	_	_	2699	5	_	ND4L	88	3	Asp -> Asp	Yes
+10736	C	_	_	2701	3	_	ND4L	89	3	Tyr -> Tyr	Yes
+10739	A	2703	1	_	_	_	ND4L	90	3	Val -> Val	Yes
+10750	A	2697	7	_	_	_	ND4L	94	2	Asn -> Ser	No
+10752	C	_	_	2703	1	_	ND4L	95	1	Leu -> Leu	Yes
+10754	A	2686	13	5	_	_	ND4L	95	3	Leu -> Leu	Yes
+10757	C	_	_	2703	1	_	ND4L	96	3	Leu -> Leu	Yes
+10768	A	2703	1	_	_	_	ND4	3	3	Lys -> Lys	Yes
+10771	A	2703	1	_	_	_	ND4	4	3	Leu -> Leu	Yes
+10775	G	2	2702	_	_	_	ND4	6	1	Val -> Ile	No
+10783	A	2703	_	1	_	_	ND4	8	3	Thr -> Thr	Yes
+10784	A	2703	1	_	_	_	ND4	9	1	Ile -> Val	No
+10786	T	_	_	4	2700	_	ND4	9	3	Ile -> Ile	Yes
+10790	T	_	_	12	2692	_	ND4	11	1	Leu -> Leu	Yes
+10792	A	2699	5	_	_	_	ND4	11	3	Leu -> Leu	Yes
+10793	C	_	_	2701	3	_	ND4	12	1	Leu -> Leu	Yes
+10801	G	32	2672	_	_	_	ND4	14	3	Leu -> Leu	Yes
+10804	A	2703	1	_	_	_	ND4	15	3	Thr -> Thr	Yes
+10810	T	_	_	94	2610	_	ND4	17	3	Leu -> Leu	Yes
+10816	A	2699	3	_	2	_	ND4	19	3	Lys -> Asn	No
+10819	A	2674	30	_	_	_	ND4	20	3	Lys -> Lys	Yes
+10822	C	_	_	2698	6	_	ND4	21	3	His -> His	Yes
+10825	A	2703	1	_	_	_	ND4	22	3	Met -> Met	Yes
+10828	T	_	_	3	2701	_	ND4	23	3	Ile -> Ile	Yes
+10834	C	_	_	2703	1	_	ND4	25	3	Ile -> Ile	Yes
+10837	C	_	_	2703	1	_	ND4	26	3	Asn -> Asn	Yes
+10845	C	_	_	2703	1	_	ND4	29	2	Thr -> Ile	No
+10846	C	_	_	2703	1	_	ND4	29	3	Thr -> Thr	Yes
+10849	C	_	_	2703	1	_	ND4	30	3	His -> His	Yes
+10853	C	_	_	2702	2	_	ND4	32	1	Leu -> Leu	Yes
+10873	T	_	_	943	1761	_	ND4	38	3	Pro -> Pro	Yes
+10874	C	_	_	2703	1	_	ND4	39	1	Leu -> Leu	Yes
+10876	A	2683	21	_	_	_	ND4	39	3	Leu -> Leu	Yes
+10885	T	_	_	1	2703	_	ND4	42	3	Phe -> Phe	Yes
+10891	A	2703	1	_	_	_	ND4	44	3	Gln -> Gln	Yes
+10894	C	_	_	2703	1	_	ND4	45	3	Ile -> Ile	Yes
+10895	A	2695	9	_	_	_	ND4	46	1	Asn -> Asp	No
+10899	A	2698	6	_	_	_	ND4	47	2	Asn -> Ser	No
+10903	C	_	_	2701	3	_	ND4	48	3	Asn -> Asn	Yes
+10907	T	_	_	5	2699	_	ND4	50	1	Phe -> Leu	No
+10914	G	3	2701	_	_	_	ND4	52	2	Cys -> Tyr	No
+10915	T	_	_	63	2641	_	ND4	52	3	Cys -> Cys	Yes
+10920	C	_	_	2700	4	_	ND4	54	2	Pro -> Leu	No
+10927	T	_	_	24	2680	_	ND4	56	3	Phe -> Phe	Yes
+10933	C	_	1	2703	_	_	ND4	58	3	Ser -> Ser	Yes
+10939	C	_	_	2702	2	_	ND4	60	3	Pro -> Pro	Yes
+10940	C	_	_	2703	1	_	ND4	61	1	Leu -> Leu	Yes
+10954	C	_	_	2702	2	_	ND4	65	3	Leu -> Leu	Yes
+10955	C	_	_	2701	3	_	ND4	66	1	Leu -> Leu	Yes
+10961	C	_	_	2702	2	_	ND4	68	1	Leu -> Leu	Yes
+10966	T	_	_	1	2703	_	ND4	69	3	Thr -> Thr	Yes
+10972	A	2702	2	_	_	_	ND4	71	3	Trp -> Trp	Yes
+10976	C	_	_	2685	19	_	ND4	73	1	Leu -> Leu	Yes
+10978	A	2688	16	_	_	_	ND4	73	3	Leu -> Leu	Yes
+10986	C	3	_	2701	_	_	ND4	76	2	Thr -> Lys	No
+10993	G	3	2701	_	_	_	ND4	78	3	Met -> Met	Yes
+11002	A	2688	16	_	_	_	ND4	81	3	Gln -> Gln	Yes
+11009	T	_	_	4	2700	_	ND4	84	1	Leu -> Leu	Yes
+11013	C	_	_	2701	3	_	ND4	85	2	Ser -> Phe	No
+11014	C	_	_	2699	5	_	ND4	85	3	Ser -> Ser	Yes
+11015	A	2703	1	_	_	_	ND4	86	1	Ser -> Gly	No
+11016	G	26	2678	_	_	_	ND4	86	2	Ser -> Asn	No
+11017	T	_	_	43	2661	_	ND4	86	3	Ser -> Ser	Yes
+11020	A	2700	4	_	_	_	ND4	87	3	Glu -> Glu	Yes
+11023	A	2703	1	_	_	_	ND4	88	3	Pro -> Pro	Yes
+11024	C	_	_	2702	2	_	ND4	89	1	Leu -> Leu	Yes
+11025	T	_	_	8	2696	_	ND4	89	2	Leu -> Pro	No
+11029	A	2703	1	_	_	_	ND4	90	3	Ser -> Ser	Yes
+11038	A	2701	3	_	_	_	ND4	93	3	Lys -> Lys	Yes
+11041	C	1	_	2703	_	_	ND4	94	3	Leu -> Leu	Yes
+11044	C	_	_	2698	6	_	ND4	95	3	Tyr -> Tyr	Yes
+11047	C	3	_	2701	_	_	ND4	96	3	Leu -> Leu	Yes
+11050	T	_	_	2	2702	_	ND4	97	3	Ser -> Ser	Yes
+11059	C	_	_	2702	2	_	ND4	100	3	Ile -> Ile	Yes
+11061	C	_	_	2698	6	_	ND4	101	2	Ser -> Phe	No
+11065	A	2698	6	_	_	_	ND4	102	3	Leu -> Leu	Yes
+11071	C	_	_	2701	3	_	ND4	104	3	Ile -> Ile	Yes
+11075	T	_	_	1	2703	_	ND4	106	1	Leu -> Leu	Yes
+11077	A	2702	2	_	_	_	ND4	106	3	Leu -> Leu	Yes
+11078	A	2703	1	_	_	_	ND4	107	1	Ile -> Val	No
+11080	T	_	_	2	2702	_	ND4	107	3	Ile -> Ile	Yes
+11083	A	2703	1	_	_	_	ND4	108	3	Met -> Met	Yes
+11084	A	2662	42	_	_	_	ND4	109	1	Thr -> Ala	No
+11087	T	_	_	2	2702	_	ND4	110	1	Phe -> Leu	No
+11092	A	2702	2	_	_	_	ND4	111	3	Thr -> Thr	Yes
+11101	A	2702	2	_	_	_	ND4	114	3	Glu -> Glu	Yes
+11107	C	_	_	2702	2	_	ND4	116	3	Ile -> Ile	Yes
+11110	A	2703	1	_	_	_	ND4	117	3	Met -> Met	Yes
+11113	T	_	_	2	2702	_	ND4	118	3	Phe -> Phe	Yes
+11116	T	_	_	2	2702	_	ND4	119	3	Tyr -> Tyr	Yes
+11119	C	_	_	2703	1	_	ND4	120	3	Ile -> Ile	Yes
+11140	C	_	_	2702	2	_	ND4	127	3	Ile -> Ile	Yes
+11143	C	_	_	2694	10	_	ND4	128	3	Pro -> Pro	Yes
+11146	C	_	_	2694	10	_	ND4	129	3	Thr -> Thr	Yes
+11147	T	_	_	4	2700	_	ND4	130	1	Leu -> Leu	Yes
+11149	G	7	2697	_	_	_	ND4	130	3	Leu -> Leu	Yes
+11150	G	6	2698	_	_	_	ND4	131	1	Ala -> Thr	No
+11151	C	_	_	2689	15	_	ND4	131	2	Ala -> Val	No
+11152	T	_	1	2	2701	_	ND4	131	3	Ala -> Ala	Yes
+11164	A	2702	2	_	_	_	ND4	135	3	Arg -> Arg	Yes
+11167	A	2693	11	_	_	_	ND4	136	3	Trp -> Trp	Yes
+11172	A	2687	17	_	_	_	ND4	138	2	Asn -> Ser	No
+11176	G	35	2669	_	_	_	ND4	139	3	Gln -> Gln	Yes
+11177	C	_	_	2676	28	_	ND4	140	1	Pro -> Ser	No
+11182	A	2703	1	_	_	_	ND4	141	3	Glu -> Glu	Yes
+11191	C	_	_	2702	2	_	ND4	144	3	Asn -> Asn	Yes
+11197	C	_	_	2696	8	_	ND4	146	3	Gly -> Gly	Yes
+11200	A	2703	1	_	_	_	ND4	147	3	Thr -> Thr	Yes
+11204	T	_	_	7	2697	_	ND4	149	1	Phe -> Leu	No
+11206	C	1	_	2702	1	_	ND4	149	3	Phe -> Phe	Yes
+11215	C	_	_	2668	36	_	ND4	152	3	Tyr -> Tyr	Yes
+11227	C	_	1	2703	_	_	ND4	156	3	Gly -> Gly	Yes
+11229	C	_	_	2703	1	_	ND4	157	2	Ser -> Phe	No
+11233	T	_	_	3	2701	_	ND4	158	3	Leu -> Leu	Yes
+11239	A	2703	1	_	_	_	ND4	160	3	Leu -> Leu	Yes
+11242	C	_	5	2699	_	_	ND4	161	3	Leu -> Leu	Yes
+11248	A	2703	1	_	_	_	ND4	163	3	Ala -> Ala	Yes
+11251	A	2470	234	_	_	_	ND4	164	3	Leu -> Leu	Yes
+11252	A	2702	2	_	_	_	ND4	165	1	Ile -> Val	No
+11253	T	_	_	10	2694	_	ND4	165	2	Ile -> Thr	No
+11254	T	_	_	1	2703	_	ND4	165	3	Ile -> Ile	Yes
+11255	T	_	_	5	2699	_	ND4	166	1	Tyr -> His	No
+11257	C	_	_	2693	11	_	ND4	166	3	Tyr -> Tyr	Yes
+11260	T	_	_	5	2699	_	ND4	167	3	Thr -> Thr	Yes
+11268	C	_	_	2703	1	_	ND4	170	2	Thr -> Ile	No
+11269	C	_	_	2696	8	_	ND4	170	3	Thr -> Thr	Yes
+11272	A	2702	2	_	_	_	ND4	171	3	Leu -> Leu	Yes
+11278	A	2703	1	_	_	_	ND4	173	3	Ser -> Ser	Yes
+11281	A	2703	1	_	_	_	ND4	174	3	Leu -> Leu	Yes
+11287	T	_	_	5	2699	_	ND4	176	3	Ile -> Ile	Yes
+11288	C	_	_	2700	4	_	ND4	177	1	Leu -> Leu	Yes
+11290	A	2703	1	_	_	_	ND4	177	3	Leu -> Leu	Yes
+11293	A	2696	8	_	_	_	ND4	178	3	Leu -> Leu	Yes
+11296	C	_	_	2702	2	_	ND4	179	3	Leu -> Leu	Yes
+11299	T	_	_	139	2565	_	ND4	180	3	Thr -> Thr	Yes
+11302	C	_	_	2701	3	_	ND4	181	3	Leu -> Leu	Yes
+11314	A	2695	9	_	_	_	ND4	185	3	Glu -> Glu	Yes
+11317	A	2703	1	_	_	_	ND4	186	3	Leu -> Leu	Yes
+11332	C	_	_	2691	13	_	ND4	191	3	Ala -> Ala	Yes
+11335	T	_	_	2704	_	_	ND4	192	3	Asn -> Asn	Yes
+11337	A	2703	1	_	_	_	ND4	193	2	Asn -> Ser	No
+11339	T	_	_	5	2699	_	ND4	194	1	Leu -> Leu	Yes
+11347	A	2701	3	_	_	_	ND4	196	3	Trp -> Trp	Yes
+11348	C	_	_	2700	4	_	ND4	197	1	Leu -> Leu	Yes
+11350	A	2701	3	_	_	_	ND4	197	3	Leu -> Leu	Yes
+11353	T	_	_	8	2696	_	ND4	198	3	Ala -> Ala	Yes
+11361	T	_	_	1	2703	_	ND4	201	2	Met -> Thr	No
+11362	A	2702	2	_	_	_	ND4	201	3	Met -> Met	Yes
+11365	T	_	_	3	2701	_	ND4	202	3	Ala -> Ala	Yes
+11368	T	_	_	4	2700	_	ND4	203	3	Phe -> Phe	Yes
+11377	G	27	2677	_	_	_	ND4	206	3	Lys -> Lys	Yes
+11380	A	2703	1	_	_	_	ND4	207	3	Met -> Met	Yes
+11383	T	_	_	6	2698	_	ND4	208	3	Pro -> Pro	Yes
+11386	T	_	_	1	2703	_	ND4	209	3	Leu -> Leu	Yes
+11389	C	_	_	2703	1	_	ND4	210	3	Tyr -> Tyr	Yes
+11396	C	_	_	2703	1	_	ND4	213	1	His -> Tyr	No
+11401	A	2702	2	_	_	_	ND4	214	3	Leu -> Leu	Yes
+11404	A	2695	9	_	_	_	ND4	215	3	Trp -> Trp	Yes
+11410	T	_	_	4	2700	_	ND4	217	3	Pro -> Pro	Yes
+11413	A	2702	2	_	_	_	ND4	218	3	Lys -> Lys	Yes
+11422	C	_	_	2701	3	_	ND4	221	3	Val -> Val	Yes
+11428	C	_	_	2703	1	_	ND4	223	3	Ala -> Ala	Yes
+11431	C	_	_	2702	2	_	ND4	224	3	Pro -> Pro	Yes
+11437	T	_	_	9	2695	_	ND4	226	3	Ala -> Ala	Yes
+11440	G	4	2700	_	_	_	ND4	227	3	Gly -> Gly	Yes
+11447	G	1	2703	_	_	_	ND4	230	1	Val -> Met	No
+11452	T	_	_	2	2702	_	ND4	231	3	Leu -> Leu	Yes
+11467	A	2357	347	_	_	_	ND4	236	3	Leu -> Leu	Yes
+11470	A	2684	20	_	_	_	ND4	237	3	Lys -> Lys	Yes
+11473	A	2703	1	_	_	_	ND4	238	3	Leu -> Leu	Yes
+11476	C	_	_	2702	2	_	ND4	239	3	Gly -> Gly	Yes
+11482	T	_	_	3	2701	_	ND4	241	3	Tyr -> Tyr	Yes
+11485	T	_	_	18	2686	_	ND4	242	3	Gly -> Gly	Yes
+11491	A	2703	1	_	_	_	ND4	244	3	Met -> Met	Yes
+11503	C	_	_	2703	1	_	ND4	248	3	Leu -> Leu	Yes
+11506	T	_	_	1	2703	_	ND4	249	3	Ile -> Ile	Yes
+11516	C	_	_	2703	1	_	ND4	253	1	Leu -> Leu	Yes
+11518	G	2	2702	_	_	_	ND4	253	3	Leu -> Leu	Yes
+11527	C	_	_	2703	1	_	ND4	256	3	His -> His	Yes
+11530	A	2703	1	_	_	_	ND4	257	3	Met -> Met	Yes
+11533	C	_	_	2701	3	_	ND4	258	3	Ala -> Ala	Yes
+11536	C	_	_	2658	46	_	ND4	259	3	Tyr -> Tyr	Yes
+11539	C	_	_	2703	1	_	ND4	260	3	Pro -> Pro	Yes
+11547	T	_	_	2	2702	_	ND4	263	2	Val -> Ala	No
+11548	A	2703	1	_	_	_	ND4	263	3	Val -> Val	Yes
+11549	C	_	_	2701	3	_	ND4	264	1	Leu -> Leu	Yes
+11554	C	_	2	2702	_	_	ND4	265	3	Ser -> Ser	Yes
+11560	A	2700	4	_	_	_	ND4	267	3	Trp -> Trp	Yes
+11563	C	_	_	2702	2	_	ND4	268	3	Gly -> Gly	Yes
+11566	A	2703	1	_	_	_	ND4	269	3	Met -> Met	Yes
+11569	T	_	_	2	2702	_	ND4	270	3	Ile -> Ile	Yes
+11590	A	2695	9	_	_	_	ND4	277	3	Leu -> Leu	Yes
+11593	A	2702	_	_	2	_	ND4	278	3	Arg -> Arg	Yes
+11595	A	2703	1	_	_	_	ND4	279	2	Gln -> Arg	No
+11611	G	5	2699	_	_	_	ND4	284	3	Ser -> Ser	Yes
+11617	T	_	_	1	2703	_	ND4	286	3	Ile -> Ile	Yes
+11620	A	2701	3	_	_	_	ND4	287	3	Ala -> Ala	Yes
+11623	C	_	_	2699	5	_	ND4	288	3	Tyr -> Tyr	Yes
+11626	T	_	_	1	2703	_	ND4	289	3	Ser -> Ser	Yes
+11641	A	2677	27	_	_	_	ND4	294	3	Met -> Met	Yes
+11647	C	_	1	2661	42	_	ND4	296	3	Leu -> Leu	Yes
+11653	A	2698	6	_	_	_	ND4	298	3	Val -> Val	Yes
+11654	A	2700	4	_	_	_	ND4	299	1	Thr -> Ala	No
+11659	C	_	_	2703	1	_	ND4	300	3	Ala -> Ala	Yes
+11665	C	1	_	2693	10	_	ND4	302	3	Leu -> Leu	Yes
+11668	C	_	_	2703	1	_	ND4	303	3	Ile -> Ile	Yes
+11671	A	2702	2	_	_	_	ND4	304	3	Gln -> Gln	Yes
+11674	C	_	_	2649	55	_	ND4	305	3	Thr -> Thr	Yes
+11692	C	_	_	2703	1	_	ND4	311	3	Gly -> Gly	Yes
+11696	G	7	2697	_	_	_	ND4	313	1	Val -> Ile	No
+11701	T	_	_	8	2696	_	ND4	314	3	Ile -> Ile	Yes
+11710	C	_	_	2702	2	_	ND4	317	3	Ile -> Ile	Yes
+11719	G	2100	604	_	_	_	ND4	320	3	Gly -> Gly	Yes
+11722	T	_	_	8	2696	_	ND4	321	3	Leu -> Leu	Yes
+11731	A	2703	1	_	_	_	ND4	324	3	Ser -> Ser	Yes
+11732	T	_	_	9	2695	_	ND4	325	1	Leu -> Leu	Yes
+11734	A	2702	2	_	_	_	ND4	325	3	Leu -> Leu	Yes
+11746	A	2703	1	_	_	_	ND4	329	3	Leu -> Leu	Yes
+11756	A	2703	1	_	_	_	ND4	333	1	Asn -> Asp	No
+11764	A	2703	1	_	_	_	ND4	335	3	Glu -> Glu	Yes
+11765	C	1	_	2703	_	_	ND4	336	1	Arg -> Ser	No
+11767	C	_	_	2699	5	_	ND4	336	3	Arg -> Arg	Yes
+11770	T	_	_	2	2702	_	ND4	337	3	Thr -> Thr	Yes
+11778	G	2	2702	_	_	_	ND4	340	2	Arg -> His	No
+11788	C	_	_	2703	1	_	ND4	343	3	Ile -> Ile	Yes
+11794	T	_	_	1	2703	_	ND4	345	3	Ser -> Ser	Yes
+11800	A	2698	5	1	_	_	ND4	347	3	Gly -> Gly	Yes
+11807	A	2702	2	_	_	_	ND4	350	1	Thr -> Ala	No
+11812	A	2616	88	_	_	_	ND4	351	3	Leu -> Leu	Yes
+11818	A	2703	_	1	_	_	ND4	353	3	Pro -> Pro	Yes
+11821	A	2703	_	_	1	_	ND4	354	3	Leu -> Leu	Yes
+11824	A	2702	1	_	_	_	ND4	355	3	Met -> Met	Yes
+11827	T	_	_	2	2702	_	ND4	356	3	Ala -> Ala	Yes
+11830	T	_	_	2	2702	_	ND4	357	3	Phe -> Phe	Yes
+11839	T	_	_	1	2703	_	ND4	360	3	Leu -> Leu	Yes
+11840	C	_	_	2694	10	_	ND4	361	1	Leu -> Leu	Yes
+11845	A	2703	1	_	_	_	ND4	362	3	Ala -> Ala	Yes
+11854	T	_	_	6	2698	_	ND4	365	3	Ala -> Ala	Yes
+11860	C	1	_	2703	_	_	ND4	367	3	Leu -> Leu	Yes
+11864	T	_	_	5	2699	_	ND4	369	1	Leu -> Leu	Yes
+11866	A	2703	1	_	_	_	ND4	369	3	Leu -> Leu	Yes
+11869	C	5	_	2698	1	_	ND4	370	3	Pro -> Pro	Yes
+11878	T	_	_	1	2703	_	ND4	373	3	Ile -> Ile	Yes
+11881	C	_	_	2697	7	_	ND4	374	3	Asn -> Asn	Yes
+11882	C	_	_	2703	1	_	ND4	375	1	Leu -> Leu	Yes
+11884	A	2700	4	_	_	_	ND4	375	3	Leu -> Leu	Yes
+11887	G	3	2701	_	_	_	ND4	376	3	Leu -> Leu	Yes
+11890	A	2703	1	_	_	_	ND4	377	3	Gly -> Gly	Yes
+11893	A	2700	4	_	_	_	ND4	378	3	Glu -> Glu	Yes
+11899	T	_	_	24	2680	_	ND4	380	3	Ser -> Ser	Yes
+11902	G	1	2703	_	_	_	ND4	381	3	Val -> Val	Yes
+11908	A	2702	2	_	_	_	ND4	383	3	Val -> Val	Yes
+11909	A	2703	1	_	_	_	ND4	384	1	Thr -> Ala	No
+11914	G	213	2491	_	_	_	ND4	385	3	Thr -> Thr	Yes
+11923	A	2701	3	_	_	_	ND4	388	3	Trp -> Trp	Yes
+11926	A	2703	1	_	_	_	ND4	389	3	Ser -> Ser	Yes
+11928	A	2697	7	_	_	_	ND4	390	2	Asn -> Ser	No
+11929	T	_	_	1	2703	_	ND4	390	3	Asn -> Asn	Yes
+11932	C	_	_	2702	2	_	ND4	391	3	Ile -> Ile	Yes
+11935	T	_	_	5	2699	_	ND4	392	3	Thr -> Thr	Yes
+11938	C	_	_	2700	4	_	ND4	393	3	Leu -> Leu	Yes
+11944	T	_	_	81	2623	_	ND4	395	3	Leu -> Leu	Yes
+11946	C	_	_	2702	2	_	ND4	396	2	Thr -> Met	No
+11947	A	2649	55	_	_	_	ND4	396	3	Thr -> Thr	Yes
+11950	A	2700	4	_	_	_	ND4	397	3	Gly -> Gly	Yes
+11953	C	_	_	2703	1	_	ND4	398	3	Leu -> Leu	Yes
+11959	A	2696	8	_	_	_	ND4	400	3	Met -> Met	Yes
+11963	G	11	2693	_	_	_	ND4	402	1	Val -> Ile	No
+11969	G	20	2684	_	_	_	ND4	404	1	Ala -> Thr	No
+11974	A	2703	1	_	_	_	ND4	405	3	Leu -> Leu	Yes
+11992	T	_	_	1	2703	_	ND4	411	3	Phe -> Phe	Yes
+12007	G	96	2608	_	_	_	ND4	416	3	Trp -> Trp	Yes
+12011	T	_	_	1	2703	_	ND4	418	1	Ser -> Pro	No
+12019	C	_	_	2702	2	_	ND4	420	3	Thr -> Thr	Yes
+12022	C	_	_	2703	1	_	ND4	421	3	His -> His	Yes
+12025	C	_	_	2702	2	_	ND4	422	3	His -> His	Yes
+12026	A	2680	24	_	_	_	ND4	423	1	Ile -> Val	No
+12028	T	_	_	1	2703	_	ND4	423	3	Ile -> Ile	Yes
+12030	A	2701	3	_	_	_	ND4	424	2	Asn -> Ser	No
+12033	A	2703	1	_	_	_	ND4	425	2	Asn -> Ser	No
+12040	A	2703	1	_	_	_	ND4	427	3	Lys -> Lys	Yes
+12049	C	_	_	2697	7	_	ND4	430	3	Phe -> Phe	Yes
+12059	A	2702	_	2	_	_	ND4	434	1	Asn -> His	No
+12061	C	_	_	2702	2	_	ND4	434	3	Asn -> Asn	Yes
+12063	C	_	_	2703	1	_	ND4	435	2	Thr -> Ile	No
+12064	C	_	_	2702	2	_	ND4	435	3	Thr -> Thr	Yes
+12070	G	3	2701	_	_	_	ND4	437	3	Met -> Met	Yes
+12082	A	2703	1	_	_	_	ND4	441	3	Leu -> Leu	Yes
+12083	T	_	5	_	2699	_	ND4	442	1	Ser -> Ala	No
+12084	C	_	_	2702	2	_	ND4	442	2	Ser -> Phe	No
+12085	C	_	_	2703	1	_	ND4	442	3	Ser -> Ser	Yes
+12088	C	_	_	2702	2	_	ND4	443	3	Pro -> Pro	Yes
+12091	T	_	_	11	2693	_	ND4	444	3	Ile -> Ile	Yes
+12092	C	3	_	2697	4	_	ND4	445	1	Leu -> Phe	No
+12097	C	_	_	2703	1	_	ND4	446	3	Leu -> Leu	Yes
+12106	C	_	_	2700	4	_	ND4	449	3	Leu -> Leu	Yes
+12121	T	_	_	13	2691	_	ND4	454	3	Ile -> Ile	Yes
+12126	G	1	2703	_	_	_	ND4	456	2	Gly -> Glu	No
+12127	G	5	2699	_	_	_	ND4	456	3	Gly -> Gly	Yes
+12133	C	_	_	2702	2	_	ND4	458	3	Ser -> Ser	Yes
+12134	T	_	_	1	2703	_	ND4	459	1	Ser -> Pro	No
+12135	C	4	_	2699	1	_	ND4	459	2	Ser -> Tyr	No
+12136	T	_	_	4	2700	_	ND4	459	3	Ser -> Ser	Yes
+12142	A	2702	2	_	_	_	tRNA His	_	_	_	_
+12153	C	_	_	2700	4	_	tRNA His	_	_	_	_
+12166	T	_	_	1	2703	_	tRNA His	_	_	_	_
+12171	A	2703	1	_	_	_	tRNA His	_	_	_	_
+12172	A	2673	31	_	_	_	tRNA His	_	_	_	_
+12175	T	_	_	1	2703	_	tRNA His	_	_	_	_
+12188	T	_	_	1	2703	_	tRNA His	_	_	_	_
+12189	T	_	_	8	2696	_	tRNA His	_	_	_	_
+12192	G	12	2692	_	_	_	tRNA His	_	_	_	_
+12200	A	2703	1	_	_	_	tRNA His	_	_	_	_
+12210	A	2703	1	_	_	_	tRNA Ser(2)	_	_	_	_
+12215	T	_	_	1	2703	_	tRNA Ser(2)	_	_	_	_
+12217	A	2703	1	_	_	_	tRNA Ser(2)	_	_	_	_
+12234	A	2696	8	_	_	_	tRNA Ser(2)	_	_	_	_
+12235	T	_	_	3	2701	_	tRNA Ser(2)	_	_	_	_
+12236	G	21	2682	1	_	_	tRNA Ser(2)	_	_	_	_
+12237	C	_	_	2703	_	1	tRNA Ser(2)	_	_	_	_
+12238	C	_	_	2703	1	_	tRNA Ser(2)	_	_	_	_
+12239	C	_	_	2678	26	_	tRNA Ser(2)	_	_	_	_
+12245	T	_	_	1	2703	_	tRNA Ser(2)	_	_	_	_
+12246	C	_	_	2702	2	_	tRNA Ser(2)	_	_	_	_
+12248	A	2701	3	_	_	_	tRNA Ser(2)	_	_	_	_
+12254	A	2703	1	_	_	_	tRNA Ser(2)	_	_	_	_
+12258	C	1	_	2703	_	_	tRNA Ser(2)	_	_	_	_
+12280	A	2702	2	_	_	_	tRNA Leu	_	_	_	_
+12285	T	_	_	4	2700	_	tRNA Leu	_	_	_	_
+12297	T	_	_	2	2702	_	tRNA Leu	_	_	_	_
+12303	C	_	_	2702	2	_	tRNA Leu	_	_	_	_
+12308	A	2357	347	_	_	_	tRNA Leu	_	_	_	_
+12311	T	_	_	10	2694	_	tRNA Leu	_	_	_	_
+12317	T	_	1	_	2703	_	tRNA Leu	_	_	_	_
+12321	A	2703	1	_	_	_	tRNA Leu	_	_	_	_
+12331	A	2703	1	_	_	_	tRNA Leu	_	_	_	_
+12338	T	_	_	6	2698	_	ND5	1	2	Met -> Thr	No
+12340	A	2703	1	_	_	_	ND5	2	1	Thr -> Ala	No
+12341	C	_	_	2702	2	_	ND5	2	2	Thr -> Ile	No
+12346	C	_	_	2671	33	_	ND5	4	1	His -> Tyr	No
+12351	T	_	_	2	2702	_	ND5	5	3	Thr -> Thr	Yes
+12354	T	_	_	7	2697	_	ND5	6	3	Thr -> Thr	Yes
+12358	A	2644	60	_	_	_	ND5	8	1	Thr -> Ala	No
+12360	C	_	_	2702	2	_	ND5	8	3	Thr -> Thr	Yes
+12361	A	2672	32	_	_	_	ND5	9	1	Thr -> Ala	No
+12362	C	_	_	2702	2	_	ND5	9	2	Thr -> Ile	No
+12366	A	2699	5	_	_	_	ND5	10	3	Leu -> Leu	Yes
+12370	C	_	_	2702	2	_	ND5	12	1	Leu -> Leu	Yes
+12372	G	390	2314	_	_	_	ND5	12	3	Leu -> Leu	Yes
+12373	A	2700	4	_	_	_	ND5	13	1	Thr -> Ala	No
+12375	T	_	_	1	2703	_	ND5	13	3	Thr -> Thr	Yes
+12376	T	_	1	_	2703	_	ND5	14	1	Ser -> Ala	No
+12378	C	_	_	2703	1	_	ND5	14	3	Ser -> Ser	Yes
+12381	A	2703	1	_	_	_	ND5	15	3	Leu -> Leu	Yes
+12384	T	_	_	1	2703	_	ND5	16	3	Ile -> Ile	Yes
+12391	A	2703	1	_	_	_	ND5	19	1	Ile -> Val	No
+12396	T	_	_	7	2697	_	ND5	20	3	Leu -> Leu	Yes
+12397	A	2694	10	_	_	_	ND5	21	1	Thr -> Ala	No
+12400	A	2703	1	_	_	_	ND5	22	1	Thr -> Ala	No
+12403	C	_	_	2648	56	_	ND5	23	1	Leu -> Phe	No
+12405	C	_	_	2669	35	_	ND5	23	3	Leu -> Leu	Yes
+12406	G	55	2649	_	_	_	ND5	24	1	Val -> Ile	No
+12408	T	_	_	5	2699	_	ND5	24	3	Val -> Val	Yes
+12414	T	_	_	61	2643	_	ND5	26	3	Pro -> Pro	Yes
+12425	A	2702	2	_	_	_	ND5	30	2	Asn -> Ser	No
+12432	C	_	_	2699	5	_	ND5	32	3	Tyr -> Tyr	Yes
+12438	T	_	_	5	2699	_	ND5	34	3	His -> His	Yes
+12441	T	_	_	4	2700	_	ND5	35	3	Tyr -> Tyr	Yes
+12451	A	2702	2	_	_	_	ND5	39	1	Ile -> Val	No
+12453	T	_	_	2	2702	_	ND5	39	3	Ile -> Ile	Yes
+12454	G	3	2701	_	_	_	ND5	40	1	Val -> Ile	No
+12468	T	_	_	5	2699	_	ND5	44	3	Phe -> Phe	Yes
+12469	A	2703	1	_	_	_	ND5	45	1	Ile -> Val	No
+12471	T	_	_	1	2703	_	ND5	45	3	Ile -> Ile	Yes
+12477	T	_	_	8	2696	_	ND5	47	3	Ser -> Ser	Yes
+12483	C	_	_	2703	1	_	ND5	49	3	Phe -> Phe	Yes
+12492	A	2703	_	_	1	_	ND5	52	3	Thr -> Thr	Yes
+12493	A	2703	1	_	_	_	ND5	53	1	Met -> Val	No
+12501	G	62	2642	_	_	_	ND5	55	3	Met -> Met	Yes
+12502	T	_	_	1	2703	_	ND5	56	1	Cys -> Arg	No
+12507	A	2698	6	_	_	_	ND5	57	3	Leu -> Leu	Yes
+12510	C	_	_	2703	1	_	ND5	58	3	Asp -> Asp	Yes
+12519	T	_	_	24	2680	_	ND5	61	3	Val -> Val	Yes
+12528	G	1	2703	_	_	_	ND5	64	3	Ser -> Ser	Yes
+12530	A	2703	1	_	_	_	ND5	65	2	Asn -> Ser	No
+12534	A	2703	1	_	_	_	ND5	66	3	Trp -> Trp	Yes
+12535	C	_	_	2703	1	_	ND5	67	1	His -> Tyr	No
+12540	A	2701	3	_	_	_	ND5	68	3	Trp -> Trp	Yes
+12542	C	_	_	2703	1	_	ND5	69	2	Ala -> Val	No
+12549	C	_	_	2698	6	_	ND5	71	3	Thr -> Thr	Yes
+12557	C	_	_	2700	4	_	ND5	74	2	Thr -> Ile	No
+12561	G	4	2700	_	_	_	ND5	75	3	Gln -> Gln	Yes
+12570	A	2702	2	_	_	_	ND5	78	3	Leu -> Leu	Yes
+12574	T	_	_	2	2702	_	ND5	80	1	Phe -> Leu	No
+12579	A	2701	3	_	_	_	ND5	81	3	Lys -> Lys	Yes
+12582	A	2702	2	_	_	_	ND5	82	3	Leu -> Leu	Yes
+12603	C	_	_	2700	4	_	ND5	89	3	Phe -> Phe	Yes
+12605	T	_	_	1	2703	_	ND5	90	2	Ile -> Thr	No
+12609	T	_	_	6	2698	_	ND5	91	3	Pro -> Pro	Yes
+12612	A	2589	114	_	1	_	ND5	92	3	Val -> Val	Yes
+12613	G	4	2700	_	_	_	ND5	93	1	Ala -> Thr	No
+12615	A	2702	2	_	_	_	ND5	93	3	Ala -> Ala	Yes
+12616	T	_	_	3	2701	_	ND5	94	1	Leu -> Leu	Yes
+12618	G	32	2672	_	_	_	ND5	94	3	Leu -> Leu	Yes
+12621	C	_	_	2703	1	_	ND5	95	3	Phe -> Phe	Yes
+12622	G	1	2703	_	_	_	ND5	96	1	Val -> Ile	No
+12630	G	18	2686	_	_	_	ND5	98	3	Trp -> Trp	Yes
+12633	C	36	_	2649	19	_	ND5	99	3	Ser -> Ser	Yes
+12634	A	2700	4	_	_	_	ND5	100	1	Ile -> Val	No
+12635	T	_	_	2	2702	_	ND5	100	2	Ile -> Thr	No
+12642	A	2699	5	_	_	_	ND5	102	3	Glu -> Glu	Yes
+12648	A	2703	1	_	_	_	ND5	104	3	Ser -> Ser	Yes
+12651	G	3	2699	2	_	_	ND5	105	3	Leu -> Leu	Yes
+12654	A	2700	4	_	_	_	ND5	106	3	Trp -> Trp	Yes
+12662	A	2703	1	_	_	_	ND5	109	2	Asn -> Ser	No
+12663	C	_	_	2703	1	_	ND5	109	3	Asn -> Asn	Yes
+12666	A	2703	_	1	_	_	ND5	110	3	Ser -> Ser	Yes
+12669	C	_	_	2681	23	_	ND5	111	3	Asp -> Asp	Yes
+12672	A	2699	5	_	_	_	ND5	112	3	Pro -> Pro	Yes
+12675	C	_	_	2703	1	_	ND5	113	3	Asn -> Asn	Yes
+12678	T	_	_	2	2702	_	ND5	114	3	Ile -> Ile	Yes
+12681	T	_	_	2	2702	_	ND5	115	3	Asn -> Asn	Yes
+12684	G	2	2702	_	_	_	ND5	116	3	Gln -> Gln	Yes
+12687	C	_	_	2703	1	_	ND5	117	3	Phe -> Phe	Yes
+12693	A	2670	34	_	_	_	ND5	119	3	Lys -> Lys	Yes
+12696	T	_	_	8	2696	_	ND5	120	3	Tyr -> Tyr	Yes
+12699	A	2703	1	_	_	_	ND5	121	3	Leu -> Leu	Yes
+12705	C	1	_	1480	1223	_	ND5	123	3	Ile -> Ile	Yes
+12714	T	_	_	13	2691	_	ND5	126	3	Ile -> Ile	Yes
+12715	A	2701	3	_	_	_	ND5	127	1	Thr -> Ala	No
+12720	A	2671	33	_	_	_	ND5	128	3	Met -> Met	Yes
+12723	A	2703	1	_	_	_	ND5	129	3	Leu -> Leu	Yes
+12727	T	_	_	2	2702	_	ND5	131	1	Leu -> Leu	Yes
+12729	A	2703	1	_	_	_	ND5	131	3	Leu -> Leu	Yes
+12730	G	1	2703	_	_	_	ND5	132	1	Val -> Ile	No
+12732	T	_	_	6	2698	_	ND5	132	3	Val -> Val	Yes
+12737	C	_	1	2703	_	_	ND5	134	2	Ala -> Gly	No
+12738	T	_	4	1	2699	_	ND5	134	3	Ala -> Ala	Yes
+12741	C	_	_	2703	1	_	ND5	135	3	Asn -> Asn	Yes
+12745	C	_	_	2703	1	_	ND5	137	1	Leu -> Leu	Yes
+12750	C	_	_	2703	1	_	ND5	138	3	Phe -> Phe	Yes
+12753	A	2700	4	_	_	_	ND5	139	3	Gln -> Gln	Yes
+12756	G	1	2703	_	_	_	ND5	140	3	Leu -> Leu	Yes
+12762	C	_	_	2703	1	_	ND5	142	3	Ile -> Ile	Yes
+12768	A	2696	8	_	_	_	ND5	144	3	Trp -> Trp	Yes
+12771	G	62	2642	_	_	_	ND5	145	3	Glu -> Glu	Yes
+12780	A	2703	1	_	_	_	ND5	148	3	Gly -> Gly	Yes
+12788	C	_	1	2703	_	_	ND5	151	2	Ser -> Cys	No
+12793	T	_	_	4	2700	_	ND5	153	1	Leu -> Leu	Yes
+12795	G	4	2700	_	_	_	ND5	153	3	Leu -> Leu	Yes
+12798	C	_	_	2703	1	_	ND5	154	3	Leu -> Leu	Yes
+12801	C	_	_	2702	2	_	ND5	155	3	Ile -> Ile	Yes
+12804	T	_	_	2	2702	_	ND5	156	3	Ser -> Ser	Yes
+12810	A	2672	32	_	_	_	ND5	158	3	Trp -> Trp	Yes
+12811	T	_	_	37	2667	_	ND5	159	1	Tyr -> His	No
+12813	C	_	_	2703	1	_	ND5	159	3	Tyr -> Tyr	Yes
+12816	C	_	_	2700	4	_	ND5	160	3	Ala -> Ala	Yes
+12822	A	2699	5	_	_	_	ND5	162	3	Ala -> Ala	Yes
+12831	C	_	_	2703	1	_	ND5	165	3	Asn -> Asn	Yes
+12834	A	2703	1	_	_	_	ND5	166	3	Thr -> Thr	Yes
+12842	T	_	_	3	2701	_	ND5	169	2	Ile -> Thr	No
+12850	A	2701	3	_	_	_	ND5	172	1	Ile -> Val	No
+12852	C	_	_	2703	1	_	ND5	172	3	Ile -> Ile	Yes
+12853	C	_	_	2703	1	_	ND5	173	1	Leu -> Leu	Yes
+12858	C	_	_	2700	4	_	ND5	174	3	Tyr -> Tyr	Yes
+12864	T	_	_	3	2701	_	ND5	176	3	Arg -> Arg	Yes
+12870	C	_	_	2702	2	_	ND5	178	3	Gly -> Gly	Yes
+12873	T	_	_	2	2702	_	ND5	179	3	Asp -> Asp	Yes
+12876	C	_	_	2699	5	_	ND5	180	3	Ile -> Ile	Yes
+12879	T	_	_	13	2691	_	ND5	181	3	Gly -> Gly	Yes
+12880	T	_	_	23	2681	_	ND5	182	1	Phe -> Leu	No
+12882	C	_	_	2661	43	_	ND5	182	3	Phe -> Phe	Yes
+12883	A	2703	1	_	_	_	ND5	183	1	Ile -> Val	No
+12888	C	_	_	2703	1	_	ND5	184	3	Leu -> Leu	Yes
+12903	T	_	_	1	2703	_	ND5	189	3	Phe -> Phe	Yes
+12909	A	2702	2	_	_	_	ND5	191	3	Leu -> Leu	Yes
+12930	A	2679	18	_	7	_	ND5	198	3	Pro -> Pro	Yes
+12937	A	2703	1	_	_	_	ND5	201	1	Met -> Val	No
+12940	G	29	2675	_	_	_	ND5	202	1	Ala -> Thr	No
+12948	A	2696	8	_	_	_	ND5	204	3	Leu -> Leu	Yes
+12950	A	2643	7	54	_	_	ND5	205	2	Asn -> Thr	No
+12951	C	_	_	2703	1	_	ND5	205	3	Asn -> Asn	Yes
+12952	G	1	2703	_	_	_	ND5	206	1	Ala -> Thr	No
+12954	T	_	_	14	2690	_	ND5	206	3	Ala -> Ala	Yes
+12957	T	_	_	9	2695	_	ND5	207	3	Asn -> Asn	Yes
+12961	A	2702	2	_	_	_	ND5	209	1	Ser -> Gly	No
+12964	C	1	_	2703	_	_	ND5	210	1	Leu -> Ile	No
+12966	C	_	_	2702	2	_	ND5	210	3	Leu -> Leu	Yes
+12972	A	2703	1	_	_	_	ND5	212	3	Pro -> Pro	Yes
+12973	C	_	_	2703	1	_	ND5	213	1	Leu -> Leu	Yes
+12978	A	2701	3	_	_	_	ND5	214	3	Leu -> Leu	Yes
+12984	C	_	_	2703	1	_	ND5	216	3	Leu -> Leu	Yes
+12996	A	2703	1	_	_	_	ND5	220	3	Ala -> Ala	Yes
+12999	A	2702	2	_	_	_	ND5	221	3	Ala -> Ala	Yes
+13011	C	_	_	2703	1	_	ND5	225	3	Ala -> Ala	Yes
+13015	T	_	_	1	2703	_	ND5	227	1	Leu -> Leu	Yes
+13017	A	2703	1	_	_	_	ND5	227	3	Leu -> Leu	Yes
+13020	T	_	_	27	2677	_	ND5	228	3	Gly -> Gly	Yes
+13023	C	_	_	2703	1	_	ND5	229	3	Leu -> Leu	Yes
+13029	C	_	_	2702	2	_	ND5	231	3	Pro -> Pro	Yes
+13042	G	1	2703	_	_	_	ND5	236	1	Ala -> Thr	No
+13047	A	2702	2	_	_	_	ND5	237	3	Met -> Met	Yes
+13050	A	2699	5	_	_	_	ND5	238	3	Glu -> Glu	Yes
+13053	C	_	1	2703	_	_	ND5	239	3	Gly -> Gly	Yes
+13056	C	_	_	2703	1	_	ND5	240	3	Pro -> Pro	Yes
+13057	A	2703	1	_	_	_	ND5	241	1	Thr -> Ala	No
+13059	C	_	_	2702	2	_	ND5	241	3	Thr -> Thr	Yes
+13065	C	_	_	2701	3	_	ND5	243	3	Val -> Val	Yes
+13068	A	2700	4	_	_	_	ND5	244	3	Ser -> Ser	Yes
+13071	C	_	_	2703	1	_	ND5	245	3	Ala -> Ala	Yes
+13074	A	2700	4	_	_	_	ND5	246	3	Leu -> Leu	Yes
+13092	A	2703	1	_	_	_	ND5	252	3	Met -> Met	Yes
+13098	A	2703	1	_	_	_	ND5	254	3	Val -> Val	Yes
+13101	A	2698	_	6	_	_	ND5	255	3	Ala -> Ala	Yes
+13104	A	2671	33	_	_	_	ND5	256	3	Gly -> Gly	Yes
+13105	A	2548	156	_	_	_	ND5	257	1	Ile -> Val	No
+13110	C	_	_	2700	4	_	ND5	258	3	Phe -> Phe	Yes
+13111	T	_	_	15	2689	_	ND5	259	1	Leu -> Leu	Yes
+13116	C	_	_	2700	4	_	ND5	260	3	Leu -> Leu	Yes
+13117	A	2698	6	_	_	_	ND5	261	1	Ile -> Val	No
+13129	C	_	_	2699	5	_	ND5	265	1	Pro -> Ser	No
+13132	C	_	_	2703	1	_	ND5	266	1	Leu -> Leu	Yes
+13135	G	18	2686	_	_	_	ND5	267	1	Ala -> Thr	No
+13140	A	2703	1	_	_	_	ND5	268	3	Glu -> Glu	Yes
+13143	T	_	_	7	2697	_	ND5	269	3	Asn -> Asn	Yes
+13145	G	16	2687	1	_	_	ND5	270	2	Ser -> Asn	No
+13149	A	2694	7	_	3	_	ND5	271	3	Pro -> Pro	Yes
+13152	A	2698	6	_	_	_	ND5	272	3	Leu -> Leu	Yes
+13161	T	_	_	3	2701	_	ND5	275	3	Thr -> Thr	Yes
+13167	A	2703	1	_	_	_	ND5	277	3	Thr -> Thr	Yes
+13168	C	_	_	2703	1	_	ND5	278	1	Leu -> Leu	Yes
+13174	T	_	_	1	2703	_	ND5	280	1	Leu -> Leu	Yes
+13176	A	2703	1	_	_	_	ND5	280	3	Leu -> Leu	Yes
+13182	T	_	_	1	2703	_	ND5	282	3	Ala -> Ala	Yes
+13183	A	2686	18	_	_	_	ND5	283	1	Ile -> Val	No
+13188	C	_	_	2699	5	_	ND5	284	3	Thr -> Thr	Yes
+13191	T	_	_	2	2702	_	ND5	285	3	Thr -> Thr	Yes
+13194	G	11	2693	_	_	_	ND5	286	3	Leu -> Leu	Yes
+13197	C	_	_	2701	3	_	ND5	287	3	Phe -> Phe	Yes
+13212	C	_	_	2702	2	_	ND5	292	3	Ala -> Ala	Yes
+13215	T	_	_	9	2695	_	ND5	293	3	Leu -> Leu	Yes
+13221	A	2700	4	_	_	_	ND5	295	3	Gln -> Gln	Yes
+13224	T	_	_	1	2703	_	ND5	296	3	Asn -> Asn	Yes
+13225	G	1	2703	_	_	_	ND5	297	1	Asp -> Asn	No
+13236	A	2702	2	_	_	_	ND5	300	3	Lys -> Lys	Yes
+13239	C	_	_	2702	2	_	ND5	301	3	Ile -> Ile	Yes
+13251	C	_	_	2703	1	_	ND5	305	3	Ser -> Ser	Yes
+13254	T	_	_	1	2703	_	ND5	306	3	Thr -> Thr	Yes
+13260	T	_	_	2	2702	_	ND5	308	3	Ser -> Ser	Yes
+13263	A	2656	48	_	_	_	ND5	309	3	Gln -> Gln	Yes
+13266	A	2703	_	1	_	_	ND5	310	3	Leu -> Leu	Yes
+13269	A	2698	6	_	_	_	ND5	311	3	Gly -> Gly	Yes
+13276	A	2668	36	_	_	_	ND5	314	1	Met -> Val	No
+13278	A	2696	8	_	_	_	ND5	314	3	Met -> Met	Yes
+13281	T	_	_	16	2688	_	ND5	315	3	Val -> Val	Yes
+13287	C	_	_	2702	2	_	ND5	317	3	Ile -> Ile	Yes
+13293	C	_	_	2698	6	_	ND5	319	3	Ile -> Ile	Yes
+13296	C	_	_	2703	1	_	ND5	320	3	Asn -> Asn	Yes
+13299	A	2703	1	_	_	_	ND5	321	3	Gln -> Gln	Yes
+13308	A	2703	1	_	_	_	ND5	324	3	Leu -> Leu	Yes
+13321	A	2703	1	_	_	_	ND5	329	1	Ile -> Val	No
+13326	T	_	_	10	2694	_	ND5	330	3	Cys -> Cys	Yes
+13338	C	_	_	2703	1	_	ND5	334	3	Phe -> Phe	Yes
+13341	C	_	_	2703	1	_	ND5	335	3	Phe -> Phe	Yes
+13344	A	2702	2	_	_	_	ND5	336	3	Lys -> Lys	Yes
+13350	A	2699	5	_	_	_	ND5	338	3	Met -> Met	Yes
+13351	C	_	_	2703	1	_	ND5	339	1	Leu -> Leu	Yes
+13353	A	2703	1	_	_	_	ND5	339	3	Leu -> Leu	Yes
+13356	T	_	_	1	2703	_	ND5	340	3	Phe -> Phe	Yes
+13359	G	7	2697	_	_	_	ND5	341	3	Met -> Met	Yes
+13368	G	132	2572	_	_	_	ND5	344	3	Gly -> Gly	Yes
+13375	A	2703	1	_	_	_	ND5	347	1	Ile -> Val	No
+13383	C	_	_	2701	3	_	ND5	349	3	Asn -> Asn	Yes
+13391	A	2703	1	_	_	_	ND5	352	2	Asn -> Ser	No
+13395	A	2697	7	_	_	_	ND5	353	3	Glu -> Glu	Yes
+13401	T	_	_	2	2702	_	ND5	355	3	Asp -> Asp	Yes
+13402	A	2703	1	_	_	_	ND5	356	1	Ile -> Val	No
+13404	T	_	_	6	2698	_	ND5	356	3	Ile -> Ile	Yes
+13413	A	2702	2	_	_	_	ND5	359	3	Met -> Met	Yes
+13419	A	2703	1	_	_	_	ND5	361	3	Gly -> Gly	Yes
+13422	A	2700	4	_	_	_	ND5	362	3	Leu -> Leu	Yes
+13431	C	_	_	2703	1	_	ND5	365	3	Thr -> Thr	Yes
+13434	A	2693	11	_	_	_	ND5	366	3	Met -> Met	Yes
+13437	T	_	_	6	2698	_	ND5	367	3	Pro -> Pro	Yes
+13440	C	_	_	2701	3	_	ND5	368	3	Leu -> Leu	Yes
+13443	T	_	_	2	2702	_	ND5	369	3	Thr -> Thr	Yes
+13448	C	_	_	2703	1	_	ND5	371	2	Thr -> Ile	No
+13452	C	_	_	2701	3	_	ND5	372	3	Ser -> Ser	Yes
+13461	T	_	_	4	2700	_	ND5	375	3	Ile -> Ile	Yes
+13464	C	_	_	2703	1	_	ND5	376	3	Gly -> Gly	Yes
+13470	A	2700	4	_	_	_	ND5	378	3	Leu -> Leu	Yes
+13473	A	2703	_	1	_	_	ND5	379	3	Ala -> Ala	Yes
+13474	T	_	_	1	2703	_	ND5	380	1	Leu -> Leu	Yes
+13477	G	5	2699	_	_	_	ND5	381	1	Ala -> Thr	No
+13479	A	2703	1	_	_	_	ND5	381	3	Ala -> Ala	Yes
+13485	A	2678	26	_	_	_	ND5	383	3	Met -> Met	Yes
+13488	T	_	_	1	2703	_	ND5	384	3	Pro -> Pro	Yes
+13494	C	_	_	2703	1	_	ND5	386	3	Leu -> Leu	Yes
+13500	T	_	_	37	2667	_	ND5	388	3	Gly -> Gly	Yes
+13506	C	_	_	2618	86	_	ND5	390	3	Tyr -> Tyr	Yes
+13512	A	2701	3	_	_	_	ND5	392	3	Lys -> Lys	Yes
+13527	A	2703	1	_	_	_	ND5	397	3	Glu -> Glu	Yes
+13528	A	2702	2	_	_	_	ND5	398	1	Thr -> Ala	No
+13535	A	2703	1	_	_	_	ND5	400	2	Asn -> Ser	No
+13542	A	2698	4	2	_	_	ND5	402	3	Ser -> Ser	Yes
+13545	C	_	_	2703	1	_	ND5	403	3	Tyr -> Tyr	Yes
+13557	A	2702	2	_	_	_	ND5	407	3	Trp -> Trp	Yes
+13563	A	2668	36	_	_	_	ND5	409	3	Leu -> Leu	Yes
+13565	C	_	_	2702	2	_	ND5	410	2	Ser -> Phe	No
+13569	T	_	_	1	2703	_	ND5	411	3	Ile -> Ile	Yes
+13572	T	_	_	1	2703	_	ND5	412	3	Thr -> Thr	Yes
+13581	T	_	_	1	2703	_	ND5	415	3	Ala -> Ala	Yes
+13590	G	110	2594	_	_	_	ND5	418	3	Leu -> Leu	Yes
+13594	A	2701	3	_	_	_	ND5	420	1	Ser -> Gly	No
+13602	T	_	_	4	2700	_	ND5	422	3	Tyr -> Tyr	Yes
+13606	A	2703	1	_	_	_	ND5	424	1	Thr -> Ala	No
+13611	A	2703	1	_	_	_	ND5	425	3	Arg -> Arg	Yes
+13614	A	2702	2	_	_	_	ND5	426	3	Met -> Met	Yes
+13617	T	_	_	95	2609	_	ND5	427	3	Ile -> Ile	Yes
+13626	C	_	_	2702	2	_	ND5	430	3	Thr -> Thr	Yes
+13629	A	2699	5	_	_	_	ND5	431	3	Leu -> Leu	Yes
+13630	A	2701	3	_	_	_	ND5	432	1	Thr -> Ala	No
+13635	T	_	_	10	2694	_	ND5	433	3	Gly -> Gly	Yes
+13637	A	2687	17	_	_	_	ND5	434	2	Gln -> Arg	No
+13638	A	2703	1	_	_	_	ND5	434	3	Gln -> Gln	Yes
+13641	T	_	_	4	2700	_	ND5	435	3	Pro -> Pro	Yes
+13650	C	_	_	2557	147	_	ND5	438	3	Pro -> Pro	Yes
+13651	A	2685	18	1	_	_	ND5	439	1	Thr -> Pro	No
+13656	T	_	_	8	2696	_	ND5	440	3	Leu -> Leu	Yes
+13658	C	_	_	2703	1	_	ND5	441	2	Thr -> Ile	No
+13660	A	2702	2	_	_	_	ND5	442	1	Asn -> Asp	No
+13665	T	_	_	1	2703	_	ND5	443	3	Ile -> Ile	Yes
+13674	T	_	_	2	2702	_	ND5	446	3	Asn -> Asn	Yes
+13680	C	_	_	2688	16	_	ND5	448	3	Pro -> Pro	Yes
+13681	A	2694	10	_	_	_	ND5	449	1	Thr -> Ala	No
+13692	C	_	_	2703	1	_	ND5	452	3	Asn -> Asn	Yes
+13695	C	1	_	2703	_	_	ND5	453	3	Pro -> Pro	Yes
+13707	G	2	2702	_	_	_	ND5	457	3	Leu -> Leu	Yes
+13708	G	174	2530	_	_	_	ND5	458	1	Ala -> Thr	No
+13710	A	2696	8	_	_	_	ND5	458	3	Ala -> Ala	Yes
+13711	G	3	2701	_	_	_	ND5	459	1	Ala -> Thr	No
+13716	A	2702	2	_	_	_	ND5	460	3	Gly -> Gly	Yes
+13720	C	_	_	2703	1	_	ND5	462	1	Leu -> Leu	Yes
+13722	A	2691	13	_	_	_	ND5	462	3	Leu -> Leu	Yes
+13725	C	_	_	2703	1	_	ND5	463	3	Phe -> Phe	Yes
+13731	A	2703	1	_	_	_	ND5	465	3	Gly -> Gly	Yes
+13734	T	_	_	20	2684	_	ND5	466	3	Phe -> Phe	Yes
+13737	C	_	_	2703	1	_	ND5	467	3	Leu -> Leu	Yes
+13740	T	_	_	10	2694	_	ND5	468	3	Ile -> Ile	Yes
+13741	A	2701	3	_	_	_	ND5	469	1	Thr -> Ala	No
+13743	T	_	_	4	2700	_	ND5	469	3	Thr -> Thr	Yes
+13748	A	2702	2	_	_	_	ND5	471	2	Asn -> Ser	No
+13749	C	_	_	2700	4	_	ND5	471	3	Asn -> Asn	Yes
+13752	T	2	_	2	2700	_	ND5	472	3	Ile -> Ile	Yes
+13753	T	_	_	1	2703	_	ND5	473	1	Ser -> Pro	No
+13754	C	_	_	2702	2	_	ND5	473	2	Ser -> Phe	No
+13755	C	_	_	2703	1	_	ND5	473	3	Ser -> Ser	Yes
+13758	C	2	_	2700	2	_	ND5	474	3	Pro -> Pro	Yes
+13759	G	39	2665	_	_	_	ND5	475	1	Ala -> Thr	No
+13768	T	1	_	3	2700	_	ND5	478	1	Phe -> Ile	No
+13780	A	2669	35	_	_	_	ND5	482	1	Ile -> Val	No
+13781	T	_	_	2	2702	_	ND5	482	2	Ile -> Thr	No
+13782	C	1	_	2700	3	_	ND5	482	3	Ile -> Ile	Yes
+13789	T	_	_	49	2655	_	ND5	485	1	Tyr -> His	No
+13800	C	2	_	2701	1	_	ND5	488	3	Leu -> Leu	Yes
+13803	A	2662	42	_	_	_	ND5	489	3	Thr -> Thr	Yes
+13805	C	_	1	2703	_	_	ND5	490	2	Ala -> Gly	No
+13807	C	_	_	2702	2	_	ND5	491	1	Leu -> Phe	No
+13810	G	2	2702	_	_	_	ND5	492	1	Ala -> Thr	No
+13812	T	_	_	2	2702	_	ND5	492	3	Ala -> Ala	Yes
+13813	G	1	2703	_	_	_	ND5	493	1	Val -> Ile	No
+13818	T	_	_	2	2702	_	ND5	494	3	Thr -> Thr	Yes
+13819	T	_	_	3	2701	_	ND5	495	1	Phe -> Leu	No
+13827	A	2686	18	_	_	_	ND5	497	3	Gly -> Gly	Yes
+13830	T	_	_	3	2701	_	ND5	498	3	Leu -> Leu	Yes
+13831	C	1	_	2703	_	_	ND5	499	1	Leu -> Met	No
+13833	A	2703	1	_	_	_	ND5	499	3	Leu -> Leu	Yes
+13834	A	2701	2	_	1	_	ND5	500	1	Thr -> Ala	No
+13848	C	_	_	2703	1	_	ND5	504	3	Leu -> Leu	Yes
+13851	C	_	_	2701	3	_	ND5	505	3	Asn -> Asn	Yes
+13855	C	_	_	2701	3	_	ND5	507	1	Leu -> Leu	Yes
+13857	A	2699	5	_	_	_	ND5	507	3	Leu -> Leu	Yes
+13863	C	_	_	2703	1	_	ND5	509	3	Asn -> Asn	Yes
+13879	T	2	_	26	2676	_	ND5	515	1	Ser -> Pro	No
+13880	C	20	_	2684	_	_	ND5	515	2	Ser -> Tyr	No
+13884	A	2703	1	_	_	_	ND5	516	3	Pro -> Pro	Yes
+13886	T	_	_	21	2683	_	ND5	517	2	Leu -> Pro	No
+13887	A	2700	4	_	_	_	ND5	517	3	Leu -> Leu	Yes
+13888	T	_	_	1	2703	_	ND5	518	1	Cys -> Arg	No
+13889	G	7	2697	_	_	_	ND5	518	2	Cys -> Tyr	No
+13890	C	_	_	2702	2	_	ND5	518	3	Cys -> Cys	Yes
+13896	T	_	_	1	2703	_	ND5	520	3	Phe -> Phe	Yes
+13899	T	_	_	6	2698	_	ND5	521	3	Tyr -> Tyr	Yes
+13907	A	2702	2	_	_	_	ND5	524	2	Asn -> Ser	No
+13911	A	2703	1	_	_	_	ND5	525	3	Met -> Met	Yes
+13914	C	17	_	2686	1	_	ND5	526	3	Leu -> Leu	Yes
+13924	C	_	_	2700	4	_	ND5	530	1	Pro -> Ser	No
+13926	T	_	_	3	2701	_	ND5	530	3	Pro -> Pro	Yes
+13927	A	2703	_	_	1	_	ND5	531	1	Ser -> Cys	No
+13928	G	9	2604	90	1	_	ND5	531	2	Ser -> Thr	No
+13933	A	2700	4	_	_	_	ND5	533	1	Thr -> Ala	No
+13934	C	_	_	2679	25	_	ND5	533	2	Thr -> Met	No
+13941	C	_	3	2701	_	_	ND5	535	3	Arg -> Arg	Yes
+13942	A	2699	5	_	_	_	ND5	536	1	Thr -> Ala	No
+13943	C	_	_	2702	2	_	ND5	536	2	Thr -> Met	No
+13948	C	_	_	2702	2	_	ND5	538	1	Pro -> Ser	No
+13954	C	_	_	2703	1	_	ND5	540	1	Leu -> Leu	Yes
+13958	G	_	2694	10	_	_	ND5	541	2	Gly -> Ala	No
+13962	T	_	_	1	2703	_	ND5	542	3	Leu -> Leu	Yes
+13965	T	_	_	16	2688	_	ND5	543	3	Leu -> Leu	Yes
+13966	A	2673	31	_	_	_	ND5	544	1	Thr -> Ala	No
+13967	C	_	_	2698	6	_	ND5	544	2	Thr -> Met	No
+13968	G	2	2702	_	_	_	ND5	544	3	Thr -> Thr	Yes
+13973	A	2703	_	_	1	_	ND5	546	2	Gln -> Leu	No
+13980	G	10	2694	_	_	_	ND5	548	3	Leu -> Leu	Yes
+13981	C	_	_	2703	1	_	ND5	549	1	Pro -> Ser	No
+13986	A	2703	1	_	_	_	ND5	550	3	Leu -> Leu	Yes
+13993	C	_	_	2703	1	_	ND5	553	1	Leu -> Leu	Yes
+14000	T	27	_	_	2677	_	ND5	555	2	Leu -> Gln	No
+14001	A	2703	1	_	_	_	ND5	555	3	Leu -> Leu	Yes
+14002	A	2694	10	_	_	_	ND5	556	1	Thr -> Ala	No
+14003	C	_	_	2702	2	_	ND5	556	2	Thr -> Ile	No
+14007	A	2699	5	_	_	_	ND5	557	3	Trp -> Trp	Yes
+14013	A	2702	2	_	_	_	ND5	559	3	Glu -> Glu	Yes
+14016	G	16	2688	_	_	_	ND5	560	3	Lys -> Lys	Yes
+14020	T	_	_	6	2698	_	ND5	562	1	Leu -> Leu	Yes
+14022	A	2686	18	_	_	_	ND5	562	3	Leu -> Leu	Yes
+14025	T	_	_	13	2691	_	ND5	563	3	Pro -> Pro	Yes
+14034	T	_	_	11	2693	_	ND5	566	3	Ile -> Ile	Yes
+14037	A	2698	6	_	_	_	ND5	567	3	Ser -> Ser	Yes
+14040	G	13	2691	_	_	_	ND5	568	3	Gln -> Gln	Yes
+14049	C	_	_	2703	1	_	ND5	571	3	Ile -> Ile	Yes
+14052	C	_	_	2703	1	_	ND5	572	3	Ser -> Ser	Yes
+14053	A	2696	8	_	_	_	ND5	573	1	Thr -> Ala	No
+14058	C	_	_	2703	1	_	ND5	574	3	Ser -> Ser	Yes
+14059	A	2696	8	_	_	_	ND5	575	1	Ile -> Val	No
+14060	T	_	_	2	2702	_	ND5	575	2	Ile -> Thr	No
+14061	C	1	_	2703	_	_	ND5	575	3	Ile -> Met	No
+14063	T	_	_	3	2701	_	ND5	576	2	Ile -> Thr	No
+14064	C	_	_	2703	1	_	ND5	576	3	Ile -> Ile	Yes
+14070	A	2693	10	_	1	_	ND5	578	3	Ser -> Ser	Yes
+14082	C	_	_	2703	1	_	ND5	582	3	Gly -> Gly	Yes
+14088	T	_	_	19	2685	_	ND5	584	3	Ile -> Ile	Yes
+14091	A	2699	5	_	_	_	ND5	585	3	Lys -> Lys	Yes
+14094	T	_	_	7	2697	_	ND5	586	3	Leu -> Leu	Yes
+14097	C	_	_	2699	5	_	ND5	587	3	Tyr -> Tyr	Yes
+14103	C	3	_	2701	_	_	ND5	589	3	Leu -> Leu	Yes
+14106	T	_	_	2	2702	_	ND5	590	3	Ser -> Ser	Yes
+14109	C	_	_	2700	4	_	ND5	591	3	Phe -> Phe	Yes
+14110	T	_	_	60	2644	_	ND5	592	1	Phe -> Leu	No
+14115	C	_	_	2702	2	_	ND5	593	3	Phe -> Phe	Yes
+14118	A	2696	8	_	_	_	ND5	594	3	Pro -> Pro	Yes
+14121	C	_	_	2703	1	_	ND5	595	3	Leu -> Leu	Yes
+14124	C	_	_	2703	1	_	ND5	596	3	Ile -> Ile	Yes
+14125	C	_	_	2702	2	_	ND5	597	1	Leu -> Leu	Yes
+14127	A	2701	3	_	_	_	ND5	597	3	Leu -> Leu	Yes
+14128	A	2702	2	_	_	_	ND5	598	1	Thr -> Ala	No
+14129	C	_	_	2700	4	_	ND5	598	2	Thr -> Ile	No
+14131	C	_	_	2701	3	_	ND5	599	1	Leu -> Leu	Yes
+14133	A	2686	18	_	_	_	ND5	599	3	Leu -> Leu	Yes
+14137	C	_	_	2701	3	_	ND5	601	1	Leu -> Leu	Yes
+14139	A	2694	10	_	_	_	ND5	601	3	Leu -> Leu	Yes
+14142	C	1	_	2701	2	_	ND5	602	3	Ile -> Ile	Yes
+14148	A	2677	27	_	_	_	ND5	604	3	STP -> STP	Yes
+14149	C	_	_	2698	6	_	ND6	175	3	STP -> STP	Yes
+14152	A	2694	10	_	_	_	ND6	174	3	Asn -> Asn	Yes
+14155	C	_	_	2701	3	_	ND6	173	3	Gly -> Gly	Yes
+14158	C	_	_	2699	5	_	ND6	172	3	Arg -> Arg	Yes
+14161	A	2702	2	_	_	_	ND6	171	3	Ala -> Ala	Yes
+14162	G	5	2699	_	_	_	ND6	171	2	Ala -> Val	No
+14167	C	_	_	2571	133	_	ND6	169	3	Glu -> Glu	Yes
+14173	T	_	_	2	2702	_	ND6	167	3	Val -> Val	Yes
+14178	T	_	_	55	2649	_	ND6	166	1	Ile -> Val	No
+14179	A	2672	32	_	_	_	ND6	165	3	Tyr -> Tyr	Yes
+14180	T	_	_	18	2686	_	ND6	165	2	Tyr -> Cys	No
+14181	A	2703	1	_	_	_	ND6	165	1	Tyr -> His	No
+14182	T	_	_	74	2630	_	ND6	164	3	Val -> Val	Yes
+14185	A	2700	_	_	4	_	ND6	163	3	Gly -> Gly	Yes
+14193	A	2703	1	_	_	_	ND6	161	1	Phe -> Leu	No
+14194	C	_	_	2702	2	_	ND6	160	3	Leu -> Leu	Yes
+14198	G	2	2702	_	_	_	ND6	159	2	Thr -> Met	No
+14200	T	_	_	33	2671	_	ND6	158	3	Trp -> Trp	Yes
+14203	A	2683	21	_	_	_	ND6	157	3	Gly -> Gly	Yes
+14206	A	2703	_	1	_	_	ND6	156	3	Thr -> Thr	Yes
+14207	G	1	2703	_	_	_	ND6	156	2	Thr -> Ile	No
+14209	A	2699	4	_	1	_	ND6	155	3	Val -> Val	Yes
+14211	C	_	_	2703	1	_	ND6	155	1	Val -> Ile	No
+14212	T	_	_	30	2674	_	ND6	154	3	Val -> Val	Yes
+14215	T	_	_	5	2699	_	ND6	153	3	Val -> Val	Yes
+14220	A	2703	1	_	_	_	ND6	152	1	Leu -> Leu	Yes
+14221	T	_	_	2	2702	_	ND6	151	3	Trp -> Trp	Yes
+14224	A	2703	1	_	_	_	ND6	150	3	Arg -> Arg	Yes
+14226	G	2	2702	_	_	_	ND6	150	1	Arg -> Cys	No
+14227	C	_	1	2703	_	_	ND6	149	3	Gly -> Gly	Yes
+14233	A	2613	91	_	_	_	ND6	147	3	Asp -> Asp	Yes
+14239	C	_	_	2701	3	_	ND6	145	3	Leu -> Leu	Yes
+14251	A	2703	1	_	_	_	ND6	141	3	Gly -> Gly	Yes
+14258	G	1	2703	_	_	_	ND6	139	2	Pro -> Leu	No
+14260	A	2702	2	_	_	_	ND6	138	3	Asp -> Asp	Yes
+14266	C	_	_	2703	1	_	ND6	136	3	Arg -> Arg	Yes
+14272	C	_	1	2701	2	_	ND6	134	3	Leu -> Phe	No
+14278	T	_	_	1	2703	_	ND6	132	3	Ser -> Ser	Yes
+14279	G	1	2702	_	_	_	ND6	132	2	Ser -> Leu	No
+14280	A	2701	3	_	_	_	ND6	132	1	Ser -> Pro	No
+14281	C	_	1	2692	11	_	ND6	131	3	Gly -> Gly	Yes
+14284	C	_	_	2685	19	_	ND6	130	3	Glu -> Glu	Yes
+14287	T	_	_	12	2692	_	ND6	129	3	Gly -> Gly	Yes
+14290	T	_	_	3	2701	_	ND6	128	3	Glu -> Glu	Yes
+14296	A	2703	1	_	_	_	ND6	126	3	Ile -> Ile	Yes
+14299	T	_	_	3	2701	_	ND6	125	3	Met -> Met	Yes
+14305	G	12	2692	_	_	_	ND6	123	3	Ser -> Ser	Yes
+14308	T	_	_	39	2665	_	ND6	122	3	Gly -> Gly	Yes
+14311	T	_	_	3	2701	_	ND6	121	3	Val -> Val	Yes
+14312	A	2703	1	_	_	_	ND6	121	2	Val -> Ala	No
+14313	C	_	_	2703	1	_	ND6	121	1	Val -> Met	No
+14315	C	_	_	2700	4	_	ND6	120	2	Ser -> Asn	No
+14318	T	_	_	39	2665	_	ND6	119	2	Asn -> Ser	No
+14319	T	_	_	1	2703	_	ND6	119	1	Asn -> Asp	No
+14323	G	10	2694	_	_	_	ND6	117	3	Asn -> Asn	Yes
+14325	T	_	_	7	2697	_	ND6	117	1	Asn -> Asp	No
+14329	C	_	_	2701	3	_	ND6	115	3	Val -> Val	Yes
+14337	C	_	_	2701	3	_	ND6	113	1	Val -> Met	No
+14338	C	_	_	2699	5	_	ND6	112	3	Val -> Val	Yes
+14340	C	_	_	2702	2	_	ND6	112	1	Val -> Met	No
+14350	C	_	_	2702	2	_	ND6	108	3	Glu -> Glu	Yes
+14356	C	_	_	2703	1	_	ND6	106	3	Val -> Val	Yes
+14364	G	58	2646	_	_	_	ND6	104	1	Leu -> Leu	Yes
+14365	C	_	_	2683	21	_	ND6	103	3	Val -> Val	Yes
+14368	C	_	_	2703	1	_	ND6	102	3	Leu -> Leu	Yes
+14370	A	2700	4	_	_	_	ND6	102	1	Leu -> Leu	Yes
+14371	T	_	_	7	2697	_	ND6	101	3	Gly -> Gly	Yes
+14374	T	_	_	7	2697	_	ND6	100	3	Val -> Val	Yes
+14384	G	1	2699	4	_	_	ND6	97	2	Ala -> Val	No
+14385	C	1	1	2702	_	_	ND6	97	1	Ala -> Ser	No
+14386	T	_	_	1	2703	_	ND6	96	3	Leu -> Leu	Yes
+14388	A	2703	1	_	_	_	ND6	96	1	Leu -> Leu	Yes
+14389	C	_	_	2703	1	_	ND6	95	3	Gly -> Gly	Yes
+14393	A	2701	3	_	_	_	ND6	94	2	Val -> Ala	No
+14404	C	_	_	2700	4	_	ND6	90	3	Val -> Val	Yes
+14405	A	2702	2	_	_	_	ND6	90	2	Val -> Ala	No
+14407	C	_	1	2697	6	_	ND6	89	3	Leu -> Leu	Yes
+14417	A	2700	4	_	_	_	ND6	86	2	Val -> Ala	No
+14420	C	_	_	2702	2	_	ND6	85	2	Gly -> Glu	No
+14428	C	_	_	2703	1	_	ND6	82	3	Trp -> Trp	Yes
+14434	C	_	_	2703	1	_	ND6	80	3	Glu -> Glu	Yes
+14440	A	2703	1	_	_	_	ND6	78	3	Tyr -> Tyr	Yes
+14449	A	2703	1	_	_	_	ND6	75	3	Ile -> Ile	Yes
+14450	A	2703	1	_	_	_	ND6	75	2	Ile -> Thr	No
+14455	C	_	_	2703	1	_	ND6	73	3	Met -> Met	Yes
+14459	G	1	2703	_	_	_	ND6	72	2	Ala -> Val	No
+14460	C	_	5	2699	_	_	ND6	72	1	Ala -> Pro	No
+14463	T	_	1	_	2703	_	ND6	71	1	Thr -> Pro	No
+14464	A	2703	1	_	_	_	ND6	70	3	Thr -> Thr	Yes
+14467	A	2703	1	_	_	_	ND6	69	3	Tyr -> Tyr	Yes
+14470	T	8	_	68	2628	_	ND6	68	3	Gly -> Gly	Yes
+14476	G	20	2684	_	_	_	ND6	66	3	Val -> Val	Yes
+14482	C	_	_	2703	1	_	ND6	64	3	Met -> Met	Yes
+14484	T	_	_	7	2697	_	ND6	64	1	Met -> Val	No
+14485	C	_	_	2703	1	_	ND6	63	3	Met -> Met	Yes
+14488	T	_	_	5	2699	_	ND6	62	3	Gly -> Gly	Yes
+14494	T	_	_	1	2703	_	ND6	60	3	Leu -> Leu	Yes
+14497	A	2703	1	_	_	_	ND6	59	3	Tyr -> Tyr	Yes
+14502	T	_	_	13	2691	_	ND6	58	1	Ile -> Val	No
+14503	T	_	_	1	2703	_	ND6	57	3	Leu -> Leu	Yes
+14512	T	_	_	1	2703	_	ND6	54	3	Met -> Met	Yes
+14514	T	_	_	1	2703	_	ND6	54	1	Met -> Val	No
+14515	T	_	_	2	2702	_	ND6	53	3	Leu -> Leu	Yes
+14518	A	2699	5	_	_	_	ND6	52	3	Gly -> Gly	Yes
+14527	A	2701	3	_	_	_	ND6	49	3	Gly -> Gly	Yes
+14530	T	_	_	1	2703	_	ND6	48	3	Gly -> Gly	Yes
+14533	C	_	_	2702	2	_	ND6	47	3	Gly -> Gly	Yes
+14543	A	2703	1	_	_	_	ND6	44	2	Leu -> Pro	No
+14544	G	15	2689	_	_	_	ND6	44	1	Leu -> Leu	Yes
+14548	A	2701	3	_	_	_	ND6	42	3	Ile -> Ile	Yes
+14550	T	_	_	4	2700	_	ND6	42	1	Ile -> Val	No
+14552	A	2702	2	_	_	_	ND6	41	2	Val -> Ala	No
+14553	C	_	_	2701	3	_	ND6	41	1	Val -> Ile	No
+14554	A	2703	1	_	_	_	ND6	40	3	Cys -> Cys	Yes
+14560	G	58	2644	2	_	_	ND6	38	3	Val -> Val	Yes
+14562	C	_	1	2703	_	_	ND6	38	1	Val -> Leu	No
+14564	A	2703	1	_	_	_	ND6	37	2	Val -> Ala	No
+14566	A	2663	41	_	_	_	ND6	36	3	Gly -> Gly	Yes
+14569	G	86	2618	_	_	_	ND6	35	3	Ser -> Ser	Yes
+14571	T	1	_	_	2703	_	ND6	35	1	Ser -> Cys	No
+14572	A	2703	_	_	1	_	ND6	34	3	Val -> Val	Yes
+14574	C	_	_	2702	2	_	ND6	34	1	Val -> Ile	No
+14575	A	2703	1	_	_	_	ND6	33	3	Ile -> Ile	Yes
+14577	T	_	_	5	2699	_	ND6	33	1	Ile -> Val	No
+14580	A	2703	1	_	_	_	ND6	32	1	Leu -> Leu	Yes
+14581	T	_	_	6	2698	_	ND6	31	3	Val -> Val	Yes
+14582	A	2681	23	_	_	_	ND6	31	2	Val -> Ala	No
+14584	T	_	_	3	2701	_	ND6	30	3	Leu -> Leu	Yes
+14587	A	2700	4	_	_	_	ND6	29	3	Gly -> Gly	Yes
+14599	A	2702	2	_	_	_	ND6	25	3	Pro -> Pro	Yes
+14605	A	2672	32	_	_	_	ND6	23	3	Pro -> Pro	Yes
+14615	G	1	2703	_	_	_	ND6	20	2	Ser -> Phe	No
+14620	C	_	_	2690	14	_	ND6	18	3	Gly -> Gly	Yes
+14629	C	_	_	2702	2	_	ND6	15	3	Gly -> Gly	Yes
+14632	C	_	_	2703	1	_	ND6	14	3	Met -> Met	Yes
+14634	T	_	1	2	2701	_	ND6	14	1	Met -> Val	No
+14645	A	2703	1	_	_	_	ND6	10	2	Val -> Ala	No
+14659	C	_	_	2701	3	_	ND6	5	3	Leu -> Leu	Yes
+14668	C	_	_	2432	272	_	ND6	2	3	Met -> Met	Yes
+14674	T	_	_	3	2701	_	tRNA Glu	_	_	_	_
+14682	C	_	1	2703	_	_	tRNA Glu	_	_	_	_
+14684	C	_	_	2703	1	_	tRNA Glu	_	_	_	_
+14687	A	2682	22	_	_	_	tRNA Glu	_	_	_	_
+14692	A	2697	7	_	_	_	tRNA Glu	_	_	_	_
+14693	A	2694	10	_	_	_	tRNA Glu	_	_	_	_
+14696	A	2698	5	1	_	_	tRNA Glu	_	_	_	_
+14709	T	_	_	1	2703	_	tRNA Glu	_	_	_	_
+14727	T	_	_	1	2703	_	tRNA Glu	_	_	_	_
+14730	C	_	_	2703	1	_	tRNA Glu	_	_	_	_
+14743	A	2703	1	_	_	_	Non-coding 9	_	_	_	_
+14750	A	2699	5	_	_	_	Cytb	2	1	Thr -> Ala	No
+14751	C	_	_	2702	2	_	Cytb	2	2	Thr -> Ile	No
+14755	A	2693	10	_	1	_	Cytb	3	3	Pro -> Pro	Yes
+14756	A	2703	1	_	_	_	Cytb	4	1	Met -> Val	No
+14757	T	_	_	3	2701	_	Cytb	4	2	Met -> Thr	No
+14759	C	_	1	2703	_	_	Cytb	5	1	Arg -> Gly	No
+14766	T	_	_	610	2094	_	Cytb	7	2	Ile -> Thr	No
+14767	T	_	_	2	2702	_	Cytb	7	3	Ile -> Ile	Yes
+14769	A	2674	30	_	_	_	Cytb	8	2	Asn -> Ser	No
+14770	C	_	_	2701	3	_	Cytb	8	3	Asn -> Asn	Yes
+14774	C	_	_	2703	1	_	Cytb	10	1	Leu -> Leu	Yes
+14776	A	2703	1	_	_	_	Cytb	10	3	Leu -> Leu	Yes
+14783	T	_	_	720	1984	_	Cytb	13	1	Leu -> Leu	Yes
+14790	A	2702	2	_	_	_	Cytb	15	2	Asn -> Ser	No
+14791	C	_	_	2703	1	_	Cytb	15	3	Asn -> Asn	Yes
+14793	A	2665	39	_	_	_	Cytb	16	2	His -> Arg	No
+14794	C	_	_	2703	1	_	Cytb	16	3	His -> His	Yes
+14798	T	_	_	218	2486	_	Cytb	18	1	Phe -> Leu	No
+14800	C	_	_	2703	1	_	Cytb	18	3	Phe -> Phe	Yes
+14803	C	_	1	2703	_	_	Cytb	19	3	Ile -> Met	No
+14812	C	_	_	2702	2	_	Cytb	22	3	Pro -> Pro	Yes
+14818	A	2702	_	2	_	_	Cytb	24	3	Pro -> Pro	Yes
+14831	G	5	2698	_	_	_	Cytb	29	1	Ala -> Thr	No
+14836	A	2703	1	_	_	_	Cytb	30	3	Trp -> Trp	Yes
+14845	C	_	_	2702	2	_	Cytb	33	3	Phe -> Phe	Yes
+14857	T	_	_	1	2703	_	Cytb	37	3	Leu -> Leu	Yes
+14861	G	5	2699	_	_	_	Cytb	39	1	Ala -> Thr	No
+14862	C	_	_	2702	2	_	Cytb	39	2	Ala -> Val	No
+14866	C	_	_	2701	3	_	Cytb	40	3	Cys -> Cys	Yes
+14867	C	_	_	2700	4	_	Cytb	41	1	Leu -> Leu	Yes
+14869	G	9	2694	1	_	_	Cytb	41	3	Leu -> Leu	Yes
+14870	A	2701	3	_	_	_	Cytb	42	1	Ile -> Val	No
+14871	T	_	_	1	2703	_	Cytb	42	2	Ile -> Thr	No
+14872	C	_	_	2686	18	_	Cytb	42	3	Ile -> Ile	Yes
+14890	A	2699	5	_	_	_	Cytb	48	3	Gly -> Gly	Yes
+14893	A	2686	18	_	_	_	Cytb	49	3	Leu -> Leu	Yes
+14894	T	_	_	1	2703	_	Cytb	50	1	Phe -> Leu	No
+14896	C	_	1	2703	_	_	Cytb	50	3	Phe -> Leu	No
+14902	C	_	_	2703	1	_	Cytb	52	3	Ala -> Ala	Yes
+14905	G	138	2566	_	_	_	Cytb	53	3	Met -> Met	Yes
+14911	C	_	_	2677	27	_	Cytb	55	3	Tyr -> Tyr	Yes
+14912	T	_	1	_	2703	_	Cytb	56	1	Ser -> Ala	No
+14913	C	_	_	2703	1	_	Cytb	56	2	Ser -> Leu	No
+14914	A	2701	2	1	_	_	Cytb	56	3	Ser -> Ser	Yes
+14923	C	_	_	2703	1	_	Cytb	59	3	Ala -> Ala	Yes
+14926	A	2703	1	_	_	_	Cytb	60	3	Ser -> Ser	Yes
+14927	A	2689	15	_	_	_	Cytb	61	1	Thr -> Ala	No
+14935	T	_	_	3	2701	_	Cytb	63	3	Phe -> Phe	Yes
+14944	C	_	_	2676	28	_	Cytb	66	3	Ile -> Ile	Yes
+14947	C	_	_	2701	3	_	Cytb	67	3	Ala -> Ala	Yes
+14953	C	_	_	2702	2	_	Cytb	69	3	Ile -> Ile	Yes
+14954	A	2703	1	_	_	_	Cytb	70	1	Thr -> Ala	No
+14956	T	_	_	1	2703	_	Cytb	70	3	Thr -> Thr	Yes
+14959	A	2701	2	_	1	_	Cytb	71	3	Arg -> Arg	Yes
+14968	T	_	_	2	2702	_	Cytb	74	3	Asn -> Asn	Yes
+14970	A	2703	1	_	_	_	Cytb	75	2	Tyr -> Cys	No
+14971	T	_	_	5	2699	_	Cytb	75	3	Tyr -> Tyr	Yes
+14974	C	_	5	2699	_	_	Cytb	76	3	Gly -> Gly	Yes
+14978	A	2700	4	_	_	_	Cytb	78	1	Ile -> Val	No
+14979	T	_	_	45	2659	_	Cytb	78	2	Ile -> Thr	No
+14989	C	_	_	2702	2	_	Cytb	81	3	Tyr -> Tyr	Yes
+14990	C	_	_	2698	6	_	Cytb	82	1	Leu -> Phe	No
+14996	G	2	2702	_	_	_	Cytb	84	1	Ala -> Thr	No
+15001	T	_	_	3	2701	_	Cytb	85	3	Asn -> Asn	Yes
+15002	G	1	2703	_	_	_	Cytb	86	1	Gly -> Ser	No
+15007	C	_	_	2703	1	_	Cytb	87	3	Ala -> Ala	Yes
+15010	A	2703	1	_	_	_	Cytb	88	3	Ser -> Ser	Yes
+15016	C	_	_	2702	2	_	Cytb	90	3	Phe -> Phe	Yes
+15022	C	_	_	2702	2	_	Cytb	92	3	Ile -> Ile	Yes
+15024	G	1	2703	_	_	_	Cytb	93	2	Cys -> Tyr	No
+15025	C	_	_	2702	2	_	Cytb	93	3	Cys -> Cys	Yes
+15028	C	6	_	2698	_	_	Cytb	94	3	Leu -> Leu	Yes
+15034	A	2701	3	_	_	_	Cytb	96	3	Leu -> Leu	Yes
+15038	A	2703	1	_	_	_	Cytb	98	1	Ile -> Val	No
+15040	C	_	1	2693	10	_	Cytb	98	3	Ile -> Ile	Yes
+15043	G	777	1927	_	_	_	Cytb	99	3	Gly -> Gly	Yes
+15046	A	2703	1	_	_	_	Cytb	100	3	Arg -> Arg	Yes
+15047	G	6	2698	_	_	_	Cytb	101	1	Gly -> Ser	No
+15049	C	_	_	2700	4	_	Cytb	101	3	Gly -> Gly	Yes
+15052	A	2703	1	_	_	_	Cytb	102	3	Leu -> Leu	Yes
+15055	T	_	_	3	2701	_	Cytb	103	3	Tyr -> Tyr	Yes
+15058	C	_	_	2703	1	_	Cytb	104	3	Tyr -> Tyr	Yes
+15061	A	2692	12	_	_	_	Cytb	105	3	Gly -> Gly	Yes
+15064	A	2703	1	_	_	_	Cytb	106	3	Ser -> Ser	Yes
+15067	T	_	_	38	2666	_	Cytb	107	3	Phe -> Phe	Yes
+15071	T	_	_	7	2697	_	Cytb	109	1	Tyr -> His	No
+15077	G	2	2702	_	_	_	Cytb	111	1	Glu -> Lys	No
+15080	A	2703	1	_	_	_	Cytb	112	1	Thr -> Ala	No
+15083	T	_	_	1	2703	_	Cytb	113	1	Trp -> Arg	No
+15090	T	_	_	2	2702	_	Cytb	115	2	Ile -> Thr	No
+15095	A	2703	1	_	_	_	Cytb	117	1	Ile -> Val	No
+15097	T	_	_	1	2703	_	Cytb	117	3	Ile -> Ile	Yes
+15098	A	2703	1	_	_	_	Cytb	118	1	Ile -> Val	No
+15099	T	_	_	4	2700	_	Cytb	118	2	Ile -> Thr	No
+15100	C	_	_	2702	2	_	Cytb	118	3	Ile -> Ile	Yes
+15103	C	_	1	2703	_	_	Cytb	119	3	Leu -> Leu	Yes
+15106	G	7	2697	_	_	_	Cytb	120	3	Leu -> Leu	Yes
+15107	C	_	_	2703	1	_	Cytb	121	1	Leu -> Phe	No
+15109	T	_	_	1	2703	_	Cytb	121	3	Leu -> Leu	Yes
+15110	G	24	2680	_	_	_	Cytb	122	1	Ala -> Thr	No
+15113	A	2703	1	_	_	_	Cytb	123	1	Thr -> Ala	No
+15115	T	_	_	32	2672	_	Cytb	123	3	Thr -> Thr	Yes
+15119	G	3	2701	_	_	_	Cytb	125	1	Ala -> Thr	No
+15133	A	2703	1	_	_	_	Cytb	129	3	Met -> Met	Yes
+15136	C	_	_	2679	25	_	Cytb	130	3	Gly -> Gly	Yes
+15139	T	_	_	1	2703	_	Cytb	131	3	Tyr -> Tyr	Yes
+15148	G	20	2684	_	_	_	Cytb	134	3	Pro -> Pro	Yes
+15151	A	2702	2	_	_	_	Cytb	135	3	Trp -> Trp	Yes
+15153	G	1	2703	_	_	_	Cytb	136	2	Gly -> Asp	No
+15157	A	2703	1	_	_	_	Cytb	137	3	Gln -> Gln	Yes
+15160	A	2702	2	_	_	_	Cytb	138	3	Met -> Met	Yes
+15164	T	_	_	1	2703	_	Cytb	140	1	Phe -> Leu	No
+15172	G	16	2688	_	_	_	Cytb	142	3	Gly -> Gly	Yes
+15178	A	2703	1	_	_	_	Cytb	144	3	Thr -> Thr	Yes
+15184	T	_	_	6	2698	_	Cytb	146	3	Ile -> Ile	Yes
+15190	C	_	_	2703	1	_	Cytb	148	3	Asn -> Asn	Yes
+15191	T	1	_	6	2697	_	Cytb	149	1	Leu -> Met	No
+15193	A	2703	1	_	_	_	Cytb	149	3	Leu -> Leu	Yes
+15199	C	_	_	2703	1	_	Cytb	151	3	Ser -> Ser	Yes
+15204	T	_	_	14	2690	_	Cytb	153	2	Ile -> Thr	No
+15205	C	_	_	2703	1	_	Cytb	153	3	Ile -> Ile	Yes
+15208	A	2700	4	_	_	_	Cytb	154	3	Pro -> Pro	Yes
+15209	T	_	_	1	2703	_	Cytb	155	1	Tyr -> His	No
+15211	C	_	_	2703	1	_	Cytb	155	3	Tyr -> Tyr	Yes
+15212	A	2703	1	_	_	_	Cytb	156	1	Ile -> Val	No
+15213	T	_	_	1	2703	_	Cytb	156	2	Ile -> Thr	No
+15214	T	_	_	2	2702	_	Cytb	156	3	Ile -> Ile	Yes
+15217	G	31	2673	_	_	_	Cytb	157	3	Gly -> Gly	Yes
+15218	A	2665	38	1	_	_	Cytb	158	1	Thr -> Ala	No
+15221	G	6	2698	_	_	_	Cytb	159	1	Asp -> Asn	No
+15223	C	_	_	2677	27	_	Cytb	159	3	Asp -> Asp	Yes
+15226	A	2702	2	_	_	_	Cytb	160	3	Leu -> Leu	Yes
+15229	T	_	_	4	2700	_	Cytb	161	3	Val -> Val	Yes
+15235	A	2694	10	_	_	_	Cytb	163	3	Trp -> Trp	Yes
+15236	A	2678	26	_	_	_	Cytb	164	1	Ile -> Val	No
+15244	A	2677	27	_	_	_	Cytb	166	3	Gly -> Gly	Yes
+15245	G	1	2703	_	_	_	Cytb	167	1	Gly -> Ser	No
+15247	C	_	4	2700	_	_	Cytb	167	3	Gly -> Gly	Yes
+15250	C	_	_	2703	1	_	Cytb	168	3	Tyr -> Tyr	Yes
+15257	G	19	2685	_	_	_	Cytb	171	1	Asp -> Asn	No
+15258	A	2701	3	_	_	_	Cytb	171	2	Asp -> Gly	No
+15261	G	20	2684	_	_	_	Cytb	172	2	Ser -> Asn	No
+15262	T	_	_	3	2701	_	Cytb	172	3	Ser -> Ser	Yes
+15263	C	_	_	2702	2	_	Cytb	173	1	Pro -> Ser	No
+15265	C	_	_	2702	2	_	Cytb	173	3	Pro -> Pro	Yes
+15266	A	2703	1	_	_	_	Cytb	174	1	Thr -> Ala	No
+15271	C	_	_	2703	1	_	Cytb	175	3	Leu -> Leu	Yes
+15274	A	2702	2	_	_	_	Cytb	176	3	Thr -> Thr	Yes
+15286	C	_	_	2703	1	_	Cytb	180	3	Thr -> Thr	Yes
+15287	T	_	_	2	2702	_	Cytb	181	1	Phe -> Leu	No
+15289	T	_	_	3	2701	_	Cytb	181	3	Phe -> Phe	Yes
+15292	C	_	_	2701	3	_	Cytb	182	3	His -> His	Yes
+15295	C	_	_	2703	1	_	Cytb	183	3	Phe -> Phe	Yes
+15296	A	2703	1	_	_	_	Cytb	184	1	Ile -> Val	No
+15299	T	_	_	3	2701	_	Cytb	185	1	Leu -> Leu	Yes
+15300	T	_	_	3	2701	_	Cytb	185	2	Leu -> Ser	No
+15301	G	867	1837	_	_	_	Cytb	185	3	Leu -> Leu	Yes
+15304	C	_	_	2703	1	_	Cytb	186	3	Pro -> Pro	Yes
+15307	C	_	_	2702	2	_	Cytb	187	3	Phe -> Phe	Yes
+15310	T	_	_	1	2703	_	Cytb	188	3	Ile -> Ile	Yes
+15311	A	2688	16	_	_	_	Cytb	189	1	Ile -> Val	No
+15313	T	_	_	7	2697	_	Cytb	189	3	Ile -> Ile	Yes
+15314	G	16	2688	_	_	_	Cytb	190	1	Ala -> Thr	No
+15315	C	_	_	2702	2	_	Cytb	190	2	Ala -> Val	No
+15317	G	7	2697	_	_	_	Cytb	191	1	Ala -> Thr	No
+15318	C	1	_	2703	_	_	Cytb	191	2	Ala -> Asp	No
+15323	G	33	2671	_	_	_	Cytb	193	1	Ala -> Thr	No
+15325	A	2700	3	1	_	_	Cytb	193	3	Ala -> Ala	Yes
+15326	A	17	2687	_	_	_	Cytb	194	1	Thr -> Ala	No
+15327	C	_	_	2703	1	_	Cytb	194	2	Thr -> Val	No
+15331	C	6	_	2698	_	_	Cytb	195	3	Leu -> Leu	Yes
+15334	C	_	_	2703	1	_	Cytb	196	3	His -> His	Yes
+15337	C	_	_	2703	1	_	Cytb	197	3	Leu -> Leu	Yes
+15340	A	2701	3	_	_	_	Cytb	198	3	Leu -> Leu	Yes
+15341	T	_	_	3	2701	_	Cytb	199	1	Phe -> Leu	No
+15344	T	_	_	1	2703	_	Cytb	200	1	Leu -> Leu	Yes
+15346	G	31	2673	_	_	_	Cytb	200	3	Leu -> Leu	Yes
+15355	G	18	2686	_	_	_	Cytb	203	3	Thr -> Thr	Yes
+15358	A	2703	1	_	_	_	Cytb	204	3	Gly -> Gly	Yes
+15367	C	_	_	2703	1	_	Cytb	207	3	Asn -> Asn	Yes
+15376	A	2703	1	_	_	_	Cytb	210	3	Gly -> Gly	Yes
+15377	A	2703	1	_	_	_	Cytb	211	1	Ile -> Val	No
+15378	T	_	_	1	2703	_	Cytb	211	2	Ile -> Thr	No
+15379	C	_	_	2703	1	_	Cytb	211	3	Ile -> Ile	Yes
+15380	A	2702	2	_	_	_	Cytb	212	1	Thr -> Ala	No
+15381	C	_	_	2703	1	_	Cytb	212	2	Thr -> Ile	No
+15385	C	_	_	2696	8	_	Cytb	213	3	Ser -> Ser	Yes
+15386	C	_	_	2703	1	_	Cytb	214	1	His -> Tyr	No
+15391	C	_	_	2699	5	_	Cytb	215	3	Ser -> Ser	Yes
+15394	T	_	_	3	2701	_	Cytb	216	3	Asp -> Asp	Yes
+15401	A	2703	1	_	_	_	Cytb	219	1	Thr -> Ala	No
+15402	C	_	_	2702	2	_	Cytb	219	2	Thr -> Ile	No
+15409	C	_	_	2701	3	_	Cytb	221	3	His -> His	Yes
+15412	T	_	_	7	2697	_	Cytb	222	3	Pro -> Pro	Yes
+15421	A	2703	1	_	_	_	Cytb	225	3	Thr -> Thr	Yes
+15422	A	2701	3	_	_	_	Cytb	226	1	Ile -> Val	No
+15427	A	2703	1	_	_	_	Cytb	227	3	Lys -> Lys	Yes
+15431	G	36	2668	_	_	_	Cytb	229	1	Ala -> Thr	No
+15434	C	_	_	2702	2	_	Cytb	230	1	Leu -> Phe	No
+15436	C	_	_	2703	1	_	Cytb	230	3	Leu -> Leu	Yes
+15439	C	_	1	2702	1	_	Cytb	231	3	Gly -> Gly	Yes
+15440	T	_	_	19	2685	_	Cytb	232	1	Leu -> Leu	Yes
+15442	A	2703	1	_	_	_	Cytb	232	3	Leu -> Leu	Yes
+15443	C	_	1	2703	_	_	Cytb	233	1	Leu -> Val	No
+15448	C	_	_	2702	2	_	Cytb	234	3	Leu -> Leu	Yes
+15449	T	_	_	2	2702	_	Cytb	235	1	Phe -> Leu	No
+15451	C	_	_	2701	3	_	Cytb	235	3	Phe -> Phe	Yes
+15452	C	235	_	2469	_	_	Cytb	236	1	Leu -> Ile	No
+15454	T	_	_	13	2691	_	Cytb	236	3	Leu -> Leu	Yes
+15458	T	_	_	2	2702	_	Cytb	238	1	Ser -> Pro	No
+15459	C	_	_	2703	1	_	Cytb	238	2	Ser -> Phe	No
+15460	C	_	_	2702	2	_	Cytb	238	3	Ser -> Ser	Yes
+15466	G	14	2690	_	_	_	Cytb	240	3	Met -> Met	Yes
+15467	A	2703	1	_	_	_	Cytb	241	1	Thr -> Ala	No
+15468	C	_	_	2703	1	_	Cytb	241	2	Thr -> Met	No
+15470	T	_	_	2	2702	_	Cytb	242	1	Leu -> Leu	Yes
+15473	A	2703	1	_	_	_	Cytb	243	1	Thr -> Ala	No
+15475	A	2701	3	_	_	_	Cytb	243	3	Thr -> Thr	Yes
+15479	T	_	_	7	2697	_	Cytb	245	1	Phe -> Leu	No
+15487	A	2621	_	_	83	_	Cytb	247	3	Pro -> Pro	Yes
+15490	C	_	_	2703	1	_	Cytb	248	3	Asp -> Asp	Yes
+15496	A	2701	3	_	_	_	Cytb	250	3	Leu -> Leu	Yes
+15497	G	34	2670	_	_	_	Cytb	251	1	Gly -> Ser	No
+15498	G	1	2702	1	_	_	Cytb	251	2	Gly -> Asp	No
+15499	C	_	1	2703	_	_	Cytb	251	3	Gly -> Gly	Yes
+15508	C	_	_	2675	29	_	Cytb	254	3	Asp -> Asp	Yes
+15511	T	_	_	7	2697	_	Cytb	255	3	Asn -> Asn	Yes
+15512	T	_	_	1	2703	_	Cytb	256	1	Tyr -> His	No
+15514	T	_	_	7	2697	_	Cytb	256	3	Tyr -> Tyr	Yes
+15516	C	_	_	2703	1	_	Cytb	257	2	Thr -> Ile	No
+15518	C	_	_	2688	16	_	Cytb	258	1	Leu -> Leu	Yes
+15519	T	_	_	5	2699	_	Cytb	258	2	Leu -> Pro	No
+15520	A	2703	1	_	_	_	Cytb	258	3	Leu -> Leu	Yes
+15521	G	2	2701	1	_	_	Cytb	259	1	Ala -> Thr	No
+15523	C	_	_	2703	1	_	Cytb	259	3	Ala -> Ala	Yes
+15524	A	2684	20	_	_	_	Cytb	260	1	Asn -> Asp	No
+15530	T	_	_	13	2691	_	Cytb	262	1	Leu -> Leu	Yes
+15535	C	_	_	2656	48	_	Cytb	263	3	Asn -> Asn	Yes
+15547	C	_	_	2703	1	_	Cytb	267	3	His -> His	Yes
+15550	C	_	_	2700	4	_	Cytb	268	3	Ile -> Ile	Yes
+15553	G	5	2699	_	_	_	Cytb	269	3	Lys -> Lys	Yes
+15556	C	_	_	2703	1	_	Cytb	270	3	Pro -> Pro	Yes
+15562	A	2697	7	_	_	_	Cytb	272	3	Trp -> Trp	Yes
+15565	T	_	_	4	2700	_	Cytb	273	3	Tyr -> Tyr	Yes
+15586	T	_	_	1	2703	_	Cytb	280	3	Ile -> Ile	Yes
+15589	C	2	_	2701	1	_	Cytb	281	3	Leu -> Leu	Yes
+15592	A	2702	2	_	_	_	Cytb	282	3	Arg -> Arg	Yes
+15596	G	1	2703	_	_	_	Cytb	284	1	Val -> Ile	No
+15601	T	_	_	2	2702	_	Cytb	285	3	Pro -> Pro	Yes
+15607	A	2555	149	_	_	_	Cytb	287	3	Lys -> Lys	Yes
+15613	A	2702	2	_	_	_	Cytb	289	3	Gly -> Gly	Yes
+15616	C	_	_	2703	1	_	Cytb	290	3	Gly -> Gly	Yes
+15618	T	_	_	1	2703	_	Cytb	291	2	Val -> Ala	No
+15622	T	_	_	4	2700	_	Cytb	292	3	Leu -> Leu	Yes
+15626	C	_	_	2700	4	_	Cytb	294	1	Leu -> Leu	Yes
+15629	T	_	_	11	2693	_	Cytb	295	1	Leu -> Leu	Yes
+15632	C	1	_	2696	7	_	Cytb	296	1	Leu -> Leu	Yes
+15634	A	2703	1	_	_	_	Cytb	296	3	Leu -> Leu	Yes
+15635	T	_	_	1	2703	_	Cytb	297	1	Ser -> Pro	No
+15645	T	_	_	1	2703	_	Cytb	300	2	Ile -> Thr	No
+15646	C	_	_	2703	1	_	Cytb	300	3	Ile -> Ile	Yes
+15649	A	2703	1	_	_	_	Cytb	301	3	Leu -> Leu	Yes
+15652	A	2702	2	_	_	_	Cytb	302	3	Ala -> Ala	Yes
+15657	T	_	_	1	2703	_	Cytb	304	2	Ile -> Thr	No
+15661	C	_	_	2700	4	_	Cytb	305	3	Pro -> Pro	Yes
+15662	A	2676	28	_	_	_	Cytb	306	1	Ile -> Val	No
+15663	T	_	_	9	2695	_	Cytb	306	2	Ile -> Thr	No
+15664	C	_	_	2699	5	_	Cytb	306	3	Ile -> Ile	Yes
+15670	T	_	_	19	2685	_	Cytb	308	3	His -> His	Yes
+15671	A	2703	1	_	_	_	Cytb	309	1	Met -> Val	No
+15672	T	_	_	1	2703	_	Cytb	309	2	Met -> Thr	No
+15674	T	_	_	3	2701	_	Cytb	310	1	Ser -> Pro	No
+15679	A	2702	2	_	_	_	Cytb	311	3	Lys -> Lys	Yes
+15682	A	2702	2	_	_	_	Cytb	312	3	Gln -> Gln	Yes
+15692	A	2703	1	_	_	_	Cytb	316	1	Met -> Val	No
+15693	T	_	_	12	2692	_	Cytb	316	2	Met -> Thr	No
+15697	T	_	_	8	2696	_	Cytb	317	3	Phe -> Phe	Yes
+15703	A	2702	2	_	_	_	Cytb	319	3	Pro -> Pro	Yes
+15712	A	2703	1	_	_	_	Cytb	322	3	Gln -> Gln	Yes
+15719	T	_	_	3	2701	_	Cytb	325	1	Tyr -> His	No
+15721	T	_	_	3	2701	_	Cytb	325	3	Tyr -> Tyr	Yes
+15724	A	2692	12	_	_	_	Cytb	326	3	Trp -> Trp	Yes
+15731	G	2	2702	_	_	_	Cytb	329	1	Ala -> Thr	No
+15733	C	1	_	2703	_	_	Cytb	329	3	Ala -> Ala	Yes
+15734	G	7	2697	_	_	_	Cytb	330	1	Ala -> Thr	No
+15735	C	_	_	2701	3	_	Cytb	330	2	Ala -> Val	No
+15739	C	_	_	2703	1	_	Cytb	331	3	Asp -> Asp	Yes
+15746	A	2677	27	_	_	_	Cytb	334	1	Ile -> Val	No
+15748	T	_	_	3	2701	_	Cytb	334	3	Ile -> Ile	Yes
+15749	C	_	_	2703	1	_	Cytb	335	1	Leu -> Leu	Yes
+15752	A	2702	2	_	_	_	Cytb	336	1	Thr -> Ala	No
+15754	C	1	_	2698	5	_	Cytb	336	3	Thr -> Thr	Yes
+15757	A	2702	2	_	_	_	Cytb	337	3	Trp -> Trp	Yes
+15758	A	2675	29	_	_	_	Cytb	338	1	Ile -> Val	No
+15766	A	2697	7	_	_	_	Cytb	340	3	Gly -> Gly	Yes
+15769	A	2701	1	2	_	_	Cytb	341	3	Gln -> Gln	Yes
+15770	C	_	_	2702	2	_	Cytb	342	1	Pro -> Ser	No
+15773	G	5	2699	_	_	_	Cytb	343	1	Val -> Met	No
+15774	T	_	_	1	2703	_	Cytb	343	2	Val -> Ala	No
+15775	A	2701	3	_	_	_	Cytb	343	3	Val -> Val	Yes
+15776	A	2703	1	_	_	_	Cytb	344	1	Ser -> Gly	No
+15777	G	4	2698	2	_	_	Cytb	344	2	Ser -> Asn	No
+15780	A	2703	_	_	1	_	Cytb	345	2	Tyr -> Phe	No
+15784	T	_	_	85	2619	_	Cytb	346	3	Pro -> Pro	Yes
+15787	T	_	_	2	2702	_	Cytb	347	3	Phe -> Phe	Yes
+15789	C	_	_	2701	3	_	Cytb	348	2	Thr -> Ile	No
+15790	C	_	_	2698	6	_	Cytb	348	3	Thr -> Thr	Yes
+15791	A	2702	2	_	_	_	Cytb	349	1	Ile -> Val	No
+15792	T	_	_	1	2703	_	Cytb	349	2	Ile -> Thr	No
+15793	C	_	_	2702	2	_	Cytb	349	3	Ile -> Ile	Yes
+15799	A	2699	5	_	_	_	Cytb	351	3	Gly -> Gly	Yes
+15803	G	4	2700	_	_	_	Cytb	353	1	Val -> Met	No
+15805	A	2699	5	_	_	_	Cytb	353	3	Val -> Val	Yes
+15806	G	2	2702	_	_	_	Cytb	354	1	Ala -> Thr	No
+15808	A	2702	2	_	_	_	Cytb	354	3	Ala -> Ala	Yes
+15812	G	11	2693	_	_	_	Cytb	356	1	Val -> Met	No
+15813	T	_	_	1	2703	_	Cytb	356	2	Val -> Ala	No
+15817	A	2701	3	_	_	_	Cytb	357	3	Leu -> Leu	Yes
+15824	A	2687	17	_	_	_	Cytb	360	1	Thr -> Ala	No
+15825	C	_	_	2703	1	_	Cytb	360	2	Thr -> Met	No
+15833	C	_	_	2682	22	_	Cytb	363	1	Leu -> Leu	Yes
+15848	A	2702	2	_	_	_	Cytb	368	1	Thr -> Ala	No
+15849	C	_	_	2696	8	_	Cytb	368	2	Thr -> Ile	No
+15850	T	_	2	16	2686	_	Cytb	368	3	Thr -> Thr	Yes
+15851	A	2676	28	_	_	_	Cytb	369	1	Ile -> Val	No
+15852	T	_	_	6	2698	_	Cytb	369	2	Ile -> Thr	No
+15857	C	_	_	2703	1	_	Cytb	371	1	Leu -> Leu	Yes
+15860	A	2681	23	_	_	_	Cytb	372	1	Ile -> Val	No
+15862	T	_	_	3	2701	_	Cytb	372	3	Ile -> Ile	Yes
+15865	A	2703	1	_	_	_	Cytb	373	3	Glu -> Glu	Yes
+15868	C	_	_	2703	1	_	Cytb	374	3	Asn -> Asn	Yes
+15872	A	2703	1	_	_	_	Cytb	376	1	Met -> Val	No
+15874	A	2681	23	_	_	_	Cytb	376	3	Met -> Met	Yes
+15880	A	2702	2	_	_	_	Cytb	378	3	Lys -> Lys	Yes
+15883	G	9	2695	_	_	_	Cytb	379	3	Trp -> Trp	Yes
+15884	G	30	2620	54	_	_	Cytb	380	1	Ala -> Thr	No
+15885	C	_	_	2699	5	_	Cytb	380	2	Ala -> Val	No
+15886	C	_	_	2700	4	_	Cytb	380	3	Ala -> Ala	Yes
+15889	T	_	_	3	2701	_	tRNA Thr	_	_	_	_
+15892	T	_	_	1	2703	_	tRNA Thr	_	_	_	_
+15894	G	1	2703	_	_	_	tRNA Thr	_	_	_	_
+15900	T	_	_	6	2698	_	tRNA Thr	_	_	_	_
+15902	A	2703	1	_	_	_	tRNA Thr	_	_	_	_
+15904	C	1	_	2627	76	_	tRNA Thr	_	_	_	_
+15905	T	_	_	2	2702	_	tRNA Thr	_	_	_	_
+15907	A	2684	20	_	_	_	tRNA Thr	_	_	_	_
+15908	T	_	_	1	2703	_	tRNA Thr	_	_	_	_
+15909	A	2703	1	_	_	_	tRNA Thr	_	_	_	_
+15912	C	_	_	2703	1	_	tRNA Thr	_	_	_	_
+15914	A	2703	1	_	_	_	tRNA Thr	_	_	_	_
+15916	T	_	_	1	2703	_	tRNA Thr	_	_	_	_
+15924	A	2597	106	_	_	_	tRNA Thr	_	_	_	_
+15927	G	44	2660	_	_	_	tRNA Thr	_	_	_	_
+15928	G	132	2572	_	_	_	tRNA Thr	_	_	_	_
+15929	A	2703	1	_	_	_	tRNA Thr	_	_	_	_
+15930	G	37	2667	_	_	_	tRNA Thr	_	_	_	_
+15932	T	_	_	1	2703	_	tRNA Thr	_	_	_	_
+15935	A	2703	1	_	_	_	tRNA Thr	_	_	_	_
+15936	A	2702	1	_	1	_	tRNA Thr	_	_	_	_
+15937	A	2701	_	_	3	_	tRNA Thr	_	_	_	_
+15938	C	_	_	2703	1	_	tRNA Thr	_	_	_	_
+15939	C	_	_	2695	9	_	tRNA Thr	_	_	_	_
+15940	T	_	_	3	2681	20	tRNA Thr	_	_	_	_
+15941	T	_	_	17	2687	_	tRNA Thr	_	_	_	_
+15942	T	_	_	7	2697	_	tRNA Thr	_	_	_	_
+15946	C	_	_	2698	6	_	tRNA Thr	_	_	_	_
+15951	A	2682	22	_	_	_	tRNA Thr	_	_	_	_
+15954	A	2678	16	10	_	_	Non-coding 10	_	_	_	_
+15955	A	2703	1	_	_	_	tRNA Pro	_	_	_	_
+15965	A	2703	1	_	_	_	tRNA Pro	_	_	_	_
+15968	T	_	_	4	2700	_	tRNA Pro	_	_	_	_
+15970	T	_	_	1	2703	_	tRNA Pro	_	_	_	_
+15972	T	_	_	1	2703	_	tRNA Pro	_	_	_	_
+15974	A	2703	1	_	_	_	tRNA Pro	_	_	_	_
+15978	C	_	_	2701	3	_	tRNA Pro	_	_	_	_
+15983	T	_	_	1	2703	_	tRNA Pro	_	_	_	_
+16000	G	3	2700	_	1	_	tRNA Pro	_	_	_	_
+16017	T	_	1	4	2699	_	tRNA Pro	_	_	_	_
+16037	A	1866	1	_	_	_	D-loop	_	_	_	_
+16038	A	1866	1	_	_	_	D-loop	_	_	_	_
+16039	G	1	1866	_	_	_	D-loop	_	_	_	_
+16048	G	3	1864	_	_	_	D-loop	_	_	_	_
+16051	A	1829	38	_	_	_	D-loop	_	_	_	_
+16066	A	1860	7	_	_	_	D-loop	_	_	_	_
+16067	C	_	_	1864	3	_	D-loop	_	_	_	_
+16069	C	_	_	1793	73	_	D-loop	_	_	_	_
+16070	A	1866	1	_	_	_	D-loop	_	_	_	_
+16071	C	_	_	1865	2	_	D-loop	_	_	_	_
+16075	T	_	_	6	1861	_	D-loop	_	_	_	_
+16077	A	1865	_	_	2	_	D-loop	_	_	_	_
+16082	C	_	_	1866	1	_	D-loop	_	_	_	_
+16086	T	_	_	26	1841	_	D-loop	_	_	_	_
+16092	T	_	_	22	1845	_	D-loop	_	_	_	_
+16093	T	_	_	98	1768	_	D-loop	_	_	_	_
+16094	T	_	_	2	1865	_	D-loop	_	_	_	_
+16102	T	_	_	3	1864	_	D-loop	_	_	_	_
+16108	C	_	_	1860	7	_	D-loop	_	_	_	_
+16109	A	1866	_	1	_	_	D-loop	_	_	_	_
+16111	C	1	_	1830	36	_	D-loop	_	_	_	_
+16114	C	8	_	1858	1	_	D-loop	_	_	_	_
+16119	A	1866	1	_	_	_	D-loop	_	_	_	_
+16124	T	_	_	9	1858	_	D-loop	_	_	_	_
+16126	T	_	_	166	1701	_	D-loop	_	_	_	_
+16129	G	304	1554	9	_	_	D-loop	_	_	_	_
+16131	T	_	_	1	1866	_	D-loop	_	_	_	_
+16134	C	_	_	1863	4	_	D-loop	_	_	_	_
+16136	T	_	_	24	1843	_	D-loop	_	_	_	_
+16137	A	1865	2	_	_	_	D-loop	_	_	_	_
+16140	T	_	_	51	1816	_	D-loop	_	_	_	_
+16144	T	_	_	24	1843	_	D-loop	_	_	_	_
+16145	G	50	1817	_	_	_	D-loop	_	_	_	_
+16146	A	1861	6	_	_	_	D-loop	_	_	_	_
+16147	C	_	_	1862	5	_	D-loop	_	_	_	_
+16148	C	_	_	1837	30	_	D-loop	_	_	_	_
+16150	C	_	_	1863	4	_	D-loop	_	_	_	_
+16153	G	11	1856	_	_	_	D-loop	_	_	_	_
+16154	T	_	_	8	1859	_	D-loop	_	_	_	_
+16155	A	1866	1	_	_	_	D-loop	_	_	_	_
+16156	G	1	1866	_	_	_	D-loop	_	_	_	_
+16157	T	_	_	1	1866	_	D-loop	_	_	_	_
+16158	A	1866	1	_	_	_	D-loop	_	_	_	_
+16160	A	1865	2	_	_	_	D-loop	_	_	_	_
+16162	A	1834	31	_	_	2	D-loop	_	_	_	_
+16163	A	1847	20	_	_	_	D-loop	_	_	_	_
+16164	A	1855	11	_	1	_	D-loop	_	_	_	_
+16166	A	1858	3	6	_	_	D-loop	_	_	_	_
+16167	C	_	_	1857	10	_	D-loop	_	_	_	_
+16168	C	_	_	1854	13	_	D-loop	_	_	_	_
+16169	C	8	_	1849	10	_	D-loop	_	_	_	_
+16170	A	1864	2	1	_	_	D-loop	_	_	_	_
+16171	A	1865	2	_	_	_	D-loop	_	_	_	_
+16172	T	_	_	150	1717	_	D-loop	_	_	_	_
+16173	C	_	_	1863	4	_	D-loop	_	_	_	_
+16174	C	_	_	1858	9	_	D-loop	_	_	_	_
+16175	A	1866	1	_	_	_	D-loop	_	_	_	_
+16176	C	2	2	1845	18	_	D-loop	_	_	_	_
+16178	T	_	_	2	1865	_	D-loop	_	_	_	_
+16179	C	_	_	1862	5	_	D-loop	_	_	_	_
+16180	A	1861	2	_	_	4	D-loop	_	_	_	_
+16181	A	1865	1	_	_	1	D-loop	_	_	_	_
+16182	A	1706	1	117	2	41	D-loop	_	_	_	_
+16183	A	1541	12	237	_	77	D-loop	_	_	_	_
+16184	C	2	_	1841	19	5	D-loop	_	_	_	_
+16185	C	_	_	1838	29	_	D-loop	_	_	_	_
+16186	C	_	_	1842	25	_	D-loop	_	_	_	_
+16187	C	_	_	1797	70	_	D-loop	_	_	_	_
+16188	C	2	3	1849	13	_	D-loop	_	_	_	_
+16189	T	_	_	522	1345	_	D-loop	_	_	_	_
+16192	C	_	_	1808	59	_	D-loop	_	_	_	_
+16193	C	_	_	1854	13	_	D-loop	_	_	_	_
+16194	A	1847	11	9	_	_	D-loop	_	_	_	_
+16195	T	_	_	19	1848	_	D-loop	_	_	_	_
+16201	C	_	_	1866	1	_	D-loop	_	_	_	_
+16203	A	1860	7	_	_	_	D-loop	_	_	_	_
+16206	A	1864	_	3	_	_	D-loop	_	_	_	_
+16207	A	1863	4	_	_	_	D-loop	_	_	_	_
+16209	T	_	_	78	1789	_	D-loop	_	_	_	_
+16210	A	1866	1	_	_	_	D-loop	_	_	_	_
+16212	A	1864	3	_	_	_	D-loop	_	_	_	_
+16213	G	15	1852	_	_	_	D-loop	_	_	_	_
+16214	C	_	_	1857	10	_	D-loop	_	_	_	_
+16215	A	1865	1	_	1	_	D-loop	_	_	_	_
+16216	A	1864	2	1	_	_	D-loop	_	_	_	_
+16217	T	_	_	103	1764	_	D-loop	_	_	_	_
+16218	C	_	_	1858	9	_	D-loop	_	_	_	_
+16219	A	1829	38	_	_	_	D-loop	_	_	_	_
+16220	A	1866	1	_	_	_	D-loop	_	_	_	_
+16221	C	1	_	1865	1	_	D-loop	_	_	_	_
+16222	C	_	_	1852	15	_	D-loop	_	_	_	_
+16223	C	_	_	992	875	_	D-loop	_	_	_	_
+16224	T	_	_	107	1760	_	D-loop	_	_	_	_
+16227	A	1842	25	_	_	_	D-loop	_	_	_	_
+16229	T	_	_	2	1865	_	D-loop	_	_	_	_
+16230	A	1854	13	_	_	_	D-loop	_	_	_	_
+16231	T	_	_	11	1856	_	D-loop	_	_	_	_
+16232	C	19	_	1846	2	_	D-loop	_	_	_	_
+16233	A	1865	2	_	_	_	D-loop	_	_	_	_
+16234	C	_	_	1800	67	_	D-loop	_	_	_	_
+16235	A	1846	21	_	_	_	D-loop	_	_	_	_
+16239	C	_	1	1855	11	_	D-loop	_	_	_	_
+16240	A	1860	6	1	_	_	D-loop	_	_	_	_
+16241	A	1849	17	_	1	_	D-loop	_	_	_	_
+16242	C	1	_	1859	7	_	D-loop	_	_	_	_
+16243	T	_	_	35	1832	_	D-loop	_	_	_	_
+16244	G	6	1861	_	_	_	D-loop	_	_	_	_
+16245	C	_	_	1839	28	_	D-loop	_	_	_	_
+16247	A	1854	13	_	_	_	D-loop	_	_	_	_
+16248	C	_	_	1865	2	_	D-loop	_	_	_	_
+16249	T	_	_	87	1780	_	D-loop	_	_	_	_
+16250	C	_	_	1864	3	_	D-loop	_	_	_	_
+16251	C	_	_	1866	1	_	D-loop	_	_	_	_
+16252	A	1866	_	1	_	_	D-loop	_	_	_	_
+16254	A	1864	2	1	_	_	D-loop	_	_	_	_
+16255	G	8	1859	_	_	_	D-loop	_	_	_	_
+16256	C	_	_	1838	29	_	D-loop	_	_	_	_
+16257	C	35	_	1828	4	_	D-loop	_	_	_	_
+16258	A	1864	1	1	1	_	D-loop	_	_	_	_
+16259	C	_	_	1862	5	_	D-loop	_	_	_	_
+16260	C	_	_	1829	37	_	D-loop	_	_	_	_
+16261	C	_	_	1756	111	_	D-loop	_	_	_	_
+16263	T	_	_	14	1853	_	D-loop	_	_	_	_
+16264	C	_	_	1863	4	_	D-loop	_	_	_	_
+16265	A	1842	7	16	2	_	D-loop	_	_	_	_
+16266	C	9	4	1820	34	_	D-loop	_	_	_	_
+16267	C	_	_	1866	1	_	D-loop	_	_	_	_
+16268	C	_	_	1862	5	_	D-loop	_	_	_	_
+16269	A	1855	12	_	_	_	D-loop	_	_	_	_
+16270	C	_	_	1802	65	_	D-loop	_	_	_	_
+16271	T	_	_	10	1857	_	D-loop	_	_	_	_
+16272	A	1865	2	_	_	_	D-loop	_	_	_	_
+16274	G	44	1823	_	_	_	D-loop	_	_	_	_
+16275	A	1866	1	_	_	_	D-loop	_	_	_	_
+16278	C	_	_	1724	143	_	D-loop	_	_	_	_
+16284	A	1847	20	_	_	_	D-loop	_	_	_	_
+16286	C	_	1	1860	6	_	D-loop	_	_	_	_
+16287	C	_	_	1843	24	_	D-loop	_	_	_	_
+16288	T	_	_	18	1849	_	D-loop	_	_	_	_
+16290	C	_	_	1799	68	_	D-loop	_	_	_	_
+16291	C	_	3	1816	48	_	D-loop	_	_	_	_
+16292	C	_	2	1801	64	_	D-loop	_	_	_	_
+16293	A	1848	17	2	_	_	D-loop	_	_	_	_
+16294	C	_	_	1760	107	_	D-loop	_	_	_	_
+16295	C	_	_	1856	11	_	D-loop	_	_	_	_
+16296	C	_	_	1823	44	_	D-loop	_	_	_	_
+16297	T	_	_	37	1830	_	D-loop	_	_	_	_
+16298	T	_	_	169	1698	_	D-loop	_	_	_	_
+16299	A	1857	10	_	_	_	D-loop	_	_	_	_
+16300	A	1861	6	_	_	_	D-loop	_	_	_	_
+16301	C	_	_	1860	7	_	D-loop	_	_	_	_
+16302	A	1864	3	_	_	_	D-loop	_	_	_	_
+16303	G	3	1864	_	_	_	D-loop	_	_	_	_
+16304	T	_	_	140	1727	_	D-loop	_	_	_	_
+16309	A	1837	30	_	_	_	D-loop	_	_	_	_
+16310	G	1	1866	_	_	_	D-loop	_	_	_	_
+16311	T	_	_	340	1526	_	D-loop	_	_	_	_
+16312	A	1866	1	_	_	_	D-loop	_	_	_	_
+16316	A	1853	14	_	_	_	D-loop	_	_	_	_
+16317	A	1861	5	_	1	_	D-loop	_	_	_	_
+16318	A	1846	1	2	18	_	D-loop	_	_	_	_
+16319	G	131	1736	_	_	_	D-loop	_	_	_	_
+16320	C	_	_	1841	26	_	D-loop	_	_	_	_
+16324	T	_	_	49	1818	_	D-loop	_	_	_	_
+16325	T	_	_	47	1820	_	D-loop	_	_	_	_
+16326	A	1865	2	_	_	_	D-loop	_	_	_	_
+16327	C	_	_	1843	24	_	D-loop	_	_	_	_
+16335	A	1861	6	_	_	_	D-loop	_	_	_	_
+16336	G	1	1866	_	_	_	D-loop	_	_	_	_
+16337	C	_	_	1865	2	_	D-loop	_	_	_	_
+16342	T	_	_	5	1862	_	D-loop	_	_	_	_
+16343	A	1852	14	1	_	_	D-loop	_	_	_	_
+16344	C	_	_	1842	25	_	D-loop	_	_	_	_
+16346	G	1	1866	_	_	_	D-loop	_	_	_	_
+16347	T	_	_	1	1866	_	D-loop	_	_	_	_
+16352	T	_	_	11	1856	_	D-loop	_	_	_	_
+16353	C	_	_	1864	3	_	D-loop	_	_	_	_
+16354	C	_	_	1862	5	_	D-loop	_	_	_	_
+16355	C	5	_	1848	14	_	D-loop	_	_	_	_
+16356	T	_	_	27	1840	_	D-loop	_	_	_	_
+16357	T	_	_	25	1842	_	D-loop	_	_	_	_
+16359	T	_	_	23	1844	_	D-loop	_	_	_	_
+16360	C	1	_	1853	13	_	D-loop	_	_	_	_
+16362	T	1	_	444	1422	_	D-loop	_	_	_	_
+16366	C	_	_	1863	4	_	D-loop	_	_	_	_
+16368	T	_	_	15	1852	_	D-loop	_	_	_	_
+16371	A	1866	1	_	_	_	D-loop	_	_	_	_
+16374	A	1866	_	1	_	_	D-loop	_	_	_	_
+16380	C	_	_	1866	1	_	D-loop	_	_	_	_
+16381	T	_	_	6	1861	_	D-loop	_	_	_	_
+16390	G	62	1805	_	_	_	D-loop	_	_	_	_
+16391	G	17	1850	_	_	_	D-loop	_	_	_	_
+16398	G	1	1866	_	_	_	D-loop	_	_	_	_
+16399	A	1828	38	_	_	_	D-loop	_	_	_	_
+16400	C	_	_	1864	3	_	D-loop	_	_	_	_
+16422	T	_	_	1	1866	_	D-loop	_	_	_	_
+16428	G	2	1865	_	_	_	D-loop	_	_	_	_
+16429	C	_	_	1866	1	_	D-loop	_	_	_	_
+16438	G	4	1863	_	_	_	D-loop	_	_	_	_
+16439	C	1	_	1866	_	_	D-loop	_	_	_	_
+16452	T	_	_	1	1866	_	D-loop	_	_	_	_
+16456	G	_	1866	1	_	_	D-loop	_	_	_	_
+16463	A	1852	15	_	_	_	D-loop	_	_	_	_
+16465	C	_	_	1863	4	_	D-loop	_	_	_	_
+16468	T	_	_	7	1860	_	D-loop	_	_	_	_
+16470	G	2	1865	_	_	_	D-loop	_	_	_	_
+16471	G	2	1865	_	_	_	D-loop	_	_	_	_
+16472	G	1	1866	_	_	_	D-loop	_	_	_	_
+16473	G	1	1866	_	_	_	D-loop	_	_	_	_
+16482	A	1864	3	_	_	_	D-loop	_	_	_	_
+16483	G	1	1866	_	_	_	D-loop	_	_	_	_
+16488	C	_	_	1866	1	_	D-loop	_	_	_	_
+16497	A	1831	36	_	_	_	D-loop	_	_	_	_
+16505	T	_	_	4	1863	_	D-loop	_	_	_	_
+16509	T	_	_	1	1866	_	D-loop	_	_	_	_
+16511	C	_	_	1866	1	_	D-loop	_	_	_	_
+16512	T	_	_	2	1865	_	D-loop	_	_	_	_
+16516	G	1	1866	_	_	_	D-loop	_	_	_	_
+16518	G	_	1866	_	1	_	D-loop	_	_	_	_
+16519	T	_	_	1115	752	_	D-loop	_	_	_	_
+16523	A	1865	2	_	_	_	D-loop	_	_	_	_
+16524	A	1853	14	_	_	_	D-loop	_	_	_	_
+16525	A	1866	1	_	_	_	D-loop	_	_	_	_
+16526	G	19	1848	_	_	_	D-loop	_	_	_	_
+16527	C	_	_	1858	9	_	D-loop	_	_	_	_
