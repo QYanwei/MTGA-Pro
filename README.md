@@ -8,7 +8,7 @@
 
  ### Auther: 
 
- ### Yanwei QI [qiyanwei@genomics.cn [FirstChoice] & qiyanweii@icloud.com]
+ ### Yanwei QI [qiyanwei@genomics.cn]
 
  ### Usage: 
 
