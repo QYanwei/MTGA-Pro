@@ -1,6 +1,6 @@
 # MTGA-Pro
  Mitochondrial Genome Analysis
- ### MTGA-Pro - MiTochondrial Genome Analysis Pro  (2016 Oct 15, compiled Thu 17:10:58 Aug 10 2017)
+ ### MTGA-Pro - MiTochondrial Genome Analysis Pro  (2017 Oct 15, compiled Thu 17:10:58 Aug 10 2017)
 
  ### Function: Variantion Calling & Haplopgroup Calling & Genome Assembly for BGISEQ500 Sequencing Data
      
