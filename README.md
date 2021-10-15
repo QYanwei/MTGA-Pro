@@ -1,4 +1,5 @@
-### **MTGA-Pro**
+### **MTGA-Pro** - MiTochondrial Genome Analysis Project
+---
 
 
 Desciption: 
@@ -8,7 +9,7 @@ The main function contain the rare heteroplasmy variantion calling, haplopgroup 
 
 Development history:
 ---
-MTGA-Pro - MiTochondrial Genome Analysis Pro (2017 Oct 15, compiled Thu 17:10:58 Aug 10 2017)
+Finished at 2017 Oct 15, compiled at Thu 17:10:58 Aug 10 2017
 
 Auther:
 ---
