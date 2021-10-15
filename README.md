@@ -11,6 +11,13 @@ Development history:
 ---
 Finished at 2017 Oct 15, compiled at Thu 17:10:58 Aug 10 2017
 
+Dependencies:
+---
+
++ Python: Version >2.7.0
++ Third-party software: SOAPnuke, bwa, samtools, Haplo, SOAPdenovoTrans, SamToFastq, bamtools, bcftools, Picard, 
+
+
 Auther:
 ---
 Yanwei QI [qiyanwei1@genomics.cn]
@@ -41,12 +48,6 @@ Python2.7 MTGA-Pro.py \
 --sample=CL100010855_L01_25 \
 --isfilter=0 --mapping=1 --iscircle=1,0 --isheter=0,1 --isassembly=0,45 --ishaplo=0,45
 ```
-
-Dependencies:
----
-
-+ Python: Version >2.7.0
-+ Third-party software: SOAPnuke, bwa, samtools, Haplo, SOAPdenovoTrans.
 
 License:
 ---
